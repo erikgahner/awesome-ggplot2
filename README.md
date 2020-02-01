@@ -12,8 +12,9 @@
 
 # R packages
 
-## Themes
+## Themes and aesthetics
 
+* {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 
 # Books
