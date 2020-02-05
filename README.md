@@ -16,15 +16,29 @@
 
 ## Geometrics
 
+* {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
+* {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
+* {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
+* {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
+* {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
+* {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
+* {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
+* {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
+* {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
+* {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
+* {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
+* {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 
 ## Themes and aesthetics
 
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
-* {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2 
+* {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
+* {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 
 ## Composition and scales
@@ -45,6 +59,7 @@
 
 * [Data Visualization: A practical introduction](http://socviz.co/)
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+* [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 # Book chapters
 
