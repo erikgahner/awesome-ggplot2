@@ -36,7 +36,10 @@
 
 ## Themes and aesthetics
 
+* {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
+* {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
+* {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
@@ -73,7 +76,15 @@
 
 # Tutorials
 
-* [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+* Beginner, introduction
+  * [Aesthetics, Geoms, Mappings, Scales, What?](https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/)
+
+* Theme customisation
+  * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
+  * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+
+* Statistics
+  * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
 
 # Miscellaneous
 
