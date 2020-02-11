@@ -4,6 +4,7 @@
 
 * [Official website](https://ggplot2.tidyverse.org/)
   * [Reference](https://ggplot2.tidyverse.org/reference/index.html)
+* [Cheat Sheet: Data Visualization with ggplot2](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 # Persons (+ twitter)
 
@@ -46,9 +47,13 @@
 
 ## Composition and scales
 
+* {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
+
+## Geographical maps
+* {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 
 ## Icons and images
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
@@ -57,6 +62,7 @@
 
 ## Data and models
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
+* {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
 # Books
 
@@ -66,6 +72,7 @@
 
 # Book chapters
 
+* [Cookbook for R: Graphs](http://www.cookbook-r.com/Graphs/)
 * [R for Data Science: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
 * [Quantitative Politics with R: Introduction to ggplot2](http://qpolr.com/dataviz.html)
 
@@ -77,15 +84,33 @@
 # Tutorials
 
 * Beginner, introduction
+  * [A Simple Introduction to the Graphing Philosophy of ggplot2](https://tomhopper.me/2014/03/28/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/)
   * [Aesthetics, Geoms, Mappings, Scales, What?](https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/)
+  * [An Introduction on How to Make Beautiful Charts With R and ggplot2](https://minimaxir.com/2015/02/ggplot-tutorial/)
+  * [ggplot2 Quickref](http://r-statistics.co/ggplot2-cheatsheet.html)
+  * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
 * Theme customisation
+  * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
+  * [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
   * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
   * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
+  * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
+
+* Geometrics
+  * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
+  * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
+  * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
+
+* Presentation
+  * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
+  * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
 
 * Statistics
   * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
 
 # Miscellaneous
 
+* [All hail ggplot2—The code powering all those excellent charts is 10 years old](https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/)
 * [Awesome R](https://awesome-r.com/)
+* [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)
