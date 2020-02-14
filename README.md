@@ -18,10 +18,10 @@
 ## Geometrics
 
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
-* {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
+* {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
@@ -45,15 +45,18 @@
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 
-## Composition and scales
+## Presentation, composition and scales
 
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
+* {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
+* {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
 
-## Geographical maps
+## Spatial
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
+* {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 
 ## Icons and images
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
@@ -89,6 +92,8 @@
   * [An Introduction on How to Make Beautiful Charts With R and ggplot2](https://minimaxir.com/2015/02/ggplot-tutorial/)
   * [ggplot2 Quickref](http://r-statistics.co/ggplot2-cheatsheet.html)
   * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+  * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+  * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
 * Theme customisation
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
