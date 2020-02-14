@@ -25,6 +25,7 @@
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
+* {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
@@ -70,6 +71,7 @@
 # Books
 
 * [Data Visualization: A practical introduction](http://socviz.co/)
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
@@ -84,6 +86,11 @@
 * edX
   * [Data Science: Visualization](https://www.edx.org/course/data-science-visualization)
 
+# Galleries
+
+* [ggplot2 extensions](https://www.ggplot2-exts.org/gallery/)
+* [The R Graph Gallery](https://www.r-graph-gallery.com/)
+
 # Tutorials
 
 * Beginner, introduction
@@ -94,6 +101,7 @@
   * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
   * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+  * [Statistical tools for high-throughput data analysis: ggplot2 - Essentials](http://www.sthda.com/english/wiki/ggplot2-essentials)
 
 * Theme customisation
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
