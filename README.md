@@ -48,6 +48,7 @@
 
 ## Presentation, composition and scales
 
+* {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
@@ -127,3 +128,4 @@
 * [All hail ggplot2—The code powering all those excellent charts is 10 years old](https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/)
 * [Awesome R](https://awesome-r.com/)
 * [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)
+* [Most upvoted ggplot2 questions on Stack Overflow](https://stackoverflow.com/questions/tagged/ggplot2?tab=Votes)
