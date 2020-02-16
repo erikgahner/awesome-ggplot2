@@ -38,13 +38,17 @@
 
 ## Themes and aesthetics
 
+* {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
+* {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
+* {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
+* {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 
 ## Presentation, composition and scales
 
@@ -80,6 +84,7 @@
 
 * [Cookbook for R: Graphs](http://www.cookbook-r.com/Graphs/)
 * [R for Data Science: Data visualisation](https://r4ds.had.co.nz/data-visualisation.html)
+* [Modern Statistics for Modern Biology: High Quality Graphics in R](https://web.stanford.edu/class/bios221/book/Chap-Graphics.html)
 * [Quantitative Politics with R: Introduction to ggplot2](http://qpolr.com/dataviz.html)
 
 # Online Courses
@@ -110,6 +115,7 @@
   * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
   * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
+  * [Data Viz with Python and R: ggplot2](https://datavizpyr.com/category/r/ggplot2/)
 
 * Geometrics
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
