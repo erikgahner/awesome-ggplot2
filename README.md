@@ -19,6 +19,8 @@
 
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
+* {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
+* {[ggcal](https://github.com/jayjacobs/ggcal)}: Generate simple calendar plots using ggplot2
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
@@ -34,6 +36,7 @@
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
+* {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 
@@ -43,6 +46,7 @@
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
+* {[gghighlight](https://github.com/yutannihilation/gghighlight)}: Highlight points and lines in ggplot2
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
@@ -63,6 +67,7 @@
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
+* {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
@@ -83,6 +88,7 @@
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
+* {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
 # Books
