@@ -140,6 +140,10 @@
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
+  * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
+
+* Spatial
+  * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 * Presentation
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
