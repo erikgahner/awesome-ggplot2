@@ -20,6 +20,7 @@
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
+* {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots 
 * {[ggcal](https://github.com/jayjacobs/ggcal)}: Generate simple calendar plots using ggplot2
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
@@ -146,6 +147,7 @@
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 * Presentation
+  * [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/)
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
 
