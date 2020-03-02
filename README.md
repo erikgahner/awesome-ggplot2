@@ -12,6 +12,11 @@
 * [Kieran Healy](https://kieranhealy.org/) ([@kjhealy](https://twitter.com/kjhealy/))
 * [Claus Wilke](https://serialmentor.com/) ([@ClausWilke](https://twitter.com/ClausWilke))
 * [Thomas Lin Pedersen](https://www.data-imaginist.com/) ([@thomasp85](https://twitter.com/thomasp85))
+* Winston Chang ([@winston_chang](https://twitter.com/winston_chang))
+* [Lionel Henry](https://github.com/lionel-) ([@_lionelhenry](https://twitter.com/_lionelhenry))
+* [Kara Woo](https://karawoo.com/) ([@kara_woo](https://twitter.com/kara_woo))
+* [Hiroaki Yutani](https://yutani.rbind.io/) ([@yutannihilat_en](https://twitter.com/yutannihilat_en))
+* [Dewey Dunnington](https://fishandwhistle.net/) ([@paleolimbot](https://twitter.com/paleolimbot))
 
 # R packages
 
