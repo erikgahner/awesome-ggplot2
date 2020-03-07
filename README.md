@@ -172,6 +172,7 @@
 
 # Miscellaneous
 
+* [A generated list of repos containing themes for ggplot2](https://github.com/jmcastagnetto/ggplot2_themes_in_github/)
 * [All hail ggplot2—The code powering all those excellent charts is 10 years old](https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/)
 * [Awesome R](https://awesome-r.com/)
 * [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)
