@@ -34,6 +34,7 @@
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
