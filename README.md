@@ -48,6 +48,7 @@
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
+* {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 
