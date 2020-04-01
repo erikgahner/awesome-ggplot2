@@ -94,10 +94,11 @@
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
 
-## Icons and images
+## Icons, patterns and images
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
+* {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 
 ## Data and models
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
