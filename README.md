@@ -56,6 +56,7 @@
 
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
+* {[ggCyberPunk](https://github.com/delabj/ggCyberPunk)}: Working on creating a similar cyberpunk geom for ggplot
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
 * {[gghighlight](https://github.com/yutannihilation/gghighlight)}: Highlight points and lines in ggplot2
