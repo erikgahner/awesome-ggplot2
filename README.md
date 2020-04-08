@@ -133,7 +133,7 @@
 * [ggplot2 extensions](https://www.ggplot2-exts.org/gallery/)
 * [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
-# Tutorials
+# Text tutorials
 
 * Beginner, introduction
   * [A Simple Introduction to the Graphing Philosophy of ggplot2](https://tomhopper.me/2014/03/28/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/)
@@ -173,6 +173,12 @@
 
 * Statistics
   * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
+
+# Video tutorials
+
+* Beginner/intermediate
+  * [ggplot2 workshop part 1](https://www.youtube.com/watch?v=h29g21z0a68)
+  * [ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY)
 
 # Miscellaneous
 
