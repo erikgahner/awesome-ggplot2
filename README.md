@@ -28,6 +28,7 @@
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggcal](https://github.com/jayjacobs/ggcal)}: Generate simple calendar plots using ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
+* {[ggcor](https://github.com/houyunhuang/ggcor)}: Extended tools for correlation analysis and visualization.
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
