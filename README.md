@@ -25,6 +25,7 @@
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
+* {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggcal](https://github.com/jayjacobs/ggcal)}: Generate simple calendar plots using ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
