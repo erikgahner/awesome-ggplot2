@@ -74,6 +74,7 @@
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
+* {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
 
