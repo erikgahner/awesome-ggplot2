@@ -85,6 +85,7 @@
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
+* {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
