@@ -135,7 +135,7 @@
 
 # Galleries
 
-* [ggplot2 extensions](https://www.ggplot2-exts.org/gallery/)
+* [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
 * [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
 # Text tutorials
