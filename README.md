@@ -32,6 +32,7 @@
 * {[ggcor](https://github.com/houyunhuang/ggcor)}: Extended tools for correlation analysis and visualization.
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
+* {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
