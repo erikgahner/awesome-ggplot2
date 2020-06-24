@@ -42,6 +42,7 @@
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
+* {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
