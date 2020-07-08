@@ -75,7 +75,7 @@
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
-* {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2' 
+* {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
@@ -144,6 +144,7 @@
 # Text tutorials
 
 * Beginner, introduction
+  * [a ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)
   * [A Simple Introduction to the Graphing Philosophy of ggplot2](https://tomhopper.me/2014/03/28/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/)
   * [Aesthetics, Geoms, Mappings, Scales, What?](https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/)
   * [An Introduction on How to Make Beautiful Charts With R and ggplot2](https://minimaxir.com/2015/02/ggplot-tutorial/)
