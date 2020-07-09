@@ -87,6 +87,7 @@
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
+* {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
