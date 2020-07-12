@@ -39,6 +39,7 @@
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
+* {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
@@ -84,6 +85,7 @@
 ## Presentation, composition and scales
 
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
+* {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
@@ -116,6 +118,7 @@
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
+* {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
 # Books
