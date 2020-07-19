@@ -98,6 +98,7 @@
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
+* {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
 
 ## Spatial
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
