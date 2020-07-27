@@ -50,6 +50,7 @@
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
+* {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
