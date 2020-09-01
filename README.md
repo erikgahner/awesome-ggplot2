@@ -131,6 +131,7 @@
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
+* {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
 # Books
@@ -183,6 +184,7 @@
 
 * Geometrics
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
+  * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
   * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
