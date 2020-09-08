@@ -23,6 +23,7 @@
 ## Geometrics
 
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
+* {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
