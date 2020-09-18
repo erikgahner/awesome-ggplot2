@@ -123,6 +123,7 @@
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 
 ## Data and models
+* {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
