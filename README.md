@@ -27,6 +27,7 @@
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
+* {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
@@ -45,6 +46,7 @@
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
+* {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
@@ -134,6 +136,7 @@
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
+* {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 
