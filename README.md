@@ -44,6 +44,7 @@
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
+* {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2 
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
@@ -131,6 +132,7 @@
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
+* {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
