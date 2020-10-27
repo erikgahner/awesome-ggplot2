@@ -102,6 +102,7 @@
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
+* {[ggfocus](https://github.com/Freguglia/ggfocus)}: A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
@@ -135,6 +136,7 @@
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
+* {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
