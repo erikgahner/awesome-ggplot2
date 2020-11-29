@@ -186,6 +186,7 @@
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
   * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
   * [Statistical tools for high-throughput data analysis: ggplot2 - Essentials](http://www.sthda.com/english/wiki/ggplot2-essentials)
+  * [Efficient and beautiful data synthesis: Taking your tidyverse skills to the next level](https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/)
 
 * Theme customisation
   * [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f)
