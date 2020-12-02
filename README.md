@@ -56,6 +56,7 @@
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
+* {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
