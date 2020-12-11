@@ -59,6 +59,7 @@
 * {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
@@ -116,6 +117,7 @@
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
+* {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
 
 ## Spatial
@@ -125,6 +127,7 @@
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
 * {[mapSpain](https://dieghernan.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
+* {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
 
