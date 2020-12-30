@@ -30,6 +30,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
+* {[ggambit](https://github.com/cj-holmes/ggambit)}: Visualise FEN chess positions with ggplot2
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
@@ -76,6 +77,7 @@
 ## Themes and aesthetics
 
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
 * {[ggCyberPunk](https://github.com/delabj/ggCyberPunk)}: Working on creating a similar cyberpunk geom for ggplot
@@ -128,6 +130,7 @@
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
+* {[mapDK](https://github.com/sebastianbarfort/mapDK)}: R package for making maps of Denmark
 * {[mapSpain](https://dieghernan.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
@@ -141,6 +144,7 @@
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 
 ## Data and models
+* {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
