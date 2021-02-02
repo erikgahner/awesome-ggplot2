@@ -247,6 +247,9 @@
   * [ggplot2 workshop part 1](https://www.youtube.com/watch?v=h29g21z0a68)
   * [ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY)
 
+* Customization
+  * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
+
 # Miscellaneous
 
 * [A generated list of repos containing themes for ggplot2](https://github.com/jmcastagnetto/ggplot2_themes_in_github/)
