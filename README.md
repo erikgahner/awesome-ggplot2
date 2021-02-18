@@ -90,8 +90,10 @@
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
+* {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
+* {[ggstar](https://github.com/xiangpin/ggstar/)}: Star layer for ggplot2
 * {[ggtech](https://github.com/ricardo-bion/ggtech)}: ggplot2 tech themes, scales, and geoms
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
 * {[ggtextures](https://github.com/clauswilke/ggtextures)}: Drawing textured rectangles and bars with ggplot
