@@ -43,6 +43,7 @@
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
+* {[gghilbertstrings](https://sumidu.github.io/gghilbertstrings/)}: Create Hilbert curves in ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
