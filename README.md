@@ -196,6 +196,7 @@
 
 * [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
 * [The R Graph Gallery](https://www.r-graph-gallery.com/)
+* [R CHARTS](https://r-charts.com/)
 
 # Text tutorials
 
