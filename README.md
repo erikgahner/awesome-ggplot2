@@ -43,6 +43,7 @@
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
+* {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
