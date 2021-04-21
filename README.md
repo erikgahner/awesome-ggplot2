@@ -61,6 +61,7 @@
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
 * {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
+* {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
