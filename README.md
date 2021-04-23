@@ -224,6 +224,7 @@
   * [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
   * [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/)
   * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
+  * [Making a ggplot theme](https://uncarvedblog.xyz/blog/making_a_ggplot_theme/)
   * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
   * [Data Viz with Python and R: ggplot2](https://datavizpyr.com/category/r/ggplot2/)
