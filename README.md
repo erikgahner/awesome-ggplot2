@@ -66,6 +66,7 @@
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
+* {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
