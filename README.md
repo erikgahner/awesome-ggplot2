@@ -55,6 +55,7 @@
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
+* {[ggpp](https://github.com/aphalo/ggpp)}: Grammar of graphics extensions to 'ggplot2'
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
