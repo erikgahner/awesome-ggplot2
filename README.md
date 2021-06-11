@@ -132,6 +132,7 @@
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
+* {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
