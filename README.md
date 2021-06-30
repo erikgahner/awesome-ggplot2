@@ -171,6 +171,7 @@
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
