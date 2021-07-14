@@ -272,6 +272,7 @@
 * Beginner/intermediate
   * [ggplot2 workshop part 1](https://www.youtube.com/watch?v=h29g21z0a68)
   * [ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY)
+  * [A short introduction to grammar of graphics (via ggplot2)](https://www.youtube.com/playlist?list=PLwJRxp3blEvaYRYWTqQ5ScIow8ZBm3Q92)
 
 * Customization
   * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
