@@ -52,6 +52,7 @@
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2 
+* {[ggstamp](https://evamaerey.github.io/ggstamp/):} stamp_* as an API for annotation layers 
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
