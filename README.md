@@ -52,7 +52,7 @@
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2 
-* {[ggstamp](https://evamaerey.github.io/ggstamp/):} stamp_* as an API for annotation layers 
+* {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers 
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
@@ -245,6 +245,7 @@
   * [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
 
 * Geometrics
+  * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
   * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
