@@ -27,6 +27,7 @@
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
+* {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
@@ -41,8 +42,10 @@
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
+* {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
+* {[gghdr](https://github.com/Sayani07/gghdr)}: Plots of highest density regions (HDR) for ggplot2
 * {[gghilbertstrings](https://sumidu.github.io/gghilbertstrings/)}: Create Hilbert curves in ggplot2
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
@@ -53,6 +56,7 @@
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2 
 * {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers 
+* {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
@@ -67,6 +71,7 @@
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
