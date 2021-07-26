@@ -51,6 +51,7 @@
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
+* {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
