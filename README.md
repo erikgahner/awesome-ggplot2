@@ -64,6 +64,7 @@
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
 * {[ggpp](https://github.com/aphalo/ggpp)}: Grammar of graphics extensions to 'ggplot2'
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
+* {[ggqr](https://github.com/coolbutuseless/ggqr)}: ggplot2 geom for QR codes
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
