@@ -89,6 +89,7 @@
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
 * {[ggxmean](https://github.com/EvaMaeRey/ggxmean)}: Put a vertical line at the mean of x w/ geom_xmean() and do other stuff
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
+* {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
