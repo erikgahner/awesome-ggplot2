@@ -132,6 +132,7 @@
 ## Presentation, composition and scales
 
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
+* {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2 
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
