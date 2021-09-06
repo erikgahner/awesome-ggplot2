@@ -113,6 +113,7 @@
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
+* {[ggseg](https://ggseg.github.io/ggseg/)}: Plotting tool for brain atlases, in ggplot
 * {[ggstar](https://github.com/xiangpin/ggstar/)}: Star layer for ggplot2
 * {[ggtech](https://github.com/ricardo-bion/ggtech)}: ggplot2 tech themes, scales, and geoms
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
