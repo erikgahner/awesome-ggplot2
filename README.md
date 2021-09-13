@@ -123,6 +123,7 @@
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
+* {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
