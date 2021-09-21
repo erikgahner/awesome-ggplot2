@@ -48,6 +48,7 @@
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
 * {[gghdr](https://github.com/Sayani07/gghdr)}: Plots of highest density regions (HDR) for ggplot2
 * {[gghilbertstrings](https://sumidu.github.io/gghilbertstrings/)}: Create Hilbert curves in ggplot2
+* {[ggHoriPlot](https://rivasiker.github.io/ggHoriPlot/)}: build horizon plots in ggplot2
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
