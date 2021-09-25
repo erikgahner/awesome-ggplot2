@@ -273,6 +273,9 @@
   * [geom_paired_raincloud(): A {ggplot2} geom for visualizing change in distribution between two conditions](https://yjunechoe.github.io/posts/2020-07-13-geom-paired-raincloud/)
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
 
+* Regression models
+  * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
+
 * Spatial
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
   * [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/)
