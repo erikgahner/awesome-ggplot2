@@ -165,10 +165,10 @@
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
-* {[mapDK](https://github.com/sebastianbarfort/mapDK)}: R package for making maps of Denmark
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
+* {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
