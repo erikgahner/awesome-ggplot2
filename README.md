@@ -302,6 +302,9 @@
 * Customization
   * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
 
+* Packages
+  * [esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
+
 # Miscellaneous
 
 * [A generated list of repos containing themes for ggplot2](https://github.com/jmcastagnetto/ggplot2_themes_in_github/)
