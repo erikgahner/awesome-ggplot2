@@ -99,6 +99,7 @@
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
+* {[WVPlots](https://winvector.github.io/WVPlots/)}: Pre-packaged plots in R
 
 ## Themes and aesthetics
 
