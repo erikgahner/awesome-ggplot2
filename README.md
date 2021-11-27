@@ -112,10 +112,9 @@
 * {[ggedit](https://github.com/yonicd/ggedit)}: Interactively edit ggplot layer aesthetics and theme definitions
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
 * {[ggfx](https://github.com/thomasp85/ggfx)}: ggfx is a (currently experimantal) package that allows the use of various filters and shaders on ggplot2 layers
-* {[gghighlight](https://github.com/yutannihilation/gghighlight)}: Highlight points and lines in ggplot2
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
-* {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}
+* {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph 
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
