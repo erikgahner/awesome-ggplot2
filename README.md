@@ -83,6 +83,7 @@
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
+* {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
