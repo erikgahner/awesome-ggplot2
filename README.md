@@ -168,6 +168,7 @@
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
 
 ## Spatial
+* {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
