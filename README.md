@@ -174,6 +174,7 @@
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
+* {[layer](https://github.com/marcosci/layer)}: Create stacked tilted maps
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
