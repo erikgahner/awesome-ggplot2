@@ -41,6 +41,7 @@
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggcor](https://github.com/houyunhuang/ggcor)}: Extended tools for correlation analysis and visualization.
+* {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
