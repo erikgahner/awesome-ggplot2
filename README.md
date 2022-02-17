@@ -215,6 +215,7 @@
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
 * {[ppsr](https://github.com/paulvanderlaken/ppsr)}: R implementation of Predictive Power Score
+* {[SBC](https://hyunjimoon.github.io/SBC/index.html)}: Simulation-based Calibration
 * {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
