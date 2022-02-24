@@ -40,7 +40,7 @@
 * {[ggborderline](https://wurli.github.io/ggborderline)}: Provides a set of geoms to make line plots a little bit nicer
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
-* {[ggcor](https://github.com/houyunhuang/ggcor)}: Extended tools for correlation analysis and visualization.
+* {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
