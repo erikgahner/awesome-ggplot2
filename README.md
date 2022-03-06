@@ -99,6 +99,7 @@
 * {[ggxmean](https://github.com/EvaMaeRey/ggxmean)}: Put a vertical line at the mean of x w/ geom_xmean() and do other stuff
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
+* {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
