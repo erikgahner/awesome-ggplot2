@@ -215,6 +215,7 @@
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
 * {[mlr3viz](https://mlr3viz.mlr-org.com/)}: Visualizations for mlr3
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
+* {[performance](https://easystats.github.io/performance/)}: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
 * {[ppsr](https://github.com/paulvanderlaken/ppsr)}: R implementation of Predictive Power Score
 * {[SBC](https://hyunjimoon.github.io/SBC/index.html)}: Simulation-based Calibration
