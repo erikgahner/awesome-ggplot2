@@ -61,6 +61,7 @@
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
+* {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
@@ -203,6 +204,7 @@
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
+* {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
