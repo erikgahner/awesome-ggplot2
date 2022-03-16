@@ -28,7 +28,6 @@
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
-* {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[geomtextpath](https://allancameron.github.io/geomtextpath/)}: Create curved text paths in ggplot2
 * {[ggalignment](https://github.com/aftonsteps/ggalignment)}: R package for creating D&D alignment charts
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
@@ -172,6 +171,11 @@
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
 * {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
+
+## Network
+* {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
+* {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
+* {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
 
 ## Spatial
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
