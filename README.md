@@ -205,6 +205,7 @@
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
+* {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
