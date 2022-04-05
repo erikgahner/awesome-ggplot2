@@ -102,6 +102,7 @@
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
+* {[simplevis](https://statisticsnz.github.io/simplevis/)}: Simple 'ggplot2' and 'leaflet' Visualisation with Less Brainpower
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
