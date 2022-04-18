@@ -39,6 +39,7 @@
 * {[ggborderline](https://wurli.github.io/ggborderline)}: Provides a set of geoms to make line plots a little bit nicer
 * {[ggbraid](https://nsgrantham.github.io/ggbraid/)}: Braid two lines and a ribbon in ggplot2
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
+* {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
