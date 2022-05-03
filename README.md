@@ -93,6 +93,7 @@
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
+* {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
