@@ -306,6 +306,7 @@
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
   * [geom_paired_raincloud(): A {ggplot2} geom for visualizing change in distribution between two conditions](https://yjunechoe.github.io/posts/2020-07-13-geom-paired-raincloud/)
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
+  * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/post/2022-05-01-use-grobs-to-get-rounded-corners/)
 
 * Regression models
   * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
