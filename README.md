@@ -35,6 +35,7 @@
 * {[ggambit](https://github.com/cj-holmes/ggambit)}: Visualise FEN chess positions with ggplot2
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
+* {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggborderline](https://wurli.github.io/ggborderline)}: Provides a set of geoms to make line plots a little bit nicer
 * {[ggbraid](https://nsgrantham.github.io/ggbraid/)}: Braid two lines and a ribbon in ggplot2
