@@ -101,6 +101,7 @@
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
 * {[ggxmean](https://github.com/EvaMaeRey/ggxmean)}: Put a vertical line at the mean of x w/ geom_xmean() and do other stuff
+* {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
