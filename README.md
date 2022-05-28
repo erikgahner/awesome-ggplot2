@@ -167,6 +167,7 @@
 * {[ggbreak](https://github.com/YuLab-SMU/ggbreak)}: Set Axis Break for 'ggplot2'
 * {[ggfocus](https://github.com/Freguglia/ggfocus)}: A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
+* {[ggformula](http://www.mosaic-web.org/ggformula/)}: Provides a formula interface to 'ggplot2' graphics
 * {[gggrid](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)}: Accessing 'grid' from 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
