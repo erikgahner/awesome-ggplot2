@@ -44,6 +44,7 @@
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
+* {[ggcorset](https://github.com/kbelisar/ggcorset)}: Introducing corset plots
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
