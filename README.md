@@ -321,6 +321,7 @@
 * Spatial
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
   * [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/)
+  * [Plot RGB satellite imagery in true-color with ggplot2 in R](https://medium.com/@tobias.stalder.geo/plot-rgb-satellite-imagery-in-true-color-with-ggplot2-in-r-10bdb0e4dd1f)
 
 * Presentation
   * [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
