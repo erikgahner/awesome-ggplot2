@@ -305,6 +305,7 @@
 
 * Geometrics
   * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
+  * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
   * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
@@ -328,6 +329,7 @@
   * [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/)
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
+  * [Reordering and facetting for ggplot2](https://juliasilge.com/blog/reorder-within/)
 
 * Statistics
   * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
