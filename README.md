@@ -166,6 +166,7 @@
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
 * {[ggbreak](https://github.com/YuLab-SMU/ggbreak)}: Set Axis Break for 'ggplot2'
+* {[ggcolormeter](https://github.com/yjunechoe/ggcolormeter)}: A ggplot2 color/fill legend guide extension in the style of a dashboard meter
 * {[ggfocus](https://github.com/Freguglia/ggfocus)}: A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[ggformula](http://www.mosaic-web.org/ggformula/)}: Provides a formula interface to 'ggplot2' graphics
