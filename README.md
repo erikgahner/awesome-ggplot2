@@ -297,6 +297,7 @@
   * [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
   * [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
   * [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/)
+  * [How to build a Tufte-style weather graph in R using ggplot2](https://johndjohnson.info/post/how-to-build-a-tufte-style-weather-graph-in-r-using-ggplot2/)
   * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
   * [Making a ggplot theme](https://uncarvedblog.xyz/blog/making_a_ggplot_theme/)
   * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
