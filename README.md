@@ -65,6 +65,7 @@
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data 
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
+* {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
