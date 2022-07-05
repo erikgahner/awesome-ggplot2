@@ -296,6 +296,7 @@
   * [A complete guide to scales](https://ggplot2tor.com/scales/)
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
   * [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
+  * [Custom colour palettes for {ggplot2}](https://www.jumpingrivers.com/blog/custom-colour-palettes-for-ggplot2/)
   * [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
   * [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/)
   * [How to build a Tufte-style weather graph in R using ggplot2](https://johndjohnson.info/post/how-to-build-a-tufte-style-weather-graph-in-r-using-ggplot2/)
