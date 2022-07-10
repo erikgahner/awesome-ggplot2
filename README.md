@@ -230,6 +230,7 @@
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
@@ -238,6 +239,7 @@
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[KMunicate](https://ellessenne.github.io/KMunicate-package/)}: Create KMunicate-Style Plots
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
+* {[metrica](https://adriancorrendo.github.io/metrica/)}: Prediction Performance Metrics
 * {[mlr3viz](https://mlr3viz.mlr-org.com/)}: Visualizations for mlr3
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
 * {[performance](https://easystats.github.io/performance/)}: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
