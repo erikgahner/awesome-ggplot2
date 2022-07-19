@@ -89,6 +89,7 @@
 * {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
+* {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
@@ -159,6 +160,7 @@
 
 ## Presentation, composition and scales
 
+* {[camcorder](https://github.com/thebioengineer/camcorder)}: Record plots generated during an R session and replay as a gif!
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2 
