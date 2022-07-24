@@ -293,11 +293,15 @@
 
 * Intermediate, general
   * [Data visualization using ggplot2 (intermediate)](https://rpubs.com/bpbond/727258)
+  * [Iterative visualizations with ggplot2: no more copy-pasting](https://www.elenadudukina.com/post/iterative-ggplotting/2021-06-20-iterative-plotting/)
 
 * Theme customisation
+  * [3 alternatives to a discrete color scale legend in ggplot2](https://www.nsgrantham.com/legend-alternatives-ggplot2)
   * [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f)
   * [10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()](https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/)
+  * [15 Tips to Customize lines in ggplot2 with element_line()](https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/)
   * [A complete guide to scales](https://ggplot2tor.com/scales/)
+  * [Alternatives to Simple Color Legends in ggplot2](https://meghan.rbind.io/blog/color-legend/)
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
   * [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
   * [Custom colour palettes for {ggplot2}](https://www.jumpingrivers.com/blog/custom-colour-palettes-for-ggplot2/)
@@ -327,6 +331,7 @@
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
   * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/post/2022-05-01-use-grobs-to-get-rounded-corners/)
   * [Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/)
+  * [Visualizing ordinal variables](https://octavio.me/posts/2021-07-23-ordinal-viz/)
 
 * Regression models
   * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
