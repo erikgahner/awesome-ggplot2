@@ -259,6 +259,7 @@
 * {[plotnine](https://github.com/has2k1/plotnine)}: Python implementation of ggplot2 using matplotlib backend
 * {[patchworklib](https://github.com/ponnhide/patchworklib)}: The Composer of plotnine ggplots
 * {[plotnine3d](https://github.com/krassowski/plotnine3d)}: 3D Graphics using the grammar of graphics
+* {[adjustText](https://github.com/Phlya/adjustText)}: ggrepel-inspired label placement for matplotlib (integrated with plotnine)
 
 # Books
 
