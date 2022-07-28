@@ -34,6 +34,7 @@
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
 * {[ggambit](https://github.com/cj-holmes/ggambit)}: Visualise FEN chess positions with ggplot2
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
+* {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Wrappers to Make Beautiful ggplot2 Visualisation Simpler
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
@@ -97,6 +98,7 @@
 * {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
+* {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
