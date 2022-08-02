@@ -299,6 +299,7 @@
   * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
   * [Statistical tools for high-throughput data analysis: ggplot2 - Essentials](http://www.sthda.com/english/wiki/ggplot2-essentials)
   * [Efficient and beautiful data synthesis: Taking your tidyverse skills to the next level](https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/)
+  * [Tips and tricks for ggplot2](https://erikgahner.dk/2022/tips-and-tricks-for-ggplot2/)
 
 * Intermediate, general
   * [Data visualization using ggplot2 (intermediate)](https://rpubs.com/bpbond/727258)
