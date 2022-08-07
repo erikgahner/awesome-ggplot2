@@ -196,6 +196,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
+* {[qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)}: Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 
 ## Spatial
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
