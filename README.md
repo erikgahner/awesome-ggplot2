@@ -239,6 +239,7 @@
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
+* {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
 * {[interactions](https://interactions.jacob-long.com/)}: A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[KMunicate](https://ellessenne.github.io/KMunicate-package/)}: Create KMunicate-Style Plots
