@@ -199,6 +199,7 @@
 * {[qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)}: Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 
 ## Spatial
+
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
@@ -216,12 +217,14 @@
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
 
 ## Icons, patterns and images
+
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 
 ## Data and models
+
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
@@ -373,6 +376,8 @@
 
 * Customization
   * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
+  * [ggplot2 Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
+  * [Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2](https://github.com/z3tt/beyond-bar-and-box-plots)
 
 * Packages
   * [esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
