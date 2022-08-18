@@ -298,7 +298,7 @@
   * [ggplot2 Quickref](http://r-statistics.co/ggplot2-cheatsheet.html)
   * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
-  * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+  * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
   * [Statistical tools for high-throughput data analysis: ggplot2 - Essentials](http://www.sthda.com/english/wiki/ggplot2-essentials)
   * [Efficient and beautiful data synthesis: Taking your tidyverse skills to the next level](https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/)
   * [Tips and tricks for ggplot2](https://erikgahner.dk/2022/tips-and-tricks-for-ggplot2/)
