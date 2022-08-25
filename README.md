@@ -343,6 +343,7 @@
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
   * [geom_paired_raincloud(): A {ggplot2} geom for visualizing change in distribution between two conditions](https://yjunechoe.github.io/posts/2020-07-13-geom-paired-raincloud/)
+  * [Pyramid Plots in ggplot2](https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/)
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
   * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/post/2022-05-01-use-grobs-to-get-rounded-corners/)
   * [Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/)
@@ -362,6 +363,7 @@
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
   * [Reordering and facetting for ggplot2](https://juliasilge.com/blog/reorder-within/)
+  * [Self-documenting plots in ggplot2](https://www.tjmahr.com/self-titled-ggplot2-plots/)
 
 * Statistics
   * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
