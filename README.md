@@ -4,6 +4,7 @@
 
 * [Official website](https://ggplot2.tidyverse.org/)
   * [Reference](https://ggplot2.tidyverse.org/reference/index.html)
+* [A List of ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
 * [Cheat Sheet: Data Visualization with ggplot2](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 # Persons (+ twitter)
@@ -232,10 +233,12 @@
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
+* {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
+* {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
