@@ -106,6 +106,7 @@
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
+* {[ggvoronoi](https://github.com/garretrc/ggvoronoi/)}: Easy Voronoi diagram heatmaps with ggplot2
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
@@ -261,6 +262,7 @@
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
+* {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
 
 # Python packages
 
