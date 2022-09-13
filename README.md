@@ -155,6 +155,7 @@
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
+* {[PrettyCols](https://nrennie.github.io/PrettyCols/)}: R package containing pretty colour palettes.
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
@@ -207,6 +208,7 @@
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
+* {[ggsflabel](https://yutannihilation.github.io/ggsflabel/)}: Labels for 'sf' with 'ggplot2'
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
 * {[layer](https://github.com/marcosci/layer)}: Create stacked tilted maps
@@ -224,6 +226,7 @@
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
+* {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 
 ## Data and models
