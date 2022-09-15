@@ -37,7 +37,7 @@
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
-* {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Wrappers to Make Beautiful ggplot2 Visualisation Simpler
+* {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Simplify ggplot2 visualisation
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggborderline](https://wurli.github.io/ggborderline)}: Provides a set of geoms to make line plots a little bit nicer
@@ -223,6 +223,7 @@
 
 ## Icons, patterns and images
 
+* {[cropcircles](https://github.com/doehm/cropcircles)}: Crop an image into a circle with a transparent background
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
