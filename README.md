@@ -235,6 +235,7 @@
 ## Data and models
 
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
+* {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
@@ -390,6 +391,7 @@
   * [A short introduction to grammar of graphics (via ggplot2)](https://www.youtube.com/playlist?list=PLwJRxp3blEvaYRYWTqQ5ScIow8ZBm3Q92)
 
 * Customization
+  * [How to fix the sizes in your ggplots](https://www.youtube.com/watch?v=7kWW8rkpfqc)
   * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
   * [ggplot2 Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
   * [Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2](https://github.com/z3tt/beyond-bar-and-box-plots)
