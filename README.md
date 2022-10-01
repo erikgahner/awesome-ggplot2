@@ -362,6 +362,7 @@
   * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/post/2022-05-01-use-grobs-to-get-rounded-corners/)
   * [Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/)
   * [Visualizing ordinal variables](https://octavio.me/posts/2021-07-23-ordinal-viz/)
+  * [Waffle charts with svg images](https://luisdva.github.io/rstats/wafflechart/)
 
 * Regression models
   * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
