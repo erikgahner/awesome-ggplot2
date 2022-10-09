@@ -153,6 +153,7 @@
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
+* {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
@@ -202,6 +203,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
+* {[graphlayouts](http://graphlayouts.schochastics.net/)}: New layout algorithms for network visualizations in R 
 * {[qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)}: Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 
 ## Spatial
