@@ -405,6 +405,16 @@
   * [esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
   * [How to Plot Statistical Group Comparisons in R: ggstatsplot](https://www.youtube.com/watch?v=Yhz0TKP_CUc)
 
+# TidyTuesday
+
+* [Official repository](https://github.com/rfordatascience/tidytuesday)
+
+* Popular submissions
+  * [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
+  * [Cédric Scherer](https://github.com/z3tt/TidyTuesday)
+  * [Christophe Nicault](https://github.com/cnicault/tidytuesday)
+  * [Nicola Rennie](https://github.com/nrennie/tidytuesday)
+
 # Miscellaneous
 
 * [A generated list of repos containing themes for ggplot2](https://github.com/jmcastagnetto/ggplot2_themes_in_github/)
