@@ -251,6 +251,7 @@
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
+* {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
