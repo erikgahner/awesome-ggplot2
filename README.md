@@ -336,6 +336,7 @@
   * [15 Tips to Customize lines in ggplot2 with element_line()](https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/)
   * [A complete guide to scales](https://ggplot2tor.com/scales/)
   * [Alternatives to Simple Color Legends in ggplot2](https://meghan.rbind.io/blog/color-legend/)
+  * [Bar plot checklist](https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html)
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
   * [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
   * [Custom colour palettes for {ggplot2}](https://www.jumpingrivers.com/blog/custom-colour-palettes-for-ggplot2/)
