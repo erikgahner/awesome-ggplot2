@@ -194,6 +194,7 @@
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
+* {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
