@@ -23,6 +23,7 @@
 
 ## Plot layers
 
+* {[biscale](https://chris-prener.github.io/biscale/)}: Bivariate Mapping with ggplot2
 * {[calendR](https://github.com/R-CoderDotCom/calendR)}: Fully customizable ready to print monthly and yearly calendars made with ggplot2
 * {[complex-upset](https://krassowski.github.io/complex-upset/)}: A library for creating complex UpSet plots with ggplot2 geoms
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
