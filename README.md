@@ -51,6 +51,7 @@
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
 * {[ggcorset](https://github.com/kbelisar/ggcorset)}: Introducing corset plots
+* {[ggpcp](https://cran.r-project.org/web/packages/ggpcp/index.html)}: Parallel Coordinate Plots in the 'ggplot2' Framework
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
