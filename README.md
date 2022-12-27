@@ -280,6 +280,7 @@
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
+* {[treeheatr](https://trangdata.github.io/treeheatr/)}: Heatmap-integrated Decision Tree Visualizations
 * {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
 
 # Python packages
