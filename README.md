@@ -361,6 +361,7 @@
 
 * Plot layers
   * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
+  * [Annotated Forest Plots using ggplot2](https://www.khstats.com/blog/forest-plots/)
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
@@ -387,6 +388,7 @@
 * Presentation
   * [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
   * [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/)
+  * [How to use natural and base 10 log scales in ggplot2](https://www.andrewheiss.com/blog/2022/12/08/log10-natural-log-scales-ggplot/)
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
   * [Reordering and facetting for ggplot2](https://juliasilge.com/blog/reorder-within/)
@@ -410,6 +412,7 @@
   * [Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2](https://github.com/z3tt/beyond-bar-and-box-plots)
 
 * Packages
+  * [Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R](https://www.youtube.com/watch?v=hRKx-obmFx8)
   * [esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
   * [How to Plot Statistical Group Comparisons in R: ggstatsplot](https://www.youtube.com/watch?v=Yhz0TKP_CUc)
 
