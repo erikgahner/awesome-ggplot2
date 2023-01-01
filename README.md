@@ -131,6 +131,7 @@
 ## Themes and aesthetics
 
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
