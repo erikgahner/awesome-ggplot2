@@ -422,6 +422,7 @@
 * [Official repository](https://github.com/rfordatascience/tidytuesday)
 
 * Popular submissions
+  * [Deepali Kank](https://github.com/deepdk/TidyTuesday-2022)
   * [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
   * [Cédric Scherer](https://github.com/z3tt/TidyTuesday)
   * [Christophe Nicault](https://github.com/cnicault/tidytuesday)
