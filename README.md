@@ -388,6 +388,7 @@
 
 * Presentation
   * [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
+  * [Combining plots in ggplot2](https://medium.com/@pawanjangra1198/combining-plots-in-ggplot2-9699acaa2942)
   * [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/)
   * [How to use natural and base 10 log scales in ggplot2](https://www.andrewheiss.com/blog/2022/12/08/log10-natural-log-scales-ggplot/)
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
