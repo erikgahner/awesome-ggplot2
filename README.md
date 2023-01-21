@@ -84,6 +84,7 @@
 * {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers 
 * {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
+* {[ggplate](https://jpquast.github.io/ggplate/)}: Create Layout Plots of Biological Culture Plates and Microplates
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
 * {[ggpp](https://github.com/aphalo/ggpp)}: Grammar of graphics extensions to 'ggplot2'
