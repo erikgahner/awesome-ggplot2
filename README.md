@@ -94,6 +94,7 @@
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
+* {[ggreverse](https://github.com/coolbutuseless/ggreverse)}: Reverse a ggplot object back into code
 * {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
@@ -113,6 +114,7 @@
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggvoronoi](https://github.com/garretrc/ggvoronoi/)}: Easy Voronoi diagram heatmaps with ggplot2
+* {[ggvwline](https://github.com/Hy4m/ggvwline)}: Layer functions for drawing variable-width curves
 * {[ggwaffle](https://liamgilbey.github.io/ggwaffle/)}: Creating waffle charts in a ggplot friendly way
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
@@ -336,6 +338,7 @@
 
 * Intermediate, general
   * [Data visualization using ggplot2 (intermediate)](https://rpubs.com/bpbond/727258)
+  * [ggplot tricks](https://github.com/teunbrand/ggplot_tricks)
   * [Iterative visualizations with ggplot2: no more copy-pasting](https://www.elenadudukina.com/post/iterative-ggplotting/2021-06-20-iterative-plotting/)
 
 * Theme customisation
@@ -369,6 +372,7 @@
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
+  * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
   * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
   * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
