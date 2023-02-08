@@ -389,6 +389,7 @@
   * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
 
 * Spatial
+  * [6 easy ways to map population density in R](https://milospopovic.net/6-ways-to-map-population-with-r.r/)
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
   * [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/)
   * [Plot RGB satellite imagery in true-color with ggplot2 in R](https://medium.com/@tobias.stalder.geo/plot-rgb-satellite-imagery-in-true-color-with-ggplot2-in-r-10bdb0e4dd1f)
