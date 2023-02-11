@@ -127,6 +127,7 @@
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
+* {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 * {[WVPlots](https://winvector.github.io/WVPlots/)}: Pre-packaged plots in R
