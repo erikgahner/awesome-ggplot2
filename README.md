@@ -91,6 +91,7 @@
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
 * {[ggqr](https://github.com/coolbutuseless/ggqr)}: ggplot2 geom for QR codes
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
+* {[ggrain](https://github.com/njudd/ggrain)}: Make beautiful Raincloud plots in R
 * {[ggraph](https://ggraph.data-imaginist.com/)}: A grammar of graphics for relational data
 * {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
