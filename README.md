@@ -5,7 +5,6 @@
 * [Official website](https://ggplot2.tidyverse.org/)
   * [Reference](https://ggplot2.tidyverse.org/reference/index.html)
 * [A List of ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
-* [Cheat Sheet: Data Visualization with ggplot2](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 # Persons (+ twitter)
 
@@ -407,6 +406,7 @@
   * [Layered Presentation of Graphics with +aes() in ggplot2](https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
   * [Reordering and facetting for ggplot2](https://juliasilge.com/blog/reorder-within/)
+  * [Save space in faceted plots](https://ikashnitsky.github.io/2023/shrink-space/index.html)
   * [Self-documenting plots in ggplot2](https://www.tjmahr.com/self-titled-ggplot2-plots/)
 
 * Statistics
