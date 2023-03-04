@@ -197,21 +197,25 @@
 * {[gggrid](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)}: Accessing 'grid' from 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
-* {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
-* {[ggtips](https://github.com/Roche/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
-* {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
 * {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
+
+## Interactive
+
+* {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
+* {[ggtips](https://github.com/Roche/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
+* {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
+
 
 ## Network
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
@@ -397,6 +401,9 @@
   * [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/)
   * [Plot RGB satellite imagery in true-color with ggplot2 in R](https://medium.com/@tobias.stalder.geo/plot-rgb-satellite-imagery-in-true-color-with-ggplot2-in-r-10bdb0e4dd1f)
   * [Visualising the 2022 Australian federal election with geom_sugarbag](https://www.mattcowgill.com/posts/election_sugarbag/election_sugarbag.html)
+
+* Interactive
+  * [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
 
 * Presentation
   * [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
