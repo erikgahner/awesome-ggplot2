@@ -276,6 +276,7 @@
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
+* {[ggseas](https://github.com/ellisp/ggseas)}: seasonal adjustment on the fly extension for ggplot2
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
 * {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
 * {[interactions](https://interactions.jacob-long.com/)}: A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions
