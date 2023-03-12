@@ -386,6 +386,7 @@
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
   * [geom_paired_raincloud(): A {ggplot2} geom for visualizing change in distribution between two conditions](https://yjunechoe.github.io/posts/2020-07-13-geom-paired-raincloud/)
+  * [Plot moving average in R using ggplot2](https://datacornering.com/plot-moving-average-in-r-using-ggplot2/)
   * [Pyramid Plots in ggplot2](https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/)
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
   * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/posts/ggplot2-tips/11_rounded_rectangles/11_rounded_rectangles.html)
