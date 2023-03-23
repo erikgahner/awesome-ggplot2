@@ -204,6 +204,7 @@
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
+* {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
