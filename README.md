@@ -139,6 +139,7 @@
 * {[colorBlindnessSafe](https://cran.r-project.org/web/packages/colorBlindness/)}: Color Set for Color Blindness
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
+* {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
