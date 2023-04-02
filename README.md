@@ -10,7 +10,7 @@
 
 * [Hadley Wickham](http://hadley.nz/) ([@hadleywickham](https://twitter.com/hadleywickham))
 * [Kieran Healy](https://kieranhealy.org/) ([@kjhealy](https://twitter.com/kjhealy/))
-* [Claus Wilke](https://serialmentor.com/) ([@ClausWilke](https://twitter.com/ClausWilke))
+* [Claus Wilke](https://clauswilke.com/) ([@ClausWilke](https://twitter.com/ClausWilke))
 * [Thomas Lin Pedersen](https://www.data-imaginist.com/) ([@thomasp85](https://twitter.com/thomasp85))
 * Winston Chang ([@winston_chang](https://twitter.com/winston_chang))
 * [Lionel Henry](https://github.com/lionel-) ([@_lionelhenry](https://twitter.com/_lionelhenry))
