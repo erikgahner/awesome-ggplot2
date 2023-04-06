@@ -397,6 +397,7 @@
   * [Waffle charts with svg images](https://luisdva.github.io/rstats/wafflechart/)
 
 * Regression models
+  * [Plot Prediction Interval in R using ggplot2](https://www.marsja.se/plot-prediction-interval-in-r-ggplot2/)
   * [Sexy up your logistic regression model with logit dotplots](https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/)
 
 * Spatial
