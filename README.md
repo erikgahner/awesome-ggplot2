@@ -375,6 +375,7 @@
   * [Quick and easy ways to deal with long labels in ggplot2](https://www.andrewheiss.com/blog/2022/06/23/long-labels-ggplot/)
   * [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
   * [Variations on a ggtheme: Applying a unifying aesthetic to your plots](https://www.cararthompson.com/talks/nhsr2022-ggplot-themes/)
+  * [What we learned from creating a custom graphics package in R using ggplot2](https://www.pewresearch.org/decoded/2022/10/04/what-we-learned-from-creating-a-custom-graphics-package-in-r-using-ggplot2/)
 
 * Plot layers
   * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
