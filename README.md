@@ -438,6 +438,7 @@
   * [How to make Boxplots in R More Informative (ggplot2 and Extension Packages)](https://www.youtube.com/watch?v=kQ8CtRV0kSQ)
   * [ggplot2 Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
   * [Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2](https://github.com/z3tt/beyond-bar-and-box-plots)
+  * [Perfect Bar Charts in 150 Seconds](https://www.youtube.com/watch?v=15ZlfVA2Cl8)
 
 * Packages
   * [Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R](https://www.youtube.com/watch?v=hRKx-obmFx8)
