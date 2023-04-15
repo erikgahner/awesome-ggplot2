@@ -37,6 +37,7 @@
 * {[ggambit](https://github.com/cj-holmes/ggambit)}: Visualise FEN chess positions with ggplot2
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
+* {[ggarrow](https://teunbrand.github.io/ggarrow/)}: ggplot2 extension: more options for drawing arrows 
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Simplify ggplot2 visualisation
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
@@ -83,11 +84,13 @@
 * {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers 
 * {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
+* {[ggperiodic](https://github.com/eliocamp/ggperiodic)}: Easy plotting of periodic data with ggplot2
 * {[ggplate](https://jpquast.github.io/ggplate/)}: Create Layout Plots of Biological Culture Plates and Microplates
 * {[ggpol](https://github.com/erocoar/ggpol)}: Parliament diagrams and more for ggplot2
 * {[ggpolypath](https://mdsumner.github.io/ggpolypath/)}: Polygons with holes for ggplot2
 * {[ggpp](https://github.com/aphalo/ggpp)}: Grammar of graphics extensions to 'ggplot2'
 * {[ggpubr](https://rpkgs.datanovia.com/ggpubr/)}: 'ggplot2' Based Publication Ready Plots
+* {[ggquiver](http://pkg.mitchelloharawild.com/ggquiver/)}: R package for quiver plots in 'ggplot2'
 * {[ggqr](https://github.com/coolbutuseless/ggqr)}: ggplot2 geom for QR codes
 * {[ggradar](https://github.com/ricardo-bion/ggradar)}: radar charts with ggplot2
 * {[ggrain](https://github.com/njudd/ggrain)}: Make beautiful Raincloud plots in R
@@ -101,6 +104,7 @@
 * {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggsolar](https://github.com/hrbrmstr/ggsolar)}: Generate "solar system" plots with {ggplot2}
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
@@ -140,6 +144,7 @@
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
+* {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
@@ -186,6 +191,7 @@
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2 
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
+* {[figpatch](https://bradyajohnston.github.io/figpatch/)}: Easily Arrange Images with Patchwork Alongside ggplot2 Figures
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
