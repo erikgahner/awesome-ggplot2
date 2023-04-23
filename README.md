@@ -144,6 +144,7 @@
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
+* {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
 * {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
