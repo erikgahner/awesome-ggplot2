@@ -208,6 +208,7 @@
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
+* {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
