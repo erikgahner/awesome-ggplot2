@@ -206,6 +206,7 @@
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
+* {[ggmagnify](https://github.com/hughjonesd/ggmagnify)}: Create a magnified inset of part of a ggplot object
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
 * {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
