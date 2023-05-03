@@ -464,6 +464,7 @@
   * [Cédric Scherer](https://github.com/z3tt/TidyTuesday)
   * [Christophe Nicault](https://github.com/cnicault/tidytuesday)
   * [Nicola Rennie](https://github.com/nrennie/tidytuesday)
+  * [Ryan Hart](https://github.com/curatedmess/TidyTuesday)
   * [Tanya Shapiro](https://github.com/tashapiro/TidyTuesday)
 
 # Miscellaneous
