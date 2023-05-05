@@ -48,6 +48,7 @@
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
+* {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
 * {[ggcorset](https://github.com/kbelisar/ggcorset)}: Introducing corset plots
@@ -73,6 +74,7 @@
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
+* {[ggplateplot](https://github.com/teunbrand/ggplateplot)}: make plots resembling cell culture microwell plates
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
@@ -123,6 +125,7 @@
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
 * {[ggxmean](https://github.com/EvaMaeRey/ggxmean)}: Put a vertical line at the mean of x w/ geom_xmean() and do other stuff
+* {[jjPlot](https://github.com/junjunlab/jjPlot)}: funny geom/stat functions for visualization
 * {[likert](https://jbryer.github.io/likert/)}: Analysis and Visualization Likert Items
 * {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
@@ -149,6 +152,7 @@
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
+* {[ggchromatic](https://teunbrand.github.io/ggchromatic/)}: Colour and fill scales for 'ggplot2' using colour spaces
 * {[ggCyberPunk](https://github.com/delabj/ggCyberPunk)}: Working on creating a similar cyberpunk geom for ggplot
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
 * {[ggedit](https://github.com/yonicd/ggedit)}: Interactively edit ggplot layer aesthetics and theme definitions
@@ -170,6 +174,7 @@
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
+* ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
@@ -190,6 +195,7 @@
 * {[camcorder](https://github.com/thebioengineer/camcorder)}: Record plots generated during an R session and replay as a gif!
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
+* {[egg](https://github.com/jwdink/egg)}: (fragile) extensions for ggplot2
 * {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2 
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
 * {[figpatch](https://bradyajohnston.github.io/figpatch/)}: Easily Arrange Images with Patchwork Alongside ggplot2 Figures
@@ -207,16 +213,19 @@
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[ggmagnify](https://github.com/hughjonesd/ggmagnify)}: Create a magnified inset of part of a ggplot object
+* {[ggNestedBarChart](https://github.com/davedgd/ggNestedBarChart)}: An easier way to create nested, grouped, heirarchical bar charts with ggplot2
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
 * {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
+* {[gguidance](https://github.com/teunbrand/gguidance)}: additional guides to the ggplot2 ecosystem
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
+* {[relayer](https://github.com/clauswilke/relayer)}: Rethinking layers in ggplot2
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
 * {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
