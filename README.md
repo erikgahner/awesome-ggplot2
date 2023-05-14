@@ -59,6 +59,7 @@
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
+* {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
 * {[gggenomes](https://thackl.github.io/gggenomes/)}: A grammar of graphics for comparative genomics
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
