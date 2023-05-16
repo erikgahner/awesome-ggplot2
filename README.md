@@ -103,6 +103,7 @@
 * {[ggreverse](https://github.com/coolbutuseless/ggreverse)}: Reverse a ggplot object back into code
 * {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
+* {[ggrounded](https://botan.github.io/ggrounded/)}: Rounded Bar Plots
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
