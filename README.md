@@ -119,6 +119,7 @@
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
+* {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggvoronoi](https://github.com/garretrc/ggvoronoi/)}: Easy Voronoi diagram heatmaps with ggplot2
