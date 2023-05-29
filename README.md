@@ -250,6 +250,7 @@
 
 ## Spatial
 
+* {[bertin](https://github.com/BjnNowak/bertin)}: Transform choropleth maps into valued points
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
