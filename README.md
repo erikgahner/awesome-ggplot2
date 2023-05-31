@@ -61,6 +61,7 @@
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
+* {[gggenes](https://github.com/wilkox/gggenes)}: Draw gene arrow maps in ggplot2
 * {[gggenomes](https://thackl.github.io/gggenomes/)}: A grammar of graphics for comparative genomics
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
