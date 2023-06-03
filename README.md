@@ -253,6 +253,7 @@
 
 * {[bertin](https://github.com/BjnNowak/bertin)}: Transform choropleth maps into valued points
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
+* {[ggautomap](https://cidm-ph.github.io/ggautomap/)}: Create ggplot maps from a column of place names
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
