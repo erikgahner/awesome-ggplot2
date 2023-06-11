@@ -306,6 +306,7 @@
 * {[ggseas](https://github.com/ellisp/ggseas)}: seasonal adjustment on the fly extension for ggplot2
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
 * {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
+* {[halfmoon](https://r-causal.github.io/halfmoon/)}: Techniques to Build Better Balance in Propensity Score Models
 * {[interactions](https://interactions.jacob-long.com/)}: A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[KMunicate](https://ellessenne.github.io/KMunicate-package/)}: Create KMunicate-Style Plots
