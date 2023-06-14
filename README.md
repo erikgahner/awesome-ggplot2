@@ -376,6 +376,7 @@
   * [Data visualization using ggplot2 (intermediate)](https://rpubs.com/bpbond/727258)
   * [ggplot tricks](https://github.com/teunbrand/ggplot_tricks)
   * [Iterative visualizations with ggplot2: no more copy-pasting](https://www.elenadudukina.com/post/iterative-ggplotting/2021-06-20-iterative-plotting/)
+  * [split polygon art](https://github.com/cj-holmes/split-polygon-art)
 
 * Theme customisation
   * [3 alternatives to a discrete color scale legend in ggplot2](https://www.nsgrantham.com/legend-alternatives-ggplot2)
