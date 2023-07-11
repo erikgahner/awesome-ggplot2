@@ -494,7 +494,6 @@
 
 * [A generated list of repos containing themes for ggplot2](https://github.com/jmcastagnetto/ggplot2_themes_in_github/)
 * [All hail ggplot2—The code powering all those excellent charts is 10 years old](https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/)
-* [Awesome R](https://awesome-r.com/)
 * [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz)
 * [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)
 * [Most upvoted ggplot2 questions on Stack Overflow](https://stackoverflow.com/questions/tagged/ggplot2?tab=Votes)
