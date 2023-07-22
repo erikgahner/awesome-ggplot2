@@ -38,6 +38,7 @@
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
 * {[ggarrow](https://teunbrand.github.io/ggarrow/)}: ggplot2 extension: more options for drawing arrows 
+* {[ggasym](https://jhrcook.github.io/ggasym/index.html)}: Plots three different color schemes on the top-left and bottom-right triangles and the diagonal of a symmetric matrix
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Simplify ggplot2 visualisation
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
@@ -77,6 +78,7 @@
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data 
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggnormalviolin](https://wjschne.github.io/ggnormalviolin/index.html)}: Makes normal violin plots with specified means and standard deviations
+* {[ggonion](https://i2z1.github.io/ggonion/)}: R package for drawing onion diagrams via ggplot2
 * {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggplateplot](https://github.com/teunbrand/ggplateplot)}: make plots resembling cell culture microwell plates
@@ -180,6 +182,7 @@
 * {[ggtextures](https://github.com/clauswilke/ggtextures)}: Drawing textured rectangles and bars with ggplot
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
+* {[ggx](https://github.com/brandmaier/ggx)}: Translate natural language commands into ggplot commands
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
@@ -260,6 +263,7 @@
 * {[ggautomap](https://cidm-ph.github.io/ggautomap/)}: Create ggplot maps from a column of place names
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
+* {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
 * {[ggsflabel](https://yutannihilation.github.io/ggsflabel/)}: Labels for 'sf' with 'ggplot2'
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
@@ -290,6 +294,7 @@
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
+* {[ggcoverage](https://showteeth.github.io/ggcoverage/)}: Visualize and annotate genomic coverage with ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
