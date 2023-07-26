@@ -402,6 +402,7 @@
   * [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/)
   * [How to build a Tufte-style weather graph in R using ggplot2](https://johndjohnson.info/post/how-to-build-a-tufte-style-weather-graph-in-r-using-ggplot2/)
   * [How to make any plot look better](https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/)
+  * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
   * [Making a ggplot theme](https://uncarvedblog.xyz/blog/making_a_ggplot_theme/)
   * [Creating corporate colour palettes for ggplot2](https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2)
   * [Label line ends in time series with ggplot2](https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2)
