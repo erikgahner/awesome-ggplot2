@@ -201,6 +201,7 @@
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
+* {[viridis](http://sjmgarnier.github.io/viridis)}: Colorblind-Friendly Color Maps for R
 
 ## Presentation, composition and scales
 
