@@ -394,6 +394,7 @@
   * [10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()](https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/)
   * [15 Tips to Customize lines in ggplot2 with element_line()](https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/)
   * [A complete guide to scales](https://ggplot2tor.com/scales/)
+  * [Adding social media icons to charts with {ggplot2}](https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/)
   * [Alternatives to Simple Color Legends in ggplot2](https://meghan.rbind.io/blog/color-legend/)
   * [Bar plot checklist](https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html)
   * [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
