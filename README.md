@@ -206,6 +206,7 @@
 
 ## Presentation, composition and scales
 
+* {[aplot](https://github.com/YuLab-SMU/aplot)}: Decorate a plot with associated information
 * {[camcorder](https://github.com/thebioengineer/camcorder)}: Record plots generated during an R session and replay as a gif!
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
