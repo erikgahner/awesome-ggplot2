@@ -49,6 +49,7 @@
 * {[ggbrick](https://github.com/doehm/ggbrick)}: A brick like geom for ggplot2 
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
+* {[ggcats](https://github.com/R-CoderDotCom/ggcats)}: The geom you always wished for adding cats to ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
