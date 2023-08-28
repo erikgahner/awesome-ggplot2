@@ -170,6 +170,7 @@
 * {[ggedit](https://github.com/yonicd/ggedit)}: Interactively edit ggplot layer aesthetics and theme definitions
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
 * {[ggfx](https://github.com/thomasp85/ggfx)}: ggfx is a (currently experimantal) package that allows the use of various filters and shaders on ggplot2 layers
+* {[gghdx](https://github.com/OCHA-DAP/gghdx)}: HDX Theme, Scales, and Other Conveniences for 'ggplot2'
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph 
