@@ -490,6 +490,7 @@
   * [ggplot2 Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R](https://github.com/z3tt/OutlierConf2021)
   * [Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2](https://github.com/z3tt/beyond-bar-and-box-plots)
   * [Perfect Bar Charts in 150 Seconds](https://www.youtube.com/watch?v=15ZlfVA2Cl8)
+  * [Recreate a real-world, complex dataviz with R & ggplot](https://www.youtube.com/watch?v=k34IjRXq1BI)
 
 * Packages
   * [Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R](https://www.youtube.com/watch?v=hRKx-obmFx8)
