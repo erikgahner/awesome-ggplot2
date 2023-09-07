@@ -206,6 +206,7 @@
 * {[theme_park](https://github.com/MatthewBJane/theme_park)}: Fun ggplot themes for popular culture
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[unhcrthemes](https://vidonne.github.io/unhcrthemes/)}: UNHCR branded theme for ggplot2 and data visualization colour palettes
+* {[unicol](https://hneth.github.io/unicol/)}: The colors of your university
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
 * {[viridis](http://sjmgarnier.github.io/viridis)}: Colorblind-Friendly Color Maps for R
 
