@@ -335,6 +335,7 @@
 * {[performance](https://easystats.github.io/performance/)}: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
 * {[ppsr](https://github.com/paulvanderlaken/ppsr)}: R implementation of Predictive Power Score
+* {[prettyglm](https://jared-fowler.github.io/prettyglm/)}: An R package to visualise glm coefficients
 * {[SBC](https://hyunjimoon.github.io/SBC/index.html)}: Simulation-based Calibration
 * {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
