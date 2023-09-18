@@ -178,6 +178,7 @@
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
+* {[ggRtsy](https://github.com/katelyndiaz/ggRtsy)}: Add Some Van Gogh Colors and Overlay Colors on Your 'ggplot()'
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
 * {[ggseg](https://ggseg.github.io/ggseg/)}: Plotting tool for brain atlases, in ggplot
 * {[ggstar](https://github.com/xiangpin/ggstar/)}: Star layer for ggplot2
