@@ -496,6 +496,7 @@
   * [Recreate a real-world, complex dataviz with R & ggplot](https://www.youtube.com/watch?v=k34IjRXq1BI)
 
 * Packages
+  * [Create Raincloud Plots with ggplot2 | A Step by Step Guide](https://www.youtube.com/watch?v=qeys6CQBzxo)
   * [Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R](https://www.youtube.com/watch?v=hRKx-obmFx8)
   * [esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
   * [How to Plot Statistical Group Comparisons in R: ggstatsplot](https://www.youtube.com/watch?v=Yhz0TKP_CUc)
