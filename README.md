@@ -431,6 +431,7 @@
   * [Annotated Forest Plots using ggplot2](https://www.khstats.com/blog/forest-plots/)
   * [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
+  * [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
   * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
