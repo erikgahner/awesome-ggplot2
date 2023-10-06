@@ -193,6 +193,7 @@
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
+* {[MoMAColors](https://github.com/BlakeRMills/MoMAColors)}: Color Schemes based around artwork and the Museum of Modern Art
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
