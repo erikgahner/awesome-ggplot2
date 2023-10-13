@@ -84,6 +84,8 @@
 * {[ggordiplots](https://github.com/jfq3/ggordiplots)}: Make ggplot Versions of Vegan's Ordiplots
 * {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
+* {[ggpercentogram](https://github.com/eliocamp/ggpercentogram)}: Create equal-area histograms with 'ggplot2'
+* {[ggPlantmap](https://github.com/leonardojo/ggPlantmap)}: Generate ggplot maps from plant images
 * {[ggplateplot](https://github.com/teunbrand/ggplateplot)}: make plots resembling cell culture microwell plates
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggpointgrid](https://github.com/nevrome/ggpointgrid)}: Rearrange scatter plot points on a regular grid
@@ -321,6 +323,7 @@
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
+* {[ggpicrust2](https://cafferychen777.github.io/ggpicrust2/)}: Make Picrust2 Output Analysis and Visualization Easier
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
 * {[ggseas](https://github.com/ellisp/ggseas)}: seasonal adjustment on the fly extension for ggplot2
