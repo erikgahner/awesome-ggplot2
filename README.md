@@ -440,6 +440,7 @@
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
   * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
   * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
+  * [How to add annotations in ggplot: should you use geoms or annotations?](https://rfortherestofus.com/2023/10/annotate-vs-geoms)
   * [Make Multi-point “dumbbell” Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
   * [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
   * [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
