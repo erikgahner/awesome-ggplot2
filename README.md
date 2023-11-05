@@ -27,6 +27,7 @@
 * {[complex-upset](https://krassowski.github.io/complex-upset/)}: A library for creating complex UpSet plots with ggplot2 geoms
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
+* {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
