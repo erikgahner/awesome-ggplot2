@@ -118,6 +118,7 @@
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggrounded](https://botan.github.io/ggrounded/)}: Rounded Bar Plots
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
+* {[ggsc](https://github.com/YuLab-SMU/ggsc)}: Visualizing single cell data
 * {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
@@ -174,6 +175,7 @@
 * {[ggedit](https://github.com/yonicd/ggedit)}: Interactively edit ggplot layer aesthetics and theme definitions
 * {[ggfittext](https://github.com/wilkox/ggfittext)}: ggplot2 geoms to fit text into boxes
 * {[ggfx](https://github.com/thomasp85/ggfx)}: ggfx is a (currently experimantal) package that allows the use of various filters and shaders on ggplot2 layers
+* {[ggGenshin](https://restlesstail.github.io/ggGenshin/)}: a collection of Genshin-styled color schemes
 * {[gghdx](https://github.com/OCHA-DAP/gghdx)}: HDX Theme, Scales, and Other Conveniences for 'ggplot2'
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
@@ -316,12 +318,14 @@
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
+* {[ggkegg](https://noriakis.github.io/software/ggkegg/)}: Analyzing and visualizing KEGG information using the grammar of graphics
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggpicrust2](https://cafferychen777.github.io/ggpicrust2/)}: Make Picrust2 Output Analysis and Visualization Easier
