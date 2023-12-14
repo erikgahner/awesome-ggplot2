@@ -30,6 +30,7 @@
 * {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
+* {[effectclass](https://inbo.github.io/effectclass/)}: Display uncertainty and effect classification with ggplot2 or plotly
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
 * {[geomtextpath](https://allancameron.github.io/geomtextpath/)}: Create curved text paths in ggplot2
 * {[ggalignment](https://github.com/aftonsteps/ggalignment)}: R package for creating D&D alignment charts
@@ -195,6 +196,7 @@
 * {[ggx](https://github.com/brandmaier/ggx)}: Translate natural language commands into ggplot commands
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
+* {[INBOtheme](https://inbo.github.io/INBOtheme)}: Corporate identity theme for the Research Institute for Nature and Forest (INBO)
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
