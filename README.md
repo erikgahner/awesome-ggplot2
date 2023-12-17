@@ -317,6 +317,7 @@
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
+* {[ggfixest]}(https://grantmcdermott.com/ggfixest/): Dedicated ggplot2 methods for fixest model objects
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
