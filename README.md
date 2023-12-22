@@ -344,6 +344,7 @@
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
 * {[metrica](https://adriancorrendo.github.io/metrica/)}: Prediction Performance Metrics
 * {[mlr3viz](https://mlr3viz.mlr-org.com/)}: Visualizations for mlr3
+* {[moderndive](https://moderndive.github.io/moderndive/)}: R package for tidyverse-friendly introductory linear regression
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
 * {[performance](https://easystats.github.io/performance/)}: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
