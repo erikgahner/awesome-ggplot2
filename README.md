@@ -414,6 +414,7 @@
 
 * Theme customisation
   * [3 alternatives to a discrete color scale legend in ggplot2](https://www.nsgrantham.com/legend-alternatives-ggplot2)
+  * [5 Powerful ggplot2 Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions.html)
   * [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f)
   * [10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()](https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/)
   * [15 Tips to Customize lines in ggplot2 with element_line()](https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/)
