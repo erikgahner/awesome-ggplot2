@@ -213,6 +213,7 @@
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[theme_park](https://github.com/MatthewBJane/theme_park)}: Fun ggplot themes for popular culture
+* {[tinythemes](https://github.com/eddelbuettel/tinythemes)}: Lightweight Repackaging of 'Themes' for 'ggplot2'
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[unhcrthemes](https://vidonne.github.io/unhcrthemes/)}: UNHCR branded theme for ggplot2 and data visualization colour palettes
 * {[unicol](https://hneth.github.io/unicol/)}: The colors of your university
