@@ -313,6 +313,7 @@
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
+* {[ggbiplot](https://friendly.github.io/ggbiplot/)}: A ggplot2 based biplot for principal components-like methods
 * {[ggcoverage](https://showteeth.github.io/ggcoverage/)}: Visualize and annotate genomic coverage with ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
