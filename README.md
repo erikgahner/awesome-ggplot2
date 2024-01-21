@@ -446,6 +446,7 @@
   * [What we learned from creating a custom graphics package in R using ggplot2](https://www.pewresearch.org/decoded/2022/10/04/what-we-learned-from-creating-a-custom-graphics-package-in-r-using-ggplot2/)
 
 * Plot layers
+  * [6 Common ggplot2 Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes.html)
   * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
   * [Annotated Forest Plots using ggplot2](https://www.khstats.com/blog/forest-plots/)
   * [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
