@@ -87,6 +87,7 @@
 * {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
 * {[ggpercentogram](https://github.com/eliocamp/ggpercentogram)}: Create equal-area histograms with 'ggplot2'
+* {[ggpie](https://github.com/Rkabacoff/ggpie)}: Create pie charts using ggplot2
 * {[ggPlantmap](https://github.com/leonardojo/ggPlantmap)}: Generate ggplot maps from plant images
 * {[ggplateplot](https://github.com/teunbrand/ggplateplot)}: make plots resembling cell culture microwell plates
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
@@ -151,6 +152,7 @@
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
+* {[superheat](https://rlbarter.github.io/superheat/)}: An R package for generating beautiful and customizable heatmaps
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
@@ -166,6 +168,7 @@
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
 * {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
+* {[dutchmasters](https://github.com/EdwinTh/dutchmasters)}: R package with colour palettes derived from famous paintings by 17th century Dutch masers
 * {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
