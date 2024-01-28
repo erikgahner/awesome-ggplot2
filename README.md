@@ -157,6 +157,7 @@
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
+* {[waterfalls](https://github.com/hughparsonage/waterfalls)}: R package to create waterfall charts
 * {[WVPlots](https://winvector.github.io/WVPlots/)}: Pre-packaged plots in R
 
 ## Themes and aesthetics
@@ -200,12 +201,14 @@
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[INBOtheme](https://inbo.github.io/INBOtheme)}: Corporate identity theme for the Research Institute for Nature and Forest (INBO)
+* {[LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)}: LaCroix Color Palettes for R
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
 * {[MoMAColors](https://github.com/BlakeRMills/MoMAColors)}: Color Schemes based around artwork and the Museum of Modern Art
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
+* {[nord](https://github.com/jkaupp/nord)}: Northern-themed Color palettes
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
