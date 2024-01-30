@@ -379,6 +379,7 @@
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+* [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)
 
 # Book chapters
 
