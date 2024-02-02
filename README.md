@@ -484,6 +484,7 @@
   * [6 easy ways to map population density in R](https://milospopovic.net/6-ways-to-map-population-with-r.r/)
   * [Adding context to maps made with ggplot2](https://www.mm218.dev/posts/2023-10-31-map-context/index.html)
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
+  * [Combining maps and patterns with {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns.html)
   * [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
   * [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
   * [Inset maps with ggplot2](https://geocompx.org/post/2019/ggplot2-inset-maps/)
