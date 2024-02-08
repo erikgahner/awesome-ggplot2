@@ -457,6 +457,7 @@
   * [6 Common ggplot2 Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes.html)
   * [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
   * [Annotated Forest Plots using ggplot2](https://www.khstats.com/blog/forest-plots/)
+  * [Correlation heat maps with {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/24_correlation_heat_map/24_correlation_heat_map.html)
   * [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
