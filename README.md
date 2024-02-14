@@ -289,6 +289,7 @@
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggautomap](https://cidm-ph.github.io/ggautomap/)}: Create ggplot maps from a column of place names
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
+* {[ggfields](https://pepijn-devries.github.io/ggfields/)}: Add vector fields layers to ggplots
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
@@ -302,6 +303,7 @@
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
+* {[stars](https://r-spatial.github.io/stars/)}: Spatiotemporal Arrays, Raster and Vector Data Cubes
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
 * {[tidyterra](https://dieghernan.github.io/tidyterra/)}: tidyverse and ggplot2 methods for terra spatial objects
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
@@ -327,7 +329,7 @@
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
-* {[ggfixest]}(https://grantmcdermott.com/ggfixest/): Dedicated ggplot2 methods for fixest model objects
+* {[ggfixest](https://grantmcdermott.com/ggfixest/)}: Dedicated ggplot2 methods for fixest model objects
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
