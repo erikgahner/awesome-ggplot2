@@ -218,6 +218,7 @@
 * {[rcartocolor](https://jakubnowosad.com/rcartocolor/)}: Implementation of the CARTOcolor palettes in R
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
+* {[scico](https://github.com/thomasp85/scico)}: Palettes for R based on the Scientific Colour-Maps
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[theme_park](https://github.com/MatthewBJane/theme_park)}: Fun ggplot themes for popular culture
@@ -227,6 +228,7 @@
 * {[unicol](https://hneth.github.io/unicol/)}: The colors of your university
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
 * {[viridis](http://sjmgarnier.github.io/viridis)}: Colorblind-Friendly Color Maps for R
+* {[wesanderson](https://github.com/karthik/wesanderson)}: A Wes Anderson color palette for R
 
 ## Presentation, composition and scales
 
@@ -300,6 +302,7 @@
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
+* {[ozmaps](https://mdsumner.github.io/ozmaps/)}: Australian maps
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
