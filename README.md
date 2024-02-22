@@ -258,6 +258,7 @@
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
 * {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
+* {[ggtibble](https://billdenney.github.io/ggtibble/)}: Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
 * {[gguidance](https://github.com/teunbrand/gguidance)}: additional guides to the ggplot2 ecosystem
