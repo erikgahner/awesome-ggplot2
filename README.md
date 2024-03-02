@@ -46,6 +46,7 @@
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
 * {[ggblur](https://github.com/coolbutuseless/ggblur)}: Blurry Point Geom for ggplot2
 * {[ggborderline](https://wurli.github.io/ggborderline)}: Provides a set of geoms to make line plots a little bit nicer
+* {[ggbrace](https://github.com/NicolasH2/ggbrace)}: Curly Braces for 'ggplot2'
 * {[ggbraid](https://nsgrantham.github.io/ggbraid/)}: Braid two lines and a ribbon in ggplot2
 * {[ggbrain](https://michaelhallquist.github.io/ggbrain/)}: R package for creating plots of brains using ggplot
 * {[ggbrick](https://github.com/doehm/ggbrick)}: A brick like geom for ggplot2 
