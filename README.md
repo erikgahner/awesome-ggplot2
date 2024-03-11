@@ -277,7 +277,7 @@
 ## Interactive
 
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
-* {[ggtips](https://github.com/Roche/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
+* {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 
 
