@@ -222,6 +222,7 @@
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[scico](https://github.com/thomasp85/scico)}: Palettes for R based on the Scientific Colour-Maps
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
+* {[tgamtheme](https://globeandmail.github.io/tgamtheme/)}: Globe and Mail Graphics Theme for 'ggplot2'
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[ThemePark](http://matthewbjane.com/ThemePark/)}: Fun ggplot themes for popular culture
 * {[tinythemes](https://github.com/eddelbuettel/tinythemes)}: Lightweight Repackaging of 'Themes' for 'ggplot2'
@@ -231,6 +232,7 @@
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
 * {[viridis](http://sjmgarnier.github.io/viridis)}: Colorblind-Friendly Color Maps for R
 * {[wesanderson](https://github.com/karthik/wesanderson)}: A Wes Anderson color palette for R
+* {[wsjplot](https://cran.r-project.org/web/packages/wsjplot/)}: Style Time Series Plots Like the Wall Street Journal
 
 ## Presentation, composition and scales
 
@@ -416,6 +418,7 @@
   * [A Simple Introduction to the Graphing Philosophy of ggplot2](https://tomhopper.me/2014/03/28/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/)
   * [Aesthetics, Geoms, Mappings, Scales, What?](https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/)
   * [An Introduction on How to Make Beautiful Charts With R and ggplot2](https://minimaxir.com/2015/02/ggplot-tutorial/)
+  * [ggplot2 101](https://brunomioto.com/posts/intro_ggplot2/en/)
   * [ggplot2 Quickref](http://r-statistics.co/ggplot2-cheatsheet.html)
   * [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
   * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
@@ -497,6 +500,7 @@
   * [Adding context to maps made with ggplot2](https://www.mm218.dev/posts/2023-10-31-map-context/index.html)
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
   * [Combining maps and patterns with {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns.html)
+  * [Drawing waterlines with ggplot2 in R](https://brunomioto.com/posts/waterlines/en/)
   * [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
   * [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
   * [Inset maps with ggplot2](https://geocompx.org/post/2019/ggplot2-inset-maps/)
