@@ -31,6 +31,7 @@
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
 * {[effectclass](https://inbo.github.io/effectclass/)}: Display uncertainty and effect classification with ggplot2 or plotly
+* {[ezplot](https://cran.r-project.org/web/packages/ezplot/)}: Functions for Common Chart Types
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
 * {[geomtextpath](https://allancameron.github.io/geomtextpath/)}: Create curved text paths in ggplot2
 * {[ggalignment](https://github.com/aftonsteps/ggalignment)}: R package for creating D&D alignment charts
@@ -70,6 +71,7 @@
 * {[ggfacto](https://github.com/BriceNocenti/ggfacto)}: Graphs for correspondence analysis
 * {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
+* {[ggfun](https://github.com/YuLab-SMU/ggfun)}: Miscellaneous Functions for 'ggplot2'
 * {[gggenes](https://github.com/wilkox/gggenes)}: Draw gene arrow maps in ggplot2
 * {[gggenomes](https://thackl.github.io/gggenomes/)}: A grammar of graphics for comparative genomics
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
@@ -188,6 +190,7 @@
 * {[gghdx](https://github.com/OCHA-DAP/gghdx)}: HDX Theme, Scales, and Other Conveniences for 'ggplot2'
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
+* {[ggnuplot](https://github.com/hriebl/ggnuplot)}: Make your ggplots look like gnuplots
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph 
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
@@ -200,6 +203,7 @@
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
 * {[ggtextures](https://github.com/clauswilke/ggtextures)}: Drawing textured rectangles and bars with ggplot
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
+* {[ggthemeUL](https://cran.r-project.org/web/packages/ggthemeUL/)}: A 'ggplot' Theme for University of Ljubljana
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[ggx](https://github.com/brandmaier/ggx)}: Translate natural language commands into ggplot commands
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
@@ -213,6 +217,7 @@
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
 * {[nord](https://github.com/jkaupp/nord)}: Northern-themed Color palettes
+* {[onsvplot](https://pabsantos.github.io/onsvplot/)}: National Road Safety Observatory (ONSV) Style for 'ggplot2' Graphics
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
