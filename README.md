@@ -168,6 +168,7 @@
 
 ## Themes and aesthetics
 
+* {[add2ggplot](https://jiaxiangbu.github.io/add2ggplot/)}: Add more themes for your ggplot object
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
 * {[colorBlindnessSafe](https://cran.r-project.org/web/packages/colorBlindness/)}: Color Set for Color Blindness
@@ -199,6 +200,7 @@
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
 * {[ggseg](https://ggseg.github.io/ggseg/)}: Plotting tool for brain atlases, in ggplot
 * {[ggstar](https://github.com/xiangpin/ggstar/)}: Star layer for ggplot2
+* {[ggtea](https://cran.r-project.org/web/packages/ggtea/)}: Palettes and Themes for 'ggplot2'
 * {[ggtech](https://github.com/ricardo-bion/ggtech)}: ggplot2 tech themes, scales, and geoms
 * {[ggtext](https://github.com/wilkelab/ggtext)}: Improved text rendering support for ggplot2
 * {[ggtextures](https://github.com/clauswilke/ggtextures)}: Drawing textured rectangles and bars with ggplot
@@ -305,9 +307,11 @@
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
+* {[ggredist](https://alarm-redist.org/ggredist/)}: Scales, Geometries, and Extensions of 'ggplot2' for Election Mapping
 * {[ggsflabel](https://yutannihilation.github.io/ggsflabel/)}: Labels for 'sf' with 'ggplot2'
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
+* {[ggswissmaps](https://github.com/gibonet/ggswissmaps)}: Offers Various Swiss Maps as Data Frames and 'ggplot2' Objects
 * {[layer](https://github.com/marcosci/layer)}: Create stacked tilted maps
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
@@ -329,6 +333,7 @@
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
+* {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
 
 ## Data and models
 
