@@ -181,6 +181,7 @@
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
 * {[ggcute](https://github.com/sharlagelfand/ggcute/)}: Cute things for ggplot2
 * {[ggdark](https://github.com/nsgrantham/ggdark)}: Dark mode for ggplot2 themes
+* {[ggDracula](https://github.com/dracula/ggplot2)}: Dracula for ggplot2
 * {[ggchromatic](https://teunbrand.github.io/ggchromatic/)}: Colour and fill scales for 'ggplot2' using colour spaces
 * {[ggCyberPunk](https://github.com/delabj/ggCyberPunk)}: Working on creating a similar cyberpunk geom for ggplot
 * {[ggeasy](https://github.com/jonocarroll/ggeasy)}: Easy Access to 'ggplot2' Commands
