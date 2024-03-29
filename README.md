@@ -127,6 +127,8 @@
 * {[ggrounded](https://botan.github.io/ggrounded/)}: Rounded Bar Plots
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
 * {[ggsc](https://github.com/YuLab-SMU/ggsc)}: Visualizing single cell data
+* {[ggScatRidges](https://github.com/matbou85/ggScatRidges)}: Scatter Plot Combined with Ridgelines in 'ggplot2'
+* {[ggscidca](https://cran.r-project.org/web/packages/ggscidca/)}: Plotting Decision Curve Analysis with Coloured Bars
 * {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
@@ -383,6 +385,7 @@
 * {[prettyglm](https://jared-fowler.github.io/prettyglm/)}: An R package to visualise glm coefficients
 * {[SBC](https://hyunjimoon.github.io/SBC/index.html)}: Simulation-based Calibration
 * {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
+* {[starbility](https://github.com/AakaashRao/starbility)}: Coefficient stability plots under combinations of controls
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
@@ -484,6 +487,7 @@
   * [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
+  * [Creating upset charts with ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
   * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
