@@ -161,6 +161,7 @@
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
 * {[superheat](https://rlbarter.github.io/superheat/)}: An R package for generating beautiful and customizable heatmaps
+* {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
@@ -232,6 +233,7 @@
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[scico](https://github.com/thomasp85/scico)}: Palettes for R based on the Scientific Colour-Maps
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
+* {[stevethemes](http://svmiller.com/stevethemes/)}: Steve’s ggplot2 Themes and Related Theme Elements
 * {[tgamtheme](https://globeandmail.github.io/tgamtheme/)}: Globe and Mail Graphics Theme for 'ggplot2'
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[ThemePark](http://matthewbjane.com/ThemePark/)}: Fun ggplot themes for popular culture
@@ -356,6 +358,7 @@
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[ggkegg](https://noriakis.github.io/software/ggkegg/)}: Analyzing and visualizing KEGG information using the grammar of graphics
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
+* {[gglorenz](https://jjchern.github.io/gglorenz/)}: Plotting Lorenz curves with the blessing of ggplot2
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
@@ -372,6 +375,7 @@
 * {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
 * {[halfmoon](https://r-causal.github.io/halfmoon/)}: Techniques to Build Better Balance in Propensity Score Models
 * {[interactions](https://interactions.jacob-long.com/)}: A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions
+* {[jskm](https://jinseob2kim.github.io/jskm/)}: R package for Kaplan-Meier Plot
 * {[jtools](https://jtools.jacob-long.com/)}: Tools for summarizing/visualizing regressions and other helpful stuff
 * {[KMunicate](https://ellessenne.github.io/KMunicate-package/)}: Create KMunicate-Style Plots
 * {[lindia](https://github.com/yeukyul/lindia)}: Extension package of linear regression diagonostic plots in ggplot2
