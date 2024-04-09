@@ -506,6 +506,7 @@
   * [Pyramid Plots in ggplot2](https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/)
   * [Radial Patterns in ggplot2](https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/)
   * [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/posts/ggplot2-tips/11_rounded_rectangles/11_rounded_rectangles.html)
+  * [Three Ways to Include Images in Your ggplots](https://albert-rapp.de/posts/ggplot2-tips/27_images/27_images.html)
   * [Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/)
   * [Visualizing ordinal variables](https://octavio.me/posts/2021-07-23-ordinal-viz/)
   * [Waffle charts with svg images](https://luisdva.github.io/rstats/wafflechart/)
