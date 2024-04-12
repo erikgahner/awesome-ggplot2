@@ -178,6 +178,7 @@
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
+* {[DOYPAColors](https://github.com/jmestret/DOYPAColors)}: Don't Overthink Your Palette of Colors
 * {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
 * {[dutchmasters](https://github.com/EdwinTh/dutchmasters)}: R package with colour palettes derived from famous paintings by 17th century Dutch masers
 * {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
@@ -215,6 +216,7 @@
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[INBOtheme](https://inbo.github.io/INBOtheme)}: Corporate identity theme for the Research Institute for Nature and Forest (INBO)
+* {[jcolors](https://jaredhuling.org/jcolors/)}: Colors Palettes for R and 'ggplot2', Additional Themes for 'ggplot2'
 * {[LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)}: LaCroix Color Palettes for R
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
