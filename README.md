@@ -55,6 +55,7 @@
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggcats](https://github.com/R-CoderDotCom/ggcats)}: The geom you always wished for adding cats to ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
+* {[ggcleveland](https://github.com/mpru/ggcleveland)}: Implementation of plots from Cleveland's Visualizing Data book in ggplot2
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
@@ -160,6 +161,7 @@
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
+* {[smplot2](https://github.com/smin95/smplot2)}: Create and annotate composite plots in R and ggplot2
 * {[superheat](https://rlbarter.github.io/superheat/)}: An R package for generating beautiful and customizable heatmaps
 * {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
