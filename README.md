@@ -10,8 +10,8 @@
 
 * [Hadley Wickham](http://hadley.nz/) ([@hadleywickham](https://fosstodon.org/@hadleywickham))
 * [Kieran Healy](https://kieranhealy.org/) ([@kjhealy](https://mastodon.social/@kjhealy))
-* [Claus Wilke](https://clauswilke.com/) 
-* [Thomas Lin Pedersen](https://www.data-imaginist.com/) 
+* [Claus Wilke](https://clauswilke.com/)
+* [Thomas Lin Pedersen](https://www.data-imaginist.com/)
 * Winston Chang ([@winston_chang](https://mastodon.social/@winston_chang))
 * [Lionel Henry](https://github.com/lionel-) ([@lionel](https://floss.social/@lionel))
 * [Kara Woo](https://karawoo.com/)
@@ -40,7 +40,7 @@
 * {[ggambit](https://github.com/cj-holmes/ggambit)}: Visualise FEN chess positions with ggplot2
 * {[gganatogram](https://github.com/jespermaag/gganatogram)}: Create anatograms using ggplot2
 * {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
-* {[ggarrow](https://teunbrand.github.io/ggarrow/)}: ggplot2 extension: more options for drawing arrows 
+* {[ggarrow](https://teunbrand.github.io/ggarrow/)}: ggplot2 extension: more options for drawing arrows
 * {[ggasym](https://jhrcook.github.io/ggasym/index.html)}: Plots three different color schemes on the top-left and bottom-right triangles and the diagonal of a symmetric matrix
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Simplify ggplot2 visualisation
@@ -50,7 +50,7 @@
 * {[ggbrace](https://github.com/NicolasH2/ggbrace)}: Curly Braces for 'ggplot2'
 * {[ggbraid](https://nsgrantham.github.io/ggbraid/)}: Braid two lines and a ribbon in ggplot2
 * {[ggbrain](https://michaelhallquist.github.io/ggbrain/)}: R package for creating plots of brains using ggplot
-* {[ggbrick](https://github.com/doehm/ggbrick)}: A brick like geom for ggplot2 
+* {[ggbrick](https://github.com/doehm/ggbrick)}: A brick like geom for ggplot2
 * {[ggbump](https://github.com/davidsjoberg/ggbump)}: A geom for ggplot to create bump plots
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggcats](https://github.com/R-CoderDotCom/ggcats)}: The geom you always wished for adding cats to ggplot2
@@ -84,7 +84,7 @@
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
-* {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data 
+* {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggnormalviolin](https://wjschne.github.io/ggnormalviolin/index.html)}: Makes normal violin plots with specified means and standard deviations
 * {[ggonion](https://i2z1.github.io/ggonion/)}: R package for drawing onion diagrams via ggplot2
@@ -104,8 +104,8 @@
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
-* {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2 
-* {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers 
+* {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2
+* {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers
 * {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggparallel](https://heike.github.io/ggparallel/)}: R package for creating hammock plots and parallel sets plots using the ggplot2 framework
@@ -160,7 +160,7 @@
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
-* {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2 
+* {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2
 * {[smplot2](https://github.com/smin95/smplot2)}: Create and annotate composite plots in R and ggplot2
 * {[superheat](https://rlbarter.github.io/superheat/)}: An R package for generating beautiful and customizable heatmaps
 * {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
@@ -199,7 +199,7 @@
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggnuplot](https://github.com/hriebl/ggnuplot)}: Make your ggplots look like gnuplots
-* {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph 
+* {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
@@ -242,6 +242,7 @@
 * {[thematic](https://rstudio.github.io/thematic/)}: Unified and automatic theming of ggplot2, lattice, and base R graphics
 * {[ThemePark](http://matthewbjane.com/ThemePark/)}: Fun ggplot themes for popular culture
 * {[tinythemes](https://github.com/eddelbuettel/tinythemes)}: Lightweight Repackaging of 'Themes' for 'ggplot2'
+* {[trekcolors](https://leonawicz.github.io/trekcolors/)}: Strak Trek color palettes
 * {[tvthemes](https://ryo-n7.github.io/tvthemes/)}: ggplot2 themes and palettes based on your favorite TV shows
 * {[unhcrthemes](https://vidonne.github.io/unhcrthemes/)}: UNHCR branded theme for ggplot2 and data visualization colour palettes
 * {[unicol](https://hneth.github.io/unicol/)}: The colors of your university
@@ -257,7 +258,7 @@
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[egg](https://github.com/jwdink/egg)}: (fragile) extensions for ggplot2
-* {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2 
+* {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
 * {[figpatch](https://bradyajohnston.github.io/figpatch/)}: Easily Arrange Images with Patchwork Alongside ggplot2 Figures
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
@@ -303,7 +304,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
-* {[graphlayouts](http://graphlayouts.schochastics.net/)}: New layout algorithms for network visualizations in R 
+* {[graphlayouts](http://graphlayouts.schochastics.net/)}: New layout algorithms for network visualizations in R
 * {[qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)}: Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 
 ## Spatial
@@ -315,7 +316,7 @@
 * {[ggfields](https://pepijn-devries.github.io/ggfields/)}: Add vector fields layers to ggplots
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
-* {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2 
+* {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2
 * {[ggredist](https://alarm-redist.org/ggredist/)}: Scales, Geometries, and Extensions of 'ggplot2' for Election Mapping
 * {[ggsflabel](https://yutannihilation.github.io/ggsflabel/)}: Labels for 'sf' with 'ggplot2'
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
@@ -327,7 +328,7 @@
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
 * {[ozmaps](https://mdsumner.github.io/ozmaps/)}: Australian maps
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
-* {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization 
+* {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
 * {[stars](https://r-spatial.github.io/stars/)}: Spatiotemporal Arrays, Raster and Vector Data Cubes
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
@@ -349,6 +350,7 @@
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
+* {[gaussplotR](https://vbaliga.github.io/gaussplotR/)}: Fit, predict, and plot 2D Gaussians
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggbiplot](https://friendly.github.io/ggbiplot/)}: A ggplot2 based biplot for principal components-like methods
 * {[ggcoverage](https://showteeth.github.io/ggcoverage/)}: Visualize and annotate genomic coverage with ggplot2
@@ -361,7 +363,7 @@
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[ggkegg](https://noriakis.github.io/software/ggkegg/)}: Analyzing and visualizing KEGG information using the grammar of graphics
-* {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots 
+* {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots
 * {[gglorenz](https://jjchern.github.io/gglorenz/)}: Plotting Lorenz curves with the blessing of ggplot2
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
 * {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
@@ -372,6 +374,7 @@
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggpicrust2](https://cafferychen777.github.io/ggpicrust2/)}: Make Picrust2 Output Analysis and Visualization Easier
+* {[ggQQunif](https://github.com/rcorty/ggQQunif)}: QQ plots for big collections of p-values
 * {[ggRandomForest](https://github.com/ehrlinger/ggRandomForests)}: Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
 * {[ggseas](https://github.com/ellisp/ggseas)}: seasonal adjustment on the fly extension for ggplot2
@@ -497,7 +500,7 @@
   * [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
   * [Creating upset charts with ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
-  * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/) 
+  * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/)
   * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
   * [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
   * [How to add annotations in ggplot: should you use geoms or annotations?](https://rfortherestofus.com/2023/10/annotate-vs-geoms)
