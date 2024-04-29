@@ -26,6 +26,7 @@
 * {[calendR](https://github.com/R-CoderDotCom/calendR)}: Fully customizable ready to print monthly and yearly calendars made with ggplot2
 * {[complex-upset](https://krassowski.github.io/complex-upset/)}: A library for creating complex UpSet plots with ggplot2 geoms
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
+* {[dbplot](https://edgararuiz.github.io/dbplot/)}: Simplifies plotting of database and sparklyr data
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
@@ -101,6 +102,7 @@
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
 * {[ggsector](https://github.com/yanpd01/ggsector)}: Use R language to draw sector
+* {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
@@ -197,6 +199,7 @@
 * {[ggGenshin](https://restlesstail.github.io/ggGenshin/)}: a collection of Genshin-styled color schemes
 * {[gghdx](https://github.com/OCHA-DAP/gghdx)}: HDX Theme, Scales, and Other Conveniences for 'ggplot2'
 * {[gglaplot](https://github.com/Greater-London-Authority/gglaplot)}: Makes graphics in the GLA style using ggplot2
+* {[gglgbtq](https://turtletopia.github.io/gglgbtq/)}: Provides multiple palettes based on pride flags with tailored themes
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggnuplot](https://github.com/hriebl/ggnuplot)}: Make your ggplots look like gnuplots
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
@@ -362,6 +365,7 @@
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
+* {[ggisotonic](https://github.com/talegari/ggisotonic)}: Add isotonic or monotonic regression curves to ggplots
 * {[ggkegg](https://noriakis.github.io/software/ggkegg/)}: Analyzing and visualizing KEGG information using the grammar of graphics
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots
 * {[gglorenz](https://jjchern.github.io/gglorenz/)}: Plotting Lorenz curves with the blessing of ggplot2
