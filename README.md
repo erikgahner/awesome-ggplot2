@@ -29,6 +29,7 @@
 * {[dbplot](https://edgararuiz.github.io/dbplot/)}: Simplifies plotting of database and sparklyr data
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
+* {[donutsk](https://dkibalnikov.github.io/donutsk/)}: Construct Advanced Donut Charts
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
 * {[effectclass](https://inbo.github.io/effectclass/)}: Display uncertainty and effect classification with ggplot2 or plotly
@@ -160,6 +161,7 @@
 * {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
+* {[plotcli](https://github.com/cheuerde/plotcli)}: Convert ggplot2 objects to colored terminal plots
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2
