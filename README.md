@@ -372,6 +372,7 @@
 * {[gglm](https://github.com/graysonwhite/gglm)}: Grammar of Graphics for Linear Model Diagnostic Plots
 * {[gglorenz](https://jjchern.github.io/gglorenz/)}: Plotting Lorenz curves with the blessing of ggplot2
 * {[ggmice](https://amices.org/ggmice/)}: Visualize incomplete and imputed data
+* {[ggmugs](https://cran.rstudio.com/web/packages/ggmugs/index.html)}: Visualization of Multiple Genome-Wide Association Study Summary Statistics
 * {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
