@@ -179,6 +179,7 @@
 
 * {[add2ggplot](https://jiaxiangbu.github.io/add2ggplot/)}: Add more themes for your ggplot object
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
 * {[colorBlindnessSafe](https://cran.r-project.org/web/packages/colorBlindness/)}: Color Set for Color Blindness
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
