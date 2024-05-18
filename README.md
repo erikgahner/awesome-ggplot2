@@ -137,6 +137,7 @@
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
 * {[ggsolar](https://github.com/hrbrmstr/ggsolar)}: Generate "solar system" plots with {ggplot2}
+* {[ggspark](https://github.com/marcboschmatas/ggspark)}: ggplot2 Functions to Create Tufte Style Sparklines
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
