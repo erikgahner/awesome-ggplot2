@@ -67,6 +67,7 @@
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
+* {[ggdaynight](https://github.com/GabrielSlPires/ggdaynight)}: Add Day/Night Patterns to ggplot2 Plots
 * {[ggdirectlabel](https://github.com/MattCowgill/ggdirectlabel)}: Make it easier to directly label ggplot2 charts
 * {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
 * {[ggDoubleHeat](https://pursuitofdatascience.github.io/ggDoubleHeat/)}: A heatmap-like visualization tool
@@ -348,6 +349,7 @@
 * {[cropcircles](https://github.com/doehm/cropcircles)}: Crop an image into a circle with a transparent background
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
+* {[ggfoundry](https://cgoo4.github.io/ggfoundry/)}: Shape Foundry & Geom for 'ggplot2'
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
