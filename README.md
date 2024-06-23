@@ -417,6 +417,7 @@
 
 # Python packages
 
+* {[lets-plot](https://lets-plot.org/)}: multiplatform plotting library built on the principles of the Grammar of Graphics
 * {[plotnine](https://github.com/has2k1/plotnine)}: Python implementation of ggplot2 using matplotlib backend
 * {[patchworklib](https://github.com/ponnhide/patchworklib)}: The Composer of plotnine ggplots
 * {[plotnine3d](https://github.com/krassowski/plotnine3d)}: 3D Graphics using the grammar of graphics
