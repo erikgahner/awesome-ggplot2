@@ -242,6 +242,7 @@
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
 * {[PrettyCols](https://nrennie.github.io/PrettyCols/)}: R package containing pretty colour palettes.
 * {[rcartocolor](https://jakubnowosad.com/rcartocolor/)}: Implementation of the CARTOcolor palettes in R
+* {[Rdune](https://github.com/nvietto/Rdune)}: Creates color palettes inspired by "Dune"
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[scico](https://github.com/thomasp85/scico)}: Palettes for R based on the Scientific Colour-Maps
@@ -353,6 +354,7 @@
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
+* {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
 
 ## Data and models
