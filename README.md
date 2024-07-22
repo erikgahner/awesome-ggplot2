@@ -297,6 +297,7 @@
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
+* {[pagenum](https://kwstat.github.io/pagenum/index.html)}: Add page number to R graphics
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[relayer](https://github.com/clauswilke/relayer)}: Rethinking layers in ggplot2
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
@@ -570,6 +571,9 @@
 * Statistics
   * [Summary statistics](https://ggplot2tutor.com/summary_statistics/summary_statistics/)
   * [Demystifying stat_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
+
+* Python
+  * [Annotated area charts with plotnine](https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/)
 
 # Video tutorials
 
