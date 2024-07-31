@@ -385,6 +385,7 @@
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[ggsmc](https://richardgeveritt.github.io/ggsmc/)}: Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods
 * {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
