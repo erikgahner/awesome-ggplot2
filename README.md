@@ -231,6 +231,7 @@
 * {[LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)}: LaCroix Color Palettes for R
 * ([lemon](https://github.com/stefanedwards/lemon)): Freshing up your ggplots
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
+* {[MetBrewer](https://github.com/BlakeRMills/MetBrewer)}: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
 * {[MoMAColors](https://github.com/BlakeRMills/MoMAColors)}: Color Schemes based around artwork and the Museum of Modern Art
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
@@ -417,6 +418,7 @@
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 * {[treeheatr](https://trangdata.github.io/treeheatr/)}: Heatmap-integrated Decision Tree Visualizations
+* {[truchet](https://paezha.github.io/truchet/)}: Package for creating Truchet tiles and mosaics
 * {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
 
 # Python packages
