@@ -34,6 +34,7 @@
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
 * {[effectclass](https://inbo.github.io/effectclass/)}: Display uncertainty and effect classification with ggplot2 or plotly
 * {[ezplot](https://cran.r-project.org/web/packages/ezplot/)}: Functions for Common Chart Types
+* {[flowmapper](https://github.com/JohMast/flowmapper)}: Draw flows (migration, goods, money, information) on ggplots
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
 * {[geomtextpath](https://allancameron.github.io/geomtextpath/)}: Create curved text paths in ggplot2
 * {[ggalignment](https://github.com/aftonsteps/ggalignment)}: R package for creating D&D alignment charts
@@ -290,6 +291,7 @@
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
 * {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
+* {[ggreveal](http://www.weverthon.com/ggreveal/)}: Reveal a 'ggplot' Incrementally
 * {[ggtibble](https://billdenney.github.io/ggtibble/)}: Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
