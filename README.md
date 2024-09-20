@@ -580,6 +580,7 @@
 
 * Python
   * [Annotated area charts with plotnine](https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/)
+  * [Plotnine: Grammar of Graphics for Python](https://jeroenjanssens.com/plotnine/)
 
 # Video tutorials
 
