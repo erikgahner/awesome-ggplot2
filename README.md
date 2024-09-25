@@ -275,11 +275,13 @@
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
 * {[figpatch](https://bradyajohnston.github.io/figpatch/)}: Easily Arrange Images with Patchwork Alongside ggplot2 Figures
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
+* {[ggalign](https://yunuuuu.github.io/ggalign/)}: A 'ggplot2' Extension for Consistent Axis Alignment
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
 * {[ggbreak](https://github.com/YuLab-SMU/ggbreak)}: Set Axis Break for 'ggplot2'
 * {[ggcolormeter](https://github.com/yjunechoe/ggcolormeter)}: A ggplot2 color/fill legend guide extension in the style of a dashboard meter
+* {[ggfigdone](https://wenjie1991.github.io/ggfigdone/)}: Manage ggplot figures using ggfigdone
 * {[ggfocus](https://github.com/Freguglia/ggfocus)}: A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[ggformula](http://www.mosaic-web.org/ggformula/)}: Provides a formula interface to 'ggplot2' graphics
@@ -319,6 +321,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
+* {[ggtangle](https://cran.r-project.org/web/packages/ggtangle/index.html)}: Draw Network with Data
 * {[graphlayouts](http://graphlayouts.schochastics.net/)}: New layout algorithms for network visualizations in R
 * {[qgraph](https://cran.r-project.org/web/packages/qgraph/index.html)}: Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation
 
