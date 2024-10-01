@@ -369,6 +369,7 @@
 
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
+* {[dotwhisker](https://fsolt.org/dotwhisker/)}: Dot-and-Whisker Plots of Regression Results
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
 * {[gaussplotR](https://vbaliga.github.io/gaussplotR/)}: Fit, predict, and plot 2D Gaussians
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
