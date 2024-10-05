@@ -374,6 +374,7 @@
 * {[gaussplotR](https://vbaliga.github.io/gaussplotR/)}: Fit, predict, and plot 2D Gaussians
 * {[GGally](https://ggobi.github.io/ggally/index.html)}: R package that extends ggplot2
 * {[ggbiplot](https://friendly.github.io/ggbiplot/)}: A ggplot2 based biplot for principal components-like methods
+* {[ggcompare](https://hmu-wh.github.io/ggcompare/)}: Mean Comparison in 'ggplot2'
 * {[ggcoverage](https://showteeth.github.io/ggcoverage/)}: Visualize and annotate genomic coverage with ggplot2
 * {[ggdendro](http://andrie.github.io/ggdendro/)}: Tools to extract dendrogram plot data for use with 'ggplot2'
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
