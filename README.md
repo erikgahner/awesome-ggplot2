@@ -437,6 +437,11 @@
 * {[plotnine3d](https://github.com/krassowski/plotnine3d)}: 3D Graphics using the grammar of graphics
 * {[adjustText](https://github.com/Phlya/adjustText)}: ggrepel-inspired label placement for matplotlib (integrated with plotnine)
 
+# Julia packages
+
+* [Gadfly.jl](http://gadflyjl.org/stable/): Crafty statistical graphics for Julia
+* [TidierPlots.jl](https://github.com/TidierOrg/TidierPlots.jl): Tidier data visualization in Julia, modeled after the ggplot2 R package
+
 # Books
 
 * [Data Visualization: A practical introduction](http://socviz.co/)
