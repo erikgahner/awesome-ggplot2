@@ -289,6 +289,7 @@
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
+* {[gglogger](https://pwwang.github.io/gglogger/)}: Track 'ggplot2' Calls
 * {[ggmagnify](https://github.com/hughjonesd/ggmagnify)}: Create a magnified inset of part of a ggplot object
 * {[ggNestedBarChart](https://github.com/davedgd/ggNestedBarChart)}: An easier way to create nested, grouped, heirarchical bar charts with ggplot2
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
@@ -350,6 +351,7 @@
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
 * {[stars](https://r-spatial.github.io/stars/)}: Spatiotemporal Arrays, Raster and Vector Data Cubes
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
+* {[sugarglider](https://maliny12.github.io/sugarglider/)}: Create Glyph-Maps of Spatiotemporal Data
 * {[tidyterra](https://dieghernan.github.io/tidyterra/)}: tidyverse and ggplot2 methods for terra spatial objects
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
 
