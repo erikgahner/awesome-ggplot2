@@ -27,7 +27,6 @@
 * {[complex-upset](https://krassowski.github.io/complex-upset/)}: A library for creating complex UpSet plots with ggplot2 geoms
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
 * {[dbplot](https://edgararuiz.github.io/dbplot/)}: Simplifies plotting of database and sparklyr data
-* {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
 * {[donutsk](https://dkibalnikov.github.io/donutsk/)}: Construct Advanced Donut Charts
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
@@ -146,7 +145,6 @@
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
-* {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
@@ -174,7 +172,6 @@
 * {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
-* {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 * {[waterfalls](https://github.com/hughparsonage/waterfalls)}: R package to create waterfall charts
 * {[WVPlots](https://winvector.github.io/WVPlots/)}: Pre-packaged plots in R
@@ -269,7 +266,6 @@
 * {[aplot](https://github.com/YuLab-SMU/aplot)}: Decorate a plot with associated information
 * {[camcorder](https://github.com/thebioengineer/camcorder)}: Record plots generated during an R session and replay as a gif!
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
-* {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[egg](https://github.com/jwdink/egg)}: (fragile) extensions for ggplot2
 * {[facetious](https://github.com/coolbutuseless/facetious)}: Home to some alternate facetting for ggplot2
 * {[facetscales](https://github.com/zeehio/facetscales)}: facet_grid with different scales per facet
@@ -317,7 +313,6 @@
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 
-
 ## Network
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
@@ -354,6 +349,14 @@
 * {[sugarglider](https://maliny12.github.io/sugarglider/)}: Create Glyph-Maps of Spatiotemporal Data
 * {[tidyterra](https://dieghernan.github.io/tidyterra/)}: tidyverse and ggplot2 methods for terra spatial objects
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
+
+## Time
+
+* {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
+* {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
+* {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
+* {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
+* {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
 
 ## Icons, patterns and images
 
@@ -406,7 +409,6 @@
 * {[ggResidpanel](https://goodekat.github.io/ggResidpanel/)}: An R package for creating a panel of diagnostic plots for residuals from a model
 * {[ggseas](https://github.com/ellisp/ggseas)}: seasonal adjustment on the fly extension for ggplot2
 * {[ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)}: Enhancing 'ggplot2' plots with statistical analysis
-* {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
 * {[halfmoon](https://r-causal.github.io/halfmoon/)}: Techniques to Build Better Balance in Propensity Score Models
 * {[interactions](https://interactions.jacob-long.com/)}: A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions
 * {[jskm](https://jinseob2kim.github.io/jskm/)}: R package for Kaplan-Meier Plot
@@ -425,7 +427,6 @@
 * {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
 * {[starbility](https://github.com/AakaashRao/starbility)}: Coefficient stability plots under combinations of controls
 * {[superb](https://dcousin3.github.io/superb/)}: Summary plots with adjusted error bars
-* {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 * {[treeheatr](https://trangdata.github.io/treeheatr/)}: Heatmap-integrated Decision Tree Visualizations
 * {[truchet](https://paezha.github.io/truchet/)}: Package for creating Truchet tiles and mosaics
