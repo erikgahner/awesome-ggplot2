@@ -179,6 +179,7 @@
 ## Themes and aesthetics
 
 * {[add2ggplot](https://jiaxiangbu.github.io/add2ggplot/)}: Add more themes for your ggplot object
+* {[amerika](https://github.com/pdwaggoner/amerika)}: An American politics-inspired color palette generator
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
@@ -232,6 +233,7 @@
 * {[mdthemes](https://github.com/thomas-neitmann/mdthemes)}: Markdown Themes for 'ggplot2'
 * {[MetBrewer](https://github.com/BlakeRMills/MetBrewer)}: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York
 * {[MexBrewer](https://paezha.github.io/MexBrewer/)}: Color Palettes Inspired by Works Mexican Muralists
+* {[mexicolors](https://github.com/alexplatasl/mexicolors)}: A Mexican politics-inspired color palette generator
 * {[MoMAColors](https://github.com/BlakeRMills/MoMAColors)}: Color Schemes based around artwork and the Museum of Modern Art
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
