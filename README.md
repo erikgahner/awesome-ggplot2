@@ -164,6 +164,7 @@
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[plotcli](https://github.com/cheuerde/plotcli)}: Convert ggplot2 objects to colored terminal plots
+* {[plotthis](https://pwwang.github.io/plotthis/)}: High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2
@@ -179,6 +180,7 @@
 ## Themes and aesthetics
 
 * {[add2ggplot](https://jiaxiangbu.github.io/add2ggplot/)}: Add more themes for your ggplot object
+* {[afcharts](https://best-practice-and-impact.github.io/afcharts/)}: Produce Charts Following UK Government Analysis Function Guidance
 * {[amerika](https://github.com/pdwaggoner/amerika)}: An American politics-inspired color palette generator
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
 * {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
@@ -302,6 +304,7 @@
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
+* {[legendry](https://teunbrand.github.io/legendry/)}: Extended Legends and Axes for 'ggplot2'
 * {[pagenum](https://kwstat.github.io/pagenum/index.html)}: Add page number to R graphics
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[relayer](https://github.com/clauswilke/relayer)}: Rethinking layers in ggplot2
@@ -399,8 +402,10 @@
 * {[ggmugs](https://cran.rstudio.com/web/packages/ggmugs/index.html)}: Visualization of Multiple Genome-Wide Association Study Summary Statistics
 * {[ggols](https://github.com/EvaMaeRey/ggols)}: visual expositions of simpler linear models
 * {[ggparty](https://github.com/martin-borkovec/ggparty)}: ggplot2 visualizations for the partykit package
+* {[ggpca](https://cran.r-project.org/web/packages/ggpca/index.html)}: Publication-Ready PCA, t-SNE, and UMAP Plots
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[ggsem](https://smin95.github.io/ggsem/)}: Interactively Visualize Structural Equation Modeling Diagrams
 * {[ggsmc](https://richardgeveritt.github.io/ggsmc/)}: Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods
 * {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
