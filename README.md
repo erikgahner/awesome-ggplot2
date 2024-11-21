@@ -171,6 +171,7 @@
 * {[smplot2](https://github.com/smin95/smplot2)}: Create and annotate composite plots in R and ggplot2
 * {[superheat](https://rlbarter.github.io/superheat/)}: An R package for generating beautiful and customizable heatmaps
 * {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
+* {[tidyplots](https://jbengler.github.io/tidyplots/)}: Tidy Plots for Scientific Papers
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
