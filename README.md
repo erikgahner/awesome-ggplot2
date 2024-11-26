@@ -165,6 +165,7 @@
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[plotcli](https://github.com/cheuerde/plotcli)}: Convert ggplot2 objects to colored terminal plots
 * {[plotthis](https://pwwang.github.io/plotthis/)}: High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages
+* {[scatterbar](https://github.com/JEFworks-Lab/scatterbar)}: Scattered Stacked Bar Chart Plots
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
 * {[shadowtext](https://github.com/GuangchuangYu/shadowtext)}: shadow text for grid and ggplot2
@@ -380,6 +381,7 @@
 ## Data and models
 
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
+* {[effectplots](https://mayer79.github.io/effectplots/)}: Fast Effect Plots in R
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
 * {[dotwhisker](https://fsolt.org/dotwhisker/)}: Dot-and-Whisker Plots of Regression Results
 * {[FunnelPlotR](https://chrismainey.github.io/FunnelPlotR/)}: Funnel plots for comparing institutional performance, with overdispersion adjustment
