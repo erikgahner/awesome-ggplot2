@@ -36,6 +36,7 @@
 * {[flowmapper](https://github.com/JohMast/flowmapper)}: Draw flows (migration, goods, money, information) on ggplots
 * {[ganttrify](https://ganttrify.europeandatajournalism.eu/)}: Create beautiful Gantt charts with ggplot2
 * {[geomtextpath](https://allancameron.github.io/geomtextpath/)}: Create curved text paths in ggplot2
+* {[gg1d](https://selkamand.github.io/gg1d/)}: Exploratory Data Analysis using Tiled One-Dimensional Graphics
 * {[ggalignment](https://github.com/aftonsteps/ggalignment)}: R package for creating D&D alignment charts
 * {[ggalluvial](http://corybrunson.github.io/ggalluvial/)}: ggplot2 extension for alluvial plots
 * {[ggalt](https://github.com/hrbrmstr/ggalt)}: Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'
