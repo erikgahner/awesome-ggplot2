@@ -303,12 +303,11 @@
 * {[ggtibble](https://billdenney.github.io/ggtibble/)}: Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
-* {[gguidance](https://github.com/teunbrand/gguidance)}: additional guides to the ggplot2 ecosystem
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
-* {[legendry](https://teunbrand.github.io/legendry/)}: Extended Legends and Axes for 'ggplot2'
+* {[legendry](https://github.com/teunbrand/legendry)}: Extended Legends and Axes for 'ggplot2'
 * {[pagenum](https://kwstat.github.io/pagenum/index.html)}: Add page number to R graphics
 * {[patchwork](https://patchwork.data-imaginist.com/)}: The Composer of ggplots
 * {[relayer](https://github.com/clauswilke/relayer)}: Rethinking layers in ggplot2
