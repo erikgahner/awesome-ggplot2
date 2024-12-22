@@ -143,6 +143,7 @@
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
+* {[ggtaxplot](https://gitlab.com/ccoclet/ggtaxplot)}: Create Plots to Visualize Taxonomy
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
@@ -412,6 +413,7 @@
 * {[ggsem](https://smin95.github.io/ggsem/)}: Interactively Visualize Structural Equation Modeling Diagrams
 * {[ggsmc](https://richardgeveritt.github.io/ggsmc/)}: Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods
 * {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
+* {[ggvegan](https://gavinsimpson.github.io/ggvegan/)}: ggplot-based plots for vegan
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
 * {[gratia](https://gavinsimpson.github.io/gratia/)}: ggplot-based graphics and useful functions for GAMs fitted using the mgcv package
 * {[ggpicrust2](https://cafferychen777.github.io/ggpicrust2/)}: Make Picrust2 Output Analysis and Visualization Easier
