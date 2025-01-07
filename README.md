@@ -606,6 +606,7 @@
 * Python
   * [Annotated area charts with plotnine](https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/)
   * [Plotnine: Grammar of Graphics for Python](https://jeroenjanssens.com/plotnine/)
+  * [Describing Distributions](https://md.ekstrandom.net/resources/data-science/distributions/)
 
 # Video tutorials
 
