@@ -110,6 +110,7 @@
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2
+* {[ggstackplot](https://ggstackplot.kopflab.org/)}: Create Overlapping Stacked Plots
 * {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers
 * {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
