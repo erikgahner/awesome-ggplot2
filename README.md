@@ -75,6 +75,7 @@
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[ggfacto](https://github.com/BriceNocenti/ggfacto)}: Graphs for correspondence analysis
 * {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
+* {[ggfootball](http://aymennasri.me/ggfootball/)}: Plotting Expected Goals (xG) Stats with 'Understat' Data
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
 * {[ggfun](https://github.com/YuLab-SMU/ggfun)}: Miscellaneous Functions for 'ggplot2'
 * {[gggenes](https://github.com/wilkox/gggenes)}: Draw gene arrow maps in ggplot2
@@ -113,6 +114,7 @@
 * {[ggstackplot](https://ggstackplot.kopflab.org/)}: Create Overlapping Stacked Plots
 * {[ggstamp](https://evamaerey.github.io/ggstamp/)}: stamp_* as an API for annotation layers
 * {[ggstance](https://github.com/lionel-/ggstance)}: Horizontal ggplot2 components
+* {[ggsurveillance](https://ggsurveillance.biostats.dev/)}: Tools and 'ggplot2' Extensions for Infectious Disease Surveillance and Outbreak Investigation
 * {[ggpage](https://emilhvitfeldt.github.io/ggpage/)}: Creates Page Layout Visualizations in R
 * {[ggparallel](https://heike.github.io/ggparallel/)}: R package for creating hammock plots and parallel sets plots using the ggplot2 framework
 * {[ggperiodic](https://github.com/eliocamp/ggperiodic)}: Easy plotting of periodic data with ggplot2
