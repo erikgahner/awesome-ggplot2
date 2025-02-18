@@ -552,6 +552,7 @@
   * [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
   * [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
   * [Creating upset charts with ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
+  * [Easy geom recipes](https://evamaerey.github.io/easy-geom-recipes/)
   * [Exploring ggplot2 boxplots - Defining limits and adjusting style](https://waterdata.usgs.gov/blog/boxplots/)
   * [Exploring other {ggplot2} geoms](https://ivelasq.rbind.io/blog/other-geoms/)
   * [ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph](https://github.com/cxli233/ggpathway)
