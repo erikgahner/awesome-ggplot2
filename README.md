@@ -589,6 +589,7 @@
   * [Drawing waterlines with ggplot2 in R](https://brunomioto.com/posts/waterlines/en/)
   * [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
   * [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
+  * [How to use a histogram as a legend in {ggplot2}](https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/)
   * [Inset maps with ggplot2](https://geocompx.org/post/2019/ggplot2-inset-maps/)
   * [Making Middle Earth maps with R](https://www.andrewheiss.com/blog/2023/04/26/middle-earth-mapping-sf-r-gis/)
   * [Plot RGB satellite imagery in true-color with ggplot2 in R](https://medium.com/@tobias.stalder.geo/plot-rgb-satellite-imagery-in-true-color-with-ggplot2-in-r-10bdb0e4dd1f)
