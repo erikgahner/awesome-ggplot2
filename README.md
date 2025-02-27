@@ -170,6 +170,7 @@
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[plotcli](https://github.com/cheuerde/plotcli)}: Convert ggplot2 objects to colored terminal plots
 * {[plotthis](https://pwwang.github.io/plotthis/)}: High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages
+* {[qbinplots](https://edwindj.github.io/qbinplots/)}: Quantile Binned Plots
 * {[scatterbar](https://github.com/JEFworks-Lab/scatterbar)}: Scattered Stacked Bar Chart Plots
 * {[scattermore](https://github.com/exaexa/scattermore)}: very fast scatterplots for R
 * {[see](https://easystats.github.io/see/)}: Visualisation toolbox for beautiful and publication-ready figures
