@@ -156,6 +156,7 @@
 * {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
+* {[ggvfields](https://dustysturner.com/ggvfields/)}: Vector Field Visualizations with 'ggplot2'
 * {[ggvolcano](https://cran.r-project.org/web/packages/ggvolcano/)}: Publication-Ready Volcano Plots
 * {[ggvoronoi](https://github.com/garretrc/ggvoronoi/)}: Easy Voronoi diagram heatmaps with ggplot2
 * {[ggvwline](https://github.com/Hy4m/ggvwline)}: Layer functions for drawing variable-width curves
