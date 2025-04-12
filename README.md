@@ -202,6 +202,7 @@
 * {[DOYPAColors](https://github.com/jmestret/DOYPAColors)}: Don't Overthink Your Palette of Colors
 * {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
 * {[dutchmasters](https://github.com/EdwinTh/dutchmasters)}: R package with colour palettes derived from famous paintings by 17th century Dutch masers
+* {[flexoki](https://christophertkenny.com/flexoki/)}: Inky Color Schemes
 * {[tricolore](https://github.com/jschoeley/tricolore)}: A flexible color scale for ternary compositions
 * {[gameofthrones](https://github.com/aljrico/gameofthrones)}: Game of Thrones inspired palette for R
 * {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
@@ -321,6 +322,7 @@
 * {[scales](https://scales.r-lib.org/)}: Tools for ggplot2 scales
 * {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
+* {[tickr](https://github.com/ben-williams/tickr)}: Consistent Axis Tick Marks
 
 ## Interactive
 
