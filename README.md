@@ -323,6 +323,7 @@
 * {[showtext](https://github.com/yixuan/showtext)}: Using Fonts More Easily in R Graphs
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
 * {[tickr](https://github.com/ben-williams/tickr)}: Consistent Axis Tick Marks
+* {[vayr](https://alexandercoppock.com/vayr/)}: Extensions for 'ggplot2' to Visualize as You Randomize
 
 ## Interactive
 
