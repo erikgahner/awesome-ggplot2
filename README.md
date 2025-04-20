@@ -648,6 +648,9 @@
   * [How to Plot Statistical Group Comparisons in R: ggstatsplot](https://www.youtube.com/watch?v=Yhz0TKP_CUc)
   * [Make Your Charts Interactive With the {ggiraph} Package](https://www.youtube.com/watch?v=ZyjwF3FMjFE)
 
+* Python
+  * [Practical Techniques for Polished Visuals with Plotnine](https://www.youtube.com/watch?v=NBGJuaBF2rc)
+
 # TidyTuesday
 
 * [Official repository](https://github.com/rfordatascience/tidytuesday)
