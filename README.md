@@ -107,6 +107,7 @@
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
 * {[ggsector](https://github.com/yanpd01/ggsector)}: Use R language to draw sector
+* {[ggsegmentedtotalbar](https://github.com/ozancanozdemir/ggsegmentedtotalbar)}: Create a Segmented Total Bar Plot with Custom Annotations and Labels
 * {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
