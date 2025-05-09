@@ -67,6 +67,7 @@
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
+* {[ggEDA](https://ccicb.github.io/ggEDA/)}: Turnkey Visualisations for Exploratory Data Analysis
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
 * {[ggdaynight](https://github.com/GabrielSlPires/ggdaynight)}: Add Day/Night Patterns to ggplot2 Plots
 * {[ggdirectlabel](https://github.com/MattCowgill/ggdirectlabel)}: Make it easier to directly label ggplot2 charts
