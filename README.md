@@ -84,9 +84,11 @@
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
 * {[gghalves](https://erocoar.github.io/gghalves/)}: Easy half-half geoms in ggplot2
 * {[gghdr](https://github.com/Sayani07/gghdr)}: Plots of highest density regions (HDR) for ggplot2
+* {[gghexsize](https://hrryt.github.io/gghexsize/)}: Make Hexagonal Heatmaps with Varying Hexagon Sizes
 * {[gghilbertstrings](https://sumidu.github.io/gghilbertstrings/)}: Create Hilbert curves in ggplot2
 * {[ggHoriPlot](https://rivasiker.github.io/ggHoriPlot/)}: build horizon plots in ggplot2
 * {[gghourglass](https://pepijn-devries.github.io/gghourglass/)}: Plot Records per Time of Day
+* {[ggideogram](https://github.com/dxsbiocc/ggideogram)}: ggideogram is a ggplot2 extension package for drawing chromosome diagrams
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[gglinedensity](https://hrryt.github.io/gglinedensity/)}: Make DenseLines Heatmaps with 'ggplot2'
@@ -153,9 +155,12 @@
 * {[ggtaxplot](https://gitlab.com/ccoclet/ggtaxplot)}: Create Plots to Visualize Taxonomy
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
+* {[ggtextcircle](https://github.com/nrennie/ggtextcircle)}: R package to plot text in a (partial) circle
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
+* {[ggtranscript](https://dzhang32.github.io/ggtranscript/)}: Visualizing transcript structure and annotation using ggplot2
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
+* {[ggtreebar](https://hrryt.github.io/ggtreebar/)}:
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
