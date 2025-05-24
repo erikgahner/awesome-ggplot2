@@ -160,7 +160,7 @@
 * {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtranscript](https://dzhang32.github.io/ggtranscript/)}: Visualizing transcript structure and annotation using ggplot2
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
-* {[ggtreebar](https://hrryt.github.io/ggtreebar/)}:
+* {[ggtreebar](https://hrryt.github.io/ggtreebar/)}: Make Treemap Bar Charts with 'ggplot2'
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
@@ -260,6 +260,7 @@
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
 * {[nord](https://github.com/jkaupp/nord)}: Northern-themed Color palettes
+* {[okcolors](https://github.com/nelsonquesado/okcolors)}: A Set of Color Palettes Inspired by OK Go Music Videos for 'ggplot2' in R
 * {[onsvplot](https://pabsantos.github.io/onsvplot/)}: National Road Safety Observatory (ONSV) Style for 'ggplot2' Graphics
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
