@@ -24,6 +24,7 @@
 
 * {[biscale](https://chris-prener.github.io/biscale/)}: Bivariate Mapping with ggplot2
 * {[calendR](https://github.com/R-CoderDotCom/calendR)}: Fully customizable ready to print monthly and yearly calendars made with ggplot2
+* {[ChauBoxplot](https://tiejuntong.github.io/ChauBoxplot/)}: Chauvenet-Type Boxplot
 * {[complex-upset](https://krassowski.github.io/complex-upset/)}: A library for creating complex UpSet plots with ggplot2 geoms
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
 * {[dbplot](https://edgararuiz.github.io/dbplot/)}: Simplifies plotting of database and sparklyr data
@@ -101,6 +102,7 @@
 * {[ggordiplots](https://github.com/jfq3/ggordiplots)}: Make ggplot Versions of Vegan's Ordiplots
 * {[ggpackets](https://dgkf.github.io/ggpackets/)}: Cleaner composition of ggplot layers
 * {[ggparliament](https://github.com/RobWHickman/ggparliament)}: Simple parliament plots using ggplot2
+* {[ggpedigree](https://r-computing-lab.github.io/ggpedigree/)}: Visualizing Pedigrees with 'ggplot2' and 'plotly'
 * {[ggpercentogram](https://github.com/eliocamp/ggpercentogram)}: Create equal-area histograms with 'ggplot2'
 * {[ggpie](https://github.com/Rkabacoff/ggpie)}: Create pie charts using ggplot2
 * {[ggPlantmap](https://github.com/leonardojo/ggPlantmap)}: Generate ggplot maps from plant images
