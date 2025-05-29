@@ -273,6 +273,7 @@
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
 * {[savonliquide](https://github.com/feddelegrand7/savonliquide)}: Check for Color Contrast Accessibility in R
 * {[scico](https://github.com/thomasp85/scico)}: Palettes for R based on the Scientific Colour-Maps
+* {[sgplot](https://scotgovanalysis.github.io/sgplot/)}: Graphic Styles and Colours for Scottish Government Plots
 * {[soilpalettes](https://github.com/kaizadp/soilpalettes)}: R color palettes inspired by soil profiles
 * {[stevethemes](http://svmiller.com/stevethemes/)}: Steve’s ggplot2 Themes and Related Theme Elements
 * {[tgamtheme](https://globeandmail.github.io/tgamtheme/)}: Globe and Mail Graphics Theme for 'ggplot2'
