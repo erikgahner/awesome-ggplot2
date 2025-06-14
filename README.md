@@ -180,6 +180,7 @@
 * {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
+* {[piecepackr](https://github.com/piecepackr/piecepackr)}: Board Game Graphics
 * {[plotcli](https://github.com/cheuerde/plotcli)}: Convert ggplot2 objects to colored terminal plots
 * {[plotthis](https://pwwang.github.io/plotthis/)}: High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages
 * {[qbinplots](https://edwindj.github.io/qbinplots/)}: Quantile Binned Plots
@@ -370,6 +371,7 @@
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
+* {[oblicubes](https://trevorldavis.com/R/oblicubes/)}: 3D Rendering Using Obliquely Projected Cubes and Cuboids
 * {[ozmaps](https://mdsumner.github.io/ozmaps/)}: Australian maps
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization
@@ -399,6 +401,7 @@
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
+* {[nflplotR](https://nflplotr.nflverse.com/)}: NFL Logo Plots in 'ggplot2' and 'gt'
 
 ## Data and models
 
@@ -465,6 +468,10 @@
 * {[treeheatr](https://trangdata.github.io/treeheatr/)}: Heatmap-integrated Decision Tree Visualizations
 * {[truchet](https://paezha.github.io/truchet/)}: Package for creating Truchet tiles and mosaics
 * {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
+
+## Miscellaneous
+
+* {[ggrandom](https://github.com/EmilHvitfeldt/ggrandom)}: Introduce Absolute Chaos to 'ggplot2'
 
 # Python packages
 
