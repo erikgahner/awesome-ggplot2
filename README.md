@@ -114,7 +114,6 @@
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
 * {[ggsector](https://github.com/yanpd01/ggsector)}: Use R language to draw sector
 * {[ggsegmentedtotalbar](https://github.com/ozancanozdemir/ggsegmentedtotalbar)}: Create a Segmented Total Bar Plot with Custom Annotations and Labels
-* {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
@@ -340,11 +339,14 @@
 
 ## Interactive
 
+* {[autoplotly](https://github.com/terrytangyuan/autoplotly)}: Automatic Generation of Interactive Visualizations for Statistical Results
+* {[esquisse](https://dreamrs.github.io/esquisse/)}: Explore and Visualize Your Data Interactively
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 
 ## Network
+
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
@@ -386,6 +388,7 @@
 
 * {[deeptime](https://github.com/willgearty/deeptime)}: Plotting Tools for Anyone Working in Deep Time
 * {[ggsurvfit](https://www.danieldsjoberg.com/ggsurvfit/)}: Easy and Flexible Time-To-Event Figures
+* {[ggtime](https://pkg.mitchelloharawild.com/ggtime/)}: Grammar of Graphics and Plot Helpers for Time Series Visualization
 * {[ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)}: Time series visualisation
 * {[survminer](https://rpkgs.datanovia.com/survminer/)}: Survival Analysis and Visualization
 * {[vistime](https://shosaco.github.io/vistime/)}: Pretty timelines in R
@@ -399,6 +402,7 @@
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
+* {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
 * {[nflplotR](https://nflplotr.nflverse.com/)}: NFL Logo Plots in 'ggplot2' and 'gt'
