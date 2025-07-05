@@ -292,6 +292,7 @@
 ## Presentation, composition and scales
 
 * {[aplot](https://github.com/YuLab-SMU/aplot)}: Decorate a plot with associated information
+* {[autograph](https://stocnet.github.io/autograph/)}: Automatic Plotting of Many Graphs
 * {[camcorder](https://github.com/thebioengineer/camcorder)}: Record plots generated during an R session and replay as a gif!
 * {[cowplot](https://wilkelab.org/cowplot/)}: Streamlined Plot Theme and Plot Annotations for ggplot2
 * {[egg](https://github.com/jwdink/egg)}: (fragile) extensions for ggplot2
