@@ -80,6 +80,7 @@
 * {[ggfootball](http://aymennasri.me/ggfootball/)}: Plotting Expected Goals (xG) Stats with 'Understat' Data
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
 * {[ggfun](https://github.com/YuLab-SMU/ggfun)}: Miscellaneous Functions for 'ggplot2'
+* {[gggda](https://corybrunson.github.io/gggda/reference/index.html)}: A 'ggplot2' Extension for Geometric Data Analysis
 * {[gggenes](https://github.com/wilkox/gggenes)}: Draw gene arrow maps in ggplot2
 * {[gggenomes](https://thackl.github.io/gggenomes/)}: A grammar of graphics for comparative genomics
 * {[gggibbous](https://github.com/mnbram/gggibbous)}: Moon charts, a pie chart alternative, for ggplot2
@@ -324,6 +325,7 @@
 * {[ggtibble](https://billdenney.github.io/ggtibble/)}: Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
+* {[ggtranslate](https://github.com/mathiasleroy/ggtranslate)}: A 'ggplot2' Extension for Translating Plot Text
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
