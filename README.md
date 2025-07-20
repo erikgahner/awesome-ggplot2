@@ -59,6 +59,7 @@
 * {[ggcalendar](https://github.com/EvaMaeRey/ggcalendar)}: x and y position as days in month
 * {[ggcats](https://github.com/R-CoderDotCom/ggcats)}: The geom you always wished for adding cats to ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
+* {[ggchord](https://github.com/DangJem/ggchord)}: Multi-Sequence 'BLAST' Alignment Chord Diagram Visualization Tool
 * {[ggcleveland](https://github.com/mpru/ggcleveland)}: Implementation of plots from Cleveland's Visualizing Data book in ggplot2
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
@@ -261,6 +262,7 @@
 * {[mexicolors](https://github.com/alexplatasl/mexicolors)}: A Mexican politics-inspired color palette generator
 * {[MoMAColors](https://github.com/BlakeRMills/MoMAColors)}: Color Schemes based around artwork and the Museum of Modern Art
 * {[monochromeR](https://github.com/cararthompson/monochromeR)}: A package for creating monochrome colour palettes and easily converting rgba values to hex codes
+* {[mycolorsTB](https://github.com/PathoGenOmics-Lab/mycolorsTB)}: Color Palettes for Mycobacterium Tuberculosis Data Visualization
 * {[NatParksPalettes](https://github.com/kevinsblake/NatParksPalettes)}: Color palette package inspired by National Parks
 * {[nord](https://github.com/jkaupp/nord)}: Northern-themed Color palettes
 * {[okcolors](https://github.com/nelsonquesado/okcolors)}: A Set of Color Palettes Inspired by OK Go Music Videos for 'ggplot2' in R
