@@ -699,3 +699,4 @@
 * [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz)
 * [Comparing ggplot2 and R Base Graphics](https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)
 * [Most upvoted ggplot2 questions on Stack Overflow](https://stackoverflow.com/questions/tagged/ggplot2?tab=Votes)
+* [Packages (ggplot2)](https://tinyurl.com/ggplot2packages/)
