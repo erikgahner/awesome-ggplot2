@@ -64,6 +64,7 @@
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
+* {[ggcorrheatmap](https://leod123.github.io/ggcorrheatmap/)}: Make Flexible 'ggplot2' Correlation Heatmaps
 * {[ggcorset](https://github.com/kbelisar/ggcorset)}: Introducing corset plots
 * {[ggpcp](https://cran.r-project.org/web/packages/ggpcp/index.html)}: Parallel Coordinate Plots in the 'ggplot2' Framework
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
@@ -109,6 +110,7 @@
 * {[ggpie](https://github.com/Rkabacoff/ggpie)}: Create pie charts using ggplot2
 * {[ggPlantmap](https://github.com/leonardojo/ggPlantmap)}: Generate ggplot maps from plant images
 * {[ggplateplot](https://github.com/teunbrand/ggplateplot)}: make plots resembling cell culture microwell plates
+* {[ggplayfair](https://github.com/DerekStevens99/ggplayfair)}: Geoms for Playfair-Style Charts
 * {[ggpointdensity](https://github.com/LKremer/ggpointdensity)}: A Cross Between a Scatter Plot and a 2D Density Plot
 * {[ggpointgrid](https://github.com/nevrome/ggpointgrid)}: Rearrange scatter plot points on a regular grid
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
@@ -365,6 +367,7 @@
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggautomap](https://cidm-ph.github.io/ggautomap/)}: Create ggplot maps from a column of place names
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
+* {[ggdibbler](https://harriet-mason.github.io/ggdibbler/)}: Add Uncertainty to Data Visualisations
 * {[ggfields](https://pepijn-devries.github.io/ggfields/)}: Add vector fields layers to ggplots
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
