@@ -69,6 +69,8 @@
 * {[ggpcp](https://cran.r-project.org/web/packages/ggpcp/index.html)}: Parallel Coordinate Plots in the 'ggplot2' Framework
 * {[ggdemetra](https://aqlt.github.io/ggdemetra/)}: ggplot2 extension for seasonal and trading day adjustment with RJDemetra
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
+* {[ggdiagram](https://wjschne.github.io/ggdiagram/)}: Object-Oriented Diagram Plots with 'ggplot2'
+* {[ggdiceplot](https://github.com/maflot/ggdiceplot)}: Dice Plot Visualization for 'ggplot2'
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggEDA](https://ccicb.github.io/ggEDA/)}: Turnkey Visualisations for Exploratory Data Analysis
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
@@ -290,6 +292,7 @@
 * {[unhcrthemes](https://vidonne.github.io/unhcrthemes/)}: UNHCR branded theme for ggplot2 and data visualization colour palettes
 * {[unicol](https://hneth.github.io/unicol/)}: The colors of your university
 * {[urbnthemes](https://urbaninstitute.github.io/urbnthemes/index.html)}: Urban Institute's ggplot2 theme and tools
+* {[vangogh](https://github.com/cherylisabella/vangogh)}: Vincent Van Gogh Colour Palette Generator
 * {[viridis](http://sjmgarnier.github.io/viridis)}: Colorblind-Friendly Color Maps for R
 * {[wesanderson](https://github.com/karthik/wesanderson)}: A Wes Anderson color palette for R
 * {[wsjplot](https://cran.r-project.org/web/packages/wsjplot/)}: Style Time Series Plots Like the Wall Street Journal
