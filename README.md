@@ -387,6 +387,7 @@
 * {[oblicubes](https://trevorldavis.com/R/oblicubes/)}: 3D Rendering Using Obliquely Projected Cubes and Cuboids
 * {[ozmaps](https://mdsumner.github.io/ozmaps/)}: Australian maps
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
+* {[RCaucTile](https://cran.r-project.org/web/packages/RCaucTile/index.html)}: Tile Grid Maps for East Caucasian Languages
 * {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
 * {[stars](https://r-spatial.github.io/stars/)}: Spatiotemporal Arrays, Raster and Vector Data Cubes
