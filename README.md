@@ -180,6 +180,7 @@
 * {[ggweekly](https://github.com/gadenbuie/ggweekly)}: Easy, printable, custom calendars and week planners
 * {[ggwordcloud](https://lepennec.github.io/ggwordcloud/)}: A word cloud geom for ggplot2
 * {[ggxmean](https://github.com/EvaMaeRey/ggxmean)}: Put a vertical line at the mean of x w/ geom_xmean() and do other stuff
+* {[ivolcano](https://cran.r-project.org/web/packages/ivolcano/index.html)}: Interactive Volcano Plot
 * {[jjPlot](https://github.com/junjunlab/jjPlot)}: funny geom/stat functions for visualization
 * {[likert](https://jbryer.github.io/likert/)}: Analysis and Visualization Likert Items
 * {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
