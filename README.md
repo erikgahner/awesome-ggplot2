@@ -313,6 +313,7 @@
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
+* {[ggbranding](https://gnoblet.github.io/ggbranding/)}: Add personal branding to ggplot2 charts
 * {[ggbreak](https://github.com/YuLab-SMU/ggbreak)}: Set Axis Break for 'ggplot2'
 * {[ggcolormeter](https://github.com/yjunechoe/ggcolormeter)}: A ggplot2 color/fill legend guide extension in the style of a dashboard meter
 * {[ggfigdone](https://wenjie1991.github.io/ggfigdone/)}: Manage ggplot figures using ggfigdone
