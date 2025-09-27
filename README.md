@@ -71,6 +71,7 @@
 * {[ggdensity](https://jamesotto852.github.io/ggdensity/)}: An R package for interpretable visualizations of density estimates
 * {[ggdiagram](https://wjschne.github.io/ggdiagram/)}: Object-Oriented Diagram Plots with 'ggplot2'
 * {[ggdiceplot](https://github.com/maflot/ggdiceplot)}: Dice Plot Visualization for 'ggplot2'
+* {[ggDNAvis](https://ejade42.github.io/ggDNAvis/)}: 'ggplot2'-Based Tools for Visualising DNA Sequences and Modifications
 * {[ggeconodist](https://github.com/hrbrmstr/ggeconodist)}: Create Diminutive Distribution Charts
 * {[ggEDA](https://ccicb.github.io/ggEDA/)}: Turnkey Visualisations for Exploratory Data Analysis
 * {[ggdag](https://ggdag.malco.io/)}: An R Package for visualizing and analyzing causal directed acyclic graphs
@@ -360,6 +361,7 @@
 ## Network
 
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
+* {[gglyph](https://valentinsvelev.github.io/gglyph/)}: Network-Style Visualization of Directed Pairwise Relationships
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
 * {[ggtangle](https://cran.r-project.org/web/packages/ggtangle/index.html)}: Draw Network with Data
