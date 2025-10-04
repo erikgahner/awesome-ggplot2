@@ -476,6 +476,7 @@
 * {[mlr3viz](https://mlr3viz.mlr-org.com/)}: Visualizations for mlr3
 * {[moderndive](https://moderndive.github.io/moderndive/)}: R package for tidyverse-friendly introductory linear regression
 * {[naniar](https://github.com/njtierney/naniar)}: Tidy data structures, summaries, and visualisations for missing data
+* {[splineplot](https://jinseob2kim.github.io/splineplot/)}: Visualization of Spline Effects in GAM and GLM Models
 * {[performance](https://easystats.github.io/performance/)}: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
 * {[ppsr](https://github.com/paulvanderlaken/ppsr)}: R implementation of Predictive Power Score
