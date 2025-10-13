@@ -377,6 +377,7 @@
 * {[ggdibbler](https://harriet-mason.github.io/ggdibbler/)}: Add Uncertainty to Data Visualisations
 * {[ggfields](https://pepijn-devries.github.io/ggfields/)}: Add vector fields layers to ggplots
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
+* {[ggmapcn](https://rimagination.github.io/ggmapcn/)}: Customizable China Map Visualizations
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2
 * {[ggredist](https://alarm-redist.org/ggredist/)}: Scales, Geometries, and Extensions of 'ggplot2' for Election Mapping
