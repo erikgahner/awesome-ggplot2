@@ -377,6 +377,7 @@
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
 * {[ggdibbler](https://harriet-mason.github.io/ggdibbler/)}: Add Uncertainty to Data Visualisations
 * {[ggfields](https://pepijn-devries.github.io/ggfields/)}: Add vector fields layers to ggplots
+* {[ggincerta](https://github.com/maggiexma/ggincerta)}: Extend 'ggplot2' with Layers and Scales for Spatial Uncertainty Visualization
 * {[ggmap](https://github.com/dkahle/ggmap)}: A package for plotting maps in R with ggplot2
 * {[ggmapcn](https://rimagination.github.io/ggmapcn/)}: Customizable China Map Visualizations
 * {[ggmapinset](https://cidm-ph.github.io/ggmapinset/)}: Add zoomed inset panels to your ggplot maps
