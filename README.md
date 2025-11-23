@@ -277,6 +277,7 @@
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
 * {[PrettyCols](https://nrennie.github.io/PrettyCols/)}: R package containing pretty colour palettes.
+* {[rbranding](https://epiforesite.github.io/rbranding/)}: Manage Branding and Accessibility of R Projects
 * {[rcartocolor](https://jakubnowosad.com/rcartocolor/)}: Implementation of the CARTOcolor palettes in R
 * {[Rdune](https://github.com/nvietto/Rdune)}: Creates color palettes inspired by "Dune"
 * {[rockthemes](https://johnmackintosh.com/rockthemes/)}: R colour palettes based on classic rock albums and some other ones
