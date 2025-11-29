@@ -276,6 +276,7 @@
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
+* {[poisonfrogs](https://laurenoconnelllab.github.io/poisonfrogs/)}: Color Palettes Inspired by Neotropical Poison Frogs
 * {[PrettyCols](https://nrennie.github.io/PrettyCols/)}: R package containing pretty colour palettes.
 * {[rbranding](https://epiforesite.github.io/rbranding/)}: Manage Branding and Accessibility of R Projects
 * {[rcartocolor](https://jakubnowosad.com/rcartocolor/)}: Implementation of the CARTOcolor palettes in R
