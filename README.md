@@ -560,6 +560,7 @@
   * [ggplot tricks](https://github.com/teunbrand/ggplot_tricks)
   * [Iterative visualizations with ggplot2: no more copy-pasting](https://www.elenadudukina.com/post/iterative-ggplotting/2021-06-20-iterative-plotting/)
   * [split polygon art](https://github.com/cj-holmes/split-polygon-art)
+  * [Things you may or you may not know in ggplot2](https://joshuamarie.com/posts/09-ggplot2/)
 
 * Theme customisation
   * [3 alternatives to a discrete color scale legend in ggplot2](https://www.nsgrantham.com/legend-alternatives-ggplot2)
