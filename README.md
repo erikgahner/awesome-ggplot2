@@ -118,6 +118,7 @@
 * {[ggpointgrid](https://github.com/nevrome/ggpointgrid)}: Rearrange scatter plot points on a regular grid
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
+* {[ggrecipes](https://ignophi.github.io/ggrecipes/)}: Recipes for Data Visualization
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
 * {[ggsector](https://github.com/yanpd01/ggsector)}: Use R language to draw sector
 * {[ggsegmentedtotalbar](https://github.com/ozancanozdemir/ggsegmentedtotalbar)}: Create a Segmented Total Bar Plot with Custom Annotations and Labels
@@ -356,6 +357,7 @@
 ## Interactive
 
 * {[autoplotly](https://github.com/terrytangyuan/autoplotly)}: Automatic Generation of Interactive Visualizations for Statistical Results
+* {[blockr.ggplot](https://bristolmyerssquibb.github.io/blockr.ggplot/)}: Interactive 'ggplot2' Visualization Blocks
 * {[esquisse](https://dreamrs.github.io/esquisse/)}: Explore and Visualize Your Data Interactively
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
@@ -389,6 +391,7 @@
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
 * {[ggswissmaps](https://github.com/gibonet/ggswissmaps)}: Offers Various Swiss Maps as Data Frames and 'ggplot2' Objects
+* {[insetplot](https://fncokg.github.io/insetplot/)}: Inset Plots for Spatial Data Visualization
 * {[layer](https://github.com/marcosci/layer)}: Create stacked tilted maps
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
