@@ -172,6 +172,7 @@
 * {[ggtreebar](https://hrryt.github.io/ggtreebar/)}: Make Treemap Bar Charts with 'ggplot2'
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
+* {[ggtwotone](https://bwanniarachchige2.github.io/ggtwotone/)}: Dual-Tone and Contrast-Aware ggplot2 Geoms
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggvfields](https://dustysturner.com/ggvfields/)}: Vector Field Visualizations with 'ggplot2'
@@ -328,6 +329,7 @@
 * {[ggformula](http://www.mosaic-web.org/ggformula/)}: Provides a formula interface to 'ggplot2' graphics
 * {[gggrid](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)}: Accessing 'grid' from 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
+* {[gghic](https://jasonwong-lab.github.io/gghic/)}: Visualizations of 3D genome organization data
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[gglogger](https://pwwang.github.io/gglogger/)}: Track 'ggplot2' Calls
@@ -369,6 +371,7 @@
 * {[geomnet](http://sctyner.github.io/geomnet/)}: Network visualization in the ggplot2 framework
 * {[gglyph](https://valentinsvelev.github.io/gglyph/)}: Network-Style Visualization of Directed Pairwise Relationships
 * {[ggnet](https://briatte.github.io/ggnet/)}: Network visualization with ggplot2
+* {[ggNetView](https://jiawang1209.github.io/ggNetView/)}: Network analysis and visualization
 * {[ggnetwork](https://briatte.github.io/ggnetwork/)}: Geoms to plot networks with ggplot2
 * {[ggtangle](https://cran.r-project.org/web/packages/ggtangle/index.html)}: Draw Network with Data
 * {[graphlayouts](http://graphlayouts.schochastics.net/)}: New layout algorithms for network visualizations in R
@@ -502,6 +505,7 @@
 ## Miscellaneous
 
 * {[ggrandom](https://github.com/EmilHvitfeldt/ggrandom)}: Introduce Absolute Chaos to 'ggplot2'
+* {[ggSketch](https://github.com/Jiawang1209/ggSketch)}: Transforms photos into sketch-style contour drawings
 
 # Python packages
 
