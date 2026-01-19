@@ -328,6 +328,7 @@
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
 * {[ggformula](http://www.mosaic-web.org/ggformula/)}: Provides a formula interface to 'ggplot2' graphics
 * {[gggrid](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)}: Accessing 'grid' from 'ggplot2'
+* {[ggguides](https://gillescolling.com/ggguides/)}: Simplified Legend and Guide Alignment for 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghic](https://jasonwong-lab.github.io/gghic/)}: Visualizations of 3D genome organization data
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
