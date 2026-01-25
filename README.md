@@ -99,6 +99,7 @@
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[gglinedensity](https://hrryt.github.io/gglinedensity/)}: Make DenseLines Heatmaps with 'ggplot2'
+* {[gglycan](https://cran.r-project.org/web/packages/gglycan/index.html)}: Plot Glycans using 'ggplot2'
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data
@@ -156,6 +157,7 @@
 * {[ggseqplot](https://maraab23.github.io/ggseqplot/)}: Render Sequence Plots using 'ggplot2'
 * {[ggside](https://github.com/jtlandis/ggside)}: ggplot2 extension allowing for plotting various geometries as side panels
 * {[ggsignif](https://github.com/const-ae/ggsignif)}: Easily add significance brackets to your ggplots
+* {[ggskewboxplots](https://cran.r-project.org/web/packages/ggskewboxplots/index.html)}: Skew Boxplot Geoms for 'ggplot2'
 * {[ggsolar](https://github.com/hrbrmstr/ggsolar)}: Generate "solar system" plots with {ggplot2}
 * {[ggspark](https://github.com/marcboschmatas/ggspark)}: ggplot2 Functions to Create Tufte Style Sparklines
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
@@ -357,6 +359,7 @@
 * {[tagger](https://eliocamp.github.io/tagger/)}: Add tags to ggplot2 facets
 * {[tickr](https://github.com/ben-williams/tickr)}: Consistent Axis Tick Marks
 * {[vayr](https://alexandercoppock.com/vayr/)}: Extensions for 'ggplot2' to Visualize as You Randomize
+* {[vbracket](https://github.com/h20gg702/vbracket)}: Custom Legends with Statistical Comparison Brackets
 
 ## Interactive
 
