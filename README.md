@@ -470,6 +470,7 @@
 * {[ggpca](https://cran.r-project.org/web/packages/ggpca/index.html)}: Publication-Ready PCA, t-SNE, and UMAP Plots
 * {[ggpmisc](https://docs.r4photobiology.info/ggpmisc/)}: R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics
 * {[ggpval](https://github.com/s6juncheng/ggpval)}: Add statistical test or annotation to your ggplot2 plots
+* {[ggsced](https://cran.r-project.org/web/packages/ggsced/)}: Utilities and Helpers for Single Case Experimental Design (SCED) using 'ggplot2'
 * {[ggsem](https://smin95.github.io/ggsem/)}: Interactively Visualize Structural Equation Modeling Diagrams
 * {[ggsmc](https://richardgeveritt.github.io/ggsmc/)}: Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods
 * {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
