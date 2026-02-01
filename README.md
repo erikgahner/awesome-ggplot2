@@ -204,6 +204,7 @@
 * {[swimplot](https://cran.r-project.org/web/packages/swimplot/)}: Tools for Creating Swimmers Plots using 'ggplot2'
 * {[tidyplots](https://jbengler.github.io/tidyplots/)}: Tidy Plots for Scientific Papers
 * {[treemapify](http://wilkox.org/treemapify/)}: Draw treemaps in ggplot2
+* {[VennItem](https://github.com/microbialman/VennItem)}: Generate Venn Diagrams with Items Listed in the Sections
 * {[visdat](https://docs.ropensci.org/visdat/)}: Preliminary Exploratory Visualisation of Data
 * {[waffle](https://github.com/hrbrmstr/waffle)}: Make waffle (square pie) charts in R
 * {[waterfalls](https://github.com/hughparsonage/waterfalls)}: R package to create waterfall charts
