@@ -506,6 +506,7 @@
 * {[tidybayes](http://mjskay.github.io/tidybayes/)}: Bayesian analysis + tidy data + geoms
 * {[treeheatr](https://trangdata.github.io/treeheatr/)}: Heatmap-integrated Decision Tree Visualizations
 * {[truchet](https://paezha.github.io/truchet/)}: Package for creating Truchet tiles and mosaics
+* {[vismi](https://agnesdeng.github.io/vismi/)}: Visual Diagnostics for Multiple Imputation
 * {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
 
 ## Miscellaneous
