@@ -349,6 +349,7 @@
 * {[ggtranslate](https://github.com/mathiasleroy/ggtranslate)}: A 'ggplot2' Extension for Translating Plot Text
 * {[ggupset](https://github.com/const-ae/ggupset)}: Combination matrix axis for 'ggplot2' to create 'UpSet' plots
 * {[ggview](https://github.com/idmn/ggview)}: Ggplot picture previewer
+* {[ggwidth](https://davidhodge931.github.io/ggwidth/)}: Standardise 'ggplot2' Geom Width
 * {[gtable](https://gtable.r-lib.org/)}: The layout packages that powers ggplot2
 * {[jjAnno](https://github.com/junjunlab/jjAnno)}: An annotation package for ggplot plot
 * {[legendry](https://github.com/teunbrand/legendry)}: Extended Legends and Axes for 'ggplot2'
