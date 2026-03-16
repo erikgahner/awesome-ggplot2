@@ -189,6 +189,7 @@
 * {[jjPlot](https://github.com/junjunlab/jjPlot)}: funny geom/stat functions for visualization
 * {[likert](https://jbryer.github.io/likert/)}: Analysis and Visualization Likert Items
 * {[linkET](https://github.com/Hy4m/linkET)}: Toolbox for heatmap and mantel test plot.
+* {[marimekko](https://cran.r-project.org/web/packages/marimekko/index.html)}: Marimekko Plots for 'ggplot2'
 * {[parttree](https://github.com/grantmcdermott/parttree)}: Simple package for plotting decision tree partitions in R
 * {[patternplot](https://cran.r-project.org/web/packages/patternplot/)}: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
 * {[piecepackr](https://github.com/piecepackr/piecepackr)}: Board Game Graphics
@@ -398,6 +399,7 @@
 * {[ggOceanMaps](https://github.com/MikkoVihtakari/ggOceanMaps/)}: Plot oceanographic research data on maps using ggplot2
 * {[ggredist](https://alarm-redist.org/ggredist/)}: Scales, Geometries, and Extensions of 'ggplot2' for Election Mapping
 * {[ggsflabel](https://yutannihilation.github.io/ggsflabel/)}: Labels for 'sf' with 'ggplot2'
+* {[ggsky](https://uskovgs.github.io/ggsky/)}: Galactic and Equatorial Coordinate Implementation for 'ggplot2'
 * {[ggsn](http://oswaldosantos.github.io/ggsn/)}: R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * {[ggspatial](https://paleolimbot.github.io/ggspatial/)}: Enhancing spatial visualization in ggplot2
 * {[ggswissmaps](https://github.com/gibonet/ggswissmaps)}: Offers Various Swiss Maps as Data Frames and 'ggplot2' Objects
