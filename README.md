@@ -29,6 +29,7 @@
 * {[corrmorant](https://github.com/r-link/corrmorant)}: R package for flexible correlation matrices based on ggplot2
 * {[dbplot](https://edgararuiz.github.io/dbplot/)}: Simplifies plotting of database and sparklyr data
 * {[directlabels](https://tdhock.github.io/directlabels/)}: Direct labels for multicolor plots in lattice or ggplot2
+* {[causalplot](https://github.com/sebastianvanbaalen/causalplot)}: Create Publication-Ready Causal Diagrams
 * {[donutsk](https://dkibalnikov.github.io/donutsk/)}: Construct Advanced Donut Charts
 * {[easyalluvial](https://erblast.github.io/easyalluvial/)}: Create alluvial plots with a single line of code
 * {[econocharts](https://r-coder.com/economics-charts-r/)}: Economics charts in R using ggplot2
@@ -438,6 +439,7 @@
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
+* {[ggpop](https://jurjoroa.github.io/ggpop/)}: Icon-Based Population Charts and Plots for 'ggplot2'
 * {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
