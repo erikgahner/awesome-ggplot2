@@ -47,6 +47,7 @@
 * {[ggarchery](https://github.com/mdhall272/ggarchery)}: Flexible segment geoms with arrows for ggplot2
 * {[ggarrow](https://teunbrand.github.io/ggarrow/)}: ggplot2 extension: more options for drawing arrows
 * {[ggasym](https://jhrcook.github.io/ggasym/index.html)}: Plots three different color schemes on the top-left and bottom-right triangles and the diagonal of a symmetric matrix
+* {[ggauto](https://nrennie.rbind.io/ggauto/)}: Automatically Create and Style 'ggplot2' Charts
 * {[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)}: Column scatter / beeswarm-style plots in ggplot2
 * {[ggblanket](https://davidhodge931.github.io/ggblanket/)}: Simplify ggplot2 visualisation
 * {[ggblend](https://mjskay.github.io/ggblend/)}: Support for blend modes in ggplot2
@@ -462,6 +463,7 @@
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
 * {[ggfixest](https://grantmcdermott.com/ggfixest/)}: Dedicated ggplot2 methods for fixest model objects
+* {[ggforestplotR](https://thatoneguy006.github.io/ggforestplotR/)}: Publication-Ready Forest Plots with 'ggplot2'
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
@@ -504,6 +506,7 @@
 * {[plotROC](http://sachsmc.github.io/plotROC/)}: Interactive ROC plots with ggplot + d3.js
 * {[ppsr](https://github.com/paulvanderlaken/ppsr)}: R implementation of Predictive Power Score
 * {[prettyglm](https://jared-fowler.github.io/prettyglm/)}: An R package to visualise glm coefficients
+* {[prettyPanelMatch](https://github.com/jacqpark/prettyPanelMatch)}: 'ggplot2'-Based Visualization for 'PanelMatch' (Imai, Kim, Wang 2023) Results
 * {[SBC](https://hyunjimoon.github.io/SBC/index.html)}: Simulation-based Calibration
 * {[sjPlot](https://strengejacke.github.io/sjPlot/)}: Data Visualization for Statistics in Social Science
 * {[starbility](https://github.com/AakaashRao/starbility)}: Coefficient stability plots under combinations of controls
