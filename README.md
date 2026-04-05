@@ -95,6 +95,7 @@
 * {[gghdr](https://github.com/Sayani07/gghdr)}: Plots of highest density regions (HDR) for ggplot2
 * {[gghexsize](https://hrryt.github.io/gghexsize/)}: Make Hexagonal Heatmaps with Varying Hexagon Sizes
 * {[gghilbertstrings](https://sumidu.github.io/gghilbertstrings/)}: Create Hilbert curves in ggplot2
+* {[gghinton](https://github.com/robin-foster-rf/gghinton)}: Hinton Diagrams for 'ggplot2'
 * {[ggHoriPlot](https://rivasiker.github.io/ggHoriPlot/)}: build horizon plots in ggplot2
 * {[gghourglass](https://pepijn-devries.github.io/gghourglass/)}: Plot Records per Time of Day
 * {[ggideogram](https://github.com/dxsbiocc/ggideogram)}: ggideogram is a ggplot2 extension package for drawing chromosome diagrams
@@ -217,8 +218,10 @@
 
 * {[add2ggplot](https://jiaxiangbu.github.io/add2ggplot/)}: Add more themes for your ggplot object
 * {[afcharts](https://best-practice-and-impact.github.io/afcharts/)}: Produce Charts Following UK Government Analysis Function Guidance
+* {[albersdown](https://bbuchsbaum.github.io/albersdown/)}: Minimalist Theme and Vignette Kit for 'pkgdown' and R Markdown
 * {[amerika](https://github.com/pdwaggoner/amerika)}: An American politics-inspired color palette generator
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[birdcolors](https://cran.r-project.org/web/packages/birdcolors/)}: Create Palettes from the Colors of the World's Birds
 * {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
 * {[colorBlindnessSafe](https://cran.r-project.org/web/packages/colorBlindness/)}: Color Set for Color Blindness
@@ -252,6 +255,7 @@
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
+* {[ggrefine](https://davidhodge931.github.io/ggrefine/)}: Pretty 'ggplot2' Themes
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
 * {[ggRtsy](https://github.com/katelyndiaz/ggRtsy)}: Add Some Van Gogh Colors and Overlay Colors on Your 'ggplot()'
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
@@ -462,6 +466,7 @@
 * {[ggDoE](https://ggdoe.netlify.app/)}: Modern Graphs for Design of Experiments with ggplot2
 * {[ggeffects](https://strengejacke.github.io/ggeffects/)}: Tidy Data Frames of Marginal Effects for ggplot2
 * {[ggESDA](https://github.com/kiangkiangkiang/ggESDA)}: An R package for Exploratory Symbolic Data Analysis using ggplot2
+* {[ggExametrika](https://kosugitti.github.io/ggExametrika/)}: Visualization of 'exametrika' Output Using 'ggplot2'
 * {[ggfixest](https://grantmcdermott.com/ggfixest/)}: Dedicated ggplot2 methods for fixest model objects
 * {[ggforestplotR](https://thatoneguy006.github.io/ggforestplotR/)}: Publication-Ready Forest Plots with 'ggplot2'
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
