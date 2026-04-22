@@ -540,6 +540,10 @@
 * [Gadfly.jl](http://gadflyjl.org/stable/): Crafty statistical graphics for Julia
 * [TidierPlots.jl](https://github.com/TidierOrg/TidierPlots.jl): Tidier data visualization in Julia, modeled after the ggplot2 R package
 
+# SQL
+
+* [ggsql](https://ggsql.org/): A grammar of graphics for SQL
+
 # Books
 
 * [Data Visualization: A practical introduction](http://socviz.co/)
