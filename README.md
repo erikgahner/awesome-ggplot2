@@ -81,6 +81,7 @@
 * {[ggdirectlabel](https://github.com/MattCowgill/ggdirectlabel)}: Make it easier to directly label ggplot2 charts
 * {[ggdist](https://mjskay.github.io/ggdist/)}: Visualizations of distributions and uncertainty
 * {[ggDoubleHeat](https://pursuitofdatascience.github.io/ggDoubleHeat/)}: A heatmap-like visualization tool
+* {[ggerror](https://iamyannc.github.io/ggerror/)}: Extended Error Geoms for 'ggplot2'
 * {[ggExtra](https://github.com/daattali/ggExtra)}: Add marginal histograms to ggplot2, and more ggplot2 enhancements
 * {[ggfacto](https://github.com/BriceNocenti/ggfacto)}: Graphs for correspondence analysis
 * {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
