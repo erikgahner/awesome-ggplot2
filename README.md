@@ -612,6 +612,7 @@
   * [Custom colour palettes for {ggplot2}](https://www.jumpingrivers.com/blog/custom-colour-palettes-for-ggplot2/)
   * [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
   * [Designing monochrome data visualisations](https://nrennie.rbind.io/blog/monochrome-data-visualisations/)
+  * [Five ggplot2 functions I wish I’d known about earlier](https://nrennie.rbind.io/blog/five-ggplot2-functions/)
   * [Five Steps to Improve Your Chart Quickly](https://rfortherestofus.com/2023/11/theme-minimal)
   * [Getting started with theme()](https://www.jumpingrivers.com/blog/intro-to-theme-ggplot2-r/)
   * [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/)
