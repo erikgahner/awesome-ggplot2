@@ -288,6 +288,7 @@
 * {[okcolors](https://github.com/nelsonquesado/okcolors)}: A Set of Color Palettes Inspired by OK Go Music Videos for 'ggplot2' in R
 * {[onsvplot](https://pabsantos.github.io/onsvplot/)}: National Road Safety Observatory (ONSV) Style for 'ggplot2' Graphics
 * {[paletteer](https://emilhvitfeldt.github.io/paletteer/)}: Collection of most color palettes in a single R package
+* {[pequod](https://tiagojct.eu/projects/pequod/)}: Colour Palette for Reading and Code, Inspired by Moby-Dick
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
 * {[poisonfrogs](https://laurenoconnelllab.github.io/poisonfrogs/)}: Color Palettes Inspired by Neotropical Poison Frogs
@@ -351,6 +352,7 @@
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
 * {[ggragged](https://mikmart.github.io/ggragged/)}: Ragged Grids for ggplot2
 * {[ggreveal](http://www.weverthon.com/ggreveal/)}: Reveal a 'ggplot' Incrementally
+* {[ggscribe](https://davidhodge931.github.io/ggscribe/)}: Publication-Quality 'ggplot2' Annotation
 * {[ggtibble](https://billdenney.github.io/ggtibble/)}: Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures
 * {[ggtrace](https://yjunechoe.github.io/ggtrace/)}: Programmatically inspect, debug, and manipulate ggproto methods
 * {[ggtrack](https://mrjoh3.github.io/ggtrack/)}: Add tracking banner to plots
@@ -378,6 +380,7 @@
 * {[esquisse](https://dreamrs.github.io/esquisse/)}: Explore and Visualize Your Data Interactively
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
+* {[ggWebGL](https://fbertran.github.io/ggWebGL/)}: Browser-Native 'WebGL' Rendering for R Graphics
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 
 ## Network
@@ -453,6 +456,7 @@
 
 ## Data and models
 
+* {[curves](https://github.com/rvalavi/curves)}: Model-Agnostic Response Curves for Fitted Models
 * {[edgebundle](https://github.com/schochastics/edgebundle)}: R package implementing edge bundling algorithms
 * {[effectplots](https://mayer79.github.io/effectplots/)}: Fast Effect Plots in R
 * {[distributional](https://pkg.mitchelloharawild.com/distributional/)}: Vectorised distributions for R
