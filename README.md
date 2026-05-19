@@ -378,6 +378,7 @@
 * {[autoplotly](https://github.com/terrytangyuan/autoplotly)}: Automatic Generation of Interactive Visualizations for Statistical Results
 * {[blockr.ggplot](https://bristolmyerssquibb.github.io/blockr.ggplot/)}: Interactive 'ggplot2' Visualization Blocks
 * {[esquisse](https://dreamrs.github.io/esquisse/)}: Explore and Visualize Your Data Interactively
+* {[ggoncoplot](https://selkamand.github.io/ggoncoplot/)}: Easily Create Interactive Oncoplots
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[ggWebGL](https://fbertran.github.io/ggWebGL/)}: Browser-Native 'WebGL' Rendering for R Graphics
