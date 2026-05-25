@@ -62,6 +62,7 @@
 * {[ggcats](https://github.com/R-CoderDotCom/ggcats)}: The geom you always wished for adding cats to ggplot2
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggchord](https://github.com/DangJem/ggchord)}: Multi-Sequence 'BLAST' Alignment Chord Diagram Visualization Tool
+* {[ggchord2](https://gitlab.com/nrennie/ggchord2)}: Chord diagrams for ‘ggplot2’
 * {[ggcleveland](https://github.com/mpru/ggcleveland)}: Implementation of plots from Cleveland's Visualizing Data book in ggplot2
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
