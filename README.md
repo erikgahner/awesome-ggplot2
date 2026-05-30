@@ -152,7 +152,6 @@
 * {[ggrastr](https://github.com/VPetukhov/ggrastr)}: Raster geoms for ggplot2
 * {[ggrepel](https://ggrepel.slowkow.com/)}: Repel overlapping text labels away from each other
 * {[ggreverse](https://github.com/coolbutuseless/ggreverse)}: Reverse a ggplot object back into code
-* {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
 * {[ggridges](https://wilkelab.org/ggridges/)}: Ridgeline plots in ggplot2
 * {[ggrounded](https://botan.github.io/ggrounded/)}: Rounded Bar Plots
 * {[ggsankey](https://github.com/davidsjoberg/ggsankey)}: The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2
@@ -173,13 +172,13 @@
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
 * {[ggtextcircle](https://github.com/nrennie/ggtextcircle)}: R package to plot text in a (partial) circle
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
-* {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
 * {[ggtranscript](https://dzhang32.github.io/ggtranscript/)}: Visualizing transcript structure and annotation using ggplot2
 * {[ggtree](https://github.com/YuLab-SMU/ggtree)}: Visualization and annotation of phylogenetic trees
 * {[ggtreebar](https://hrryt.github.io/ggtreebar/)}: Make Treemap Bar Charts with 'ggplot2'
 * {[ggtrendline](https://github.com/PhDMeiwp/ggtrendline)}: An R Package for Adding Trendline and Confidence Interval to "ggplot"
 * {[ggtricks](https://abdoulma.github.io/ggtricks/)}: Create Sector and Other Charts Easily Using Grammar of Graphics
 * {[ggtwotone](https://bwanniarachchige2.github.io/ggtwotone/)}: Dual-Tone and Contrast-Aware ggplot2 Geoms
+* {[ggunchull](https://github.com/sajuukLyu/ggunchull)}: A ggplot extension for drawing smooth non-convex circles around a set of points
 * {[ggvenn](https://github.com/yanlinlin82/ggvenn)}: Venn Diagram by ggplot2, with really easy-to-use API
 * {[ggVennDiagram](https://github.com/gaospecial/ggVennDiagram)}: A 'ggplot2' implement of Venn Diagram
 * {[ggvfields](https://dustysturner.com/ggvfields/)}: Vector Field Visualizations with 'ggplot2'
@@ -259,6 +258,7 @@
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrefine](https://davidhodge931.github.io/ggrefine/)}: Pretty 'ggplot2' Themes
 * {[ggrough](https://xvrdm.github.io/ggrough/)}: Convert ggplot2 chart to roughjs
+* {[ggrough2](https://github.com/schochastics/ggrough2)}: Hand-Drawn Rendering for ggplot2 via SVG and Rough.js
 * {[ggRtsy](https://github.com/katelyndiaz/ggRtsy)}: Add Some Van Gogh Colors and Overlay Colors on Your 'ggplot()'
 * {[ggsci](https://nanx.me/ggsci/)}: Scientific journal and sci-fi themed color palettes for ggplot2
 * {[ggseg](https://ggseg.github.io/ggseg/)}: Plotting tool for brain atlases, in ggplot
@@ -343,7 +343,6 @@
 * {[gggrid](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)}: Accessing 'grid' from 'ggplot2'
 * {[ggguides](https://gillescolling.com/ggguides/)}: Simplified Legend and Guide Alignment for 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
-* {[gghic](https://jasonwong-lab.github.io/gghic/)}: Visualizations of 3D genome organization data
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[gglogger](https://pwwang.github.io/gglogger/)}: Track 'ggplot2' Calls
@@ -420,17 +419,24 @@
 * {[mapSpain](https://ropenspain.github.io/mapSpain/)}: Administrative Boundaries of Spain
 * {[metR](https://eliocamp.github.io/metR/)}: Tools for Easier Analysis of Meteorological Fields
 * {[mxmaps](https://www.diegovalle.net/mxmaps/)}: An R package for making maps of Mexico
-* {[oblicubes](https://trevorldavis.com/R/oblicubes/)}: 3D Rendering Using Obliquely Projected Cubes and Cuboids
 * {[ozmaps](https://mdsumner.github.io/ozmaps/)}: Australian maps
 * {[plotDK](https://github.com/kristianSN/plotDK)}: Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
 * {[RCaucTile](https://cran.r-project.org/web/packages/RCaucTile/index.html)}: Tile Grid Maps for East Caucasian Languages
-* {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization
 * {[starBliss](https://github.com/benyamindsmith/starBliss)}: Create beautiful, print quality maps of the night sky in R
 * {[stars](https://r-spatial.github.io/stars/)}: Spatiotemporal Arrays, Raster and Vector Data Cubes
 * {[sugarbag](https://srkobakian.github.io/sugarbag/)}: An R package to create tessellated hexagon maps of Australia
 * {[sugarglider](https://maliny12.github.io/sugarglider/)}: Create Glyph-Maps of Spatiotemporal Data
 * {[tidyterra](https://dieghernan.github.io/tidyterra/)}: tidyverse and ggplot2 methods for terra spatial objects
 * {[urbnmapr](https://urbaninstitute.github.io/urbnmapr/index.html)}: US state and county maps with Alaska and Hawaii
+
+## 3D plots
+
+* {[ggcube](https://matthewkling.github.io/ggcube/)}: 3D plotting extension for ggplot2
+* {[gghic](https://jasonwong-lab.github.io/gghic/)}: Visualizations of 3D genome organization data
+* {[ggrgl](https://coolbutuseless.github.io/package/ggrgl/)}: 3D Graphics Using the Grammar of Graphics
+* {[ggthreed](https://github.com/coolbutuseless/ggthreed)}: 3d geoms and stats for ggplot
+* {[oblicubes](https://trevorldavis.com/R/oblicubes/)}: 3D Rendering Using Obliquely Projected Cubes and Cuboids
+* {[rayshader](https://github.com/tylermorganwall/rayshader)}: R Package for 2D and 3D mapping and data visualization
 
 ## Time
 
@@ -445,6 +451,7 @@
 
 * {[cropcircles](https://github.com/doehm/cropcircles)}: Crop an image into a circle with a transparent background
 * {[emoGG](https://github.com/dill/emoGG)}: Emoji in ggplot2
+* {[ggdogs](https://github.com/R-CoderDotCom/ggdogs)}: The geom you always wished for adding dogs to ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggfoundry](https://cgoo4.github.io/ggfoundry/)}: Shape Foundry & Geom for 'ggplot2'
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
@@ -531,6 +538,7 @@
 
 ## Miscellaneous
 
+* {[ggai](https://github.com/YuLab-SMU/ggai)}: Turning natural-language instructions into ggplot2 layers
 * {[ggrandom](https://github.com/EmilHvitfeldt/ggrandom)}: Introduce Absolute Chaos to 'ggplot2'
 * {[ggSketch](https://github.com/Jiawang1209/ggSketch)}: Transforms photos into sketch-style contour drawings
 
