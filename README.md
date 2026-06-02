@@ -232,6 +232,7 @@
 * {[DOYPAColors](https://github.com/jmestret/DOYPAColors)}: Don't Overthink Your Palette of Colors
 * {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
 * {[dutchmasters](https://github.com/EdwinTh/dutchmasters)}: R package with colour palettes derived from famous paintings by 17th century Dutch masers
+* {[EraBrewer](https://github.com/mathias-sm/EraBrewer)}: Color palette package in R/python inspired by the covers of Taylor Swift's Eras
 * {[flexoki](https://christophertkenny.com/flexoki/)}: Inky Color Schemes
 * {[tricolore](https://github.com/jschoeley/tricolore)}: A flexible color scale for ternary compositions
 * {[gameofthrones](https://github.com/aljrico/gameofthrones)}: Game of Thrones inspired palette for R
@@ -382,6 +383,7 @@
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[ggWebGL](https://fbertran.github.io/ggWebGL/)}: Browser-Native 'WebGL' Rendering for R Graphics
+* {[highdir](https://folkehelsestats.github.io/highdir/)}: Backend-Agnostic Figure Builder for 'highcharter' and 'ggplot2'
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
 
 ## Network
@@ -500,6 +502,7 @@
 * {[ggsced](https://cran.r-project.org/web/packages/ggsced/)}: Utilities and Helpers for Single Case Experimental Design (SCED) using 'ggplot2'
 * {[ggsem](https://smin95.github.io/ggsem/)}: Interactively Visualize Structural Equation Modeling Diagrams
 * {[ggsmc](https://richardgeveritt.github.io/ggsmc/)}: Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods
+* {[ggspec](https://github.com/clement-lee/ggspec)}: Extract and Compare 'ggplot2' Plot Specifications as Tidy Data Frames
 * {[ggstats](https://larmarange.github.io/ggstats/)}: Extension to ggplot2 for plotting stats
 * {[ggvegan](https://gavinsimpson.github.io/ggvegan/)}: ggplot-based plots for vegan
 * {[grafify](https://github.com/ashenoy-cmbi/grafify)}: Easy Graphs for Data Visualisation and Linear Models for ANOVA
