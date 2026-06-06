@@ -130,6 +130,7 @@
 * {[ggsegmentedtotalbar](https://github.com/ozancanozdemir/ggsegmentedtotalbar)}: Create a Segmented Total Bar Plot with Custom Annotations and Labels
 * {[ggshadow](https://github.com/marcmenem/ggshadow)}: Shadow Geoms for ggplot2
 * {[ggshakeR](https://github.com/abhiamishra/ggshakeR)}: An analysis and visualization R package that works with publicly available soccer data
+* {[ggcircular](https://aureliennicosiaulaval.github.io/ggcircular/)}: A 'ggplot2' Extension for Circular and Directional Data
 * {[ggsoccer](https://torvaney.github.io/ggsoccer/)}: Plot soccer event data in R/ggplot2
 * {[ggspectra](https://bitbucket.org/aphalo/ggspectra/)}: Plotting spectra with ggplot2
 * {[ggstackplot](https://ggstackplot.kopflab.org/)}: Create Overlapping Stacked Plots
