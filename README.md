@@ -401,6 +401,7 @@
 ## Spatial
 
 * {[bertin](https://github.com/BjnNowak/bertin)}: Transform choropleth maps into valued points
+* {[DonutMap](https://aureliennicosiaulaval.github.io/DonutMap/)}: Donut Maps with 'sf', 'ggplot2', and 'leaflet'
 * {[eumaps](https://github.com/jfjelstul/eumaps)}: An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)
 * {[ggautomap](https://cidm-ph.github.io/ggautomap/)}: Create ggplot maps from a column of place names
 * {[ggcounty](https://github.com/hrbrmstr/ggcounty)}: Generate ggplot2 geom_map county maps
@@ -461,6 +462,7 @@
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
 * {[ggpop](https://jurjoroa.github.io/ggpop/)}: Icon-Based Population Charts and Plots for 'ggplot2'
+* {[ggshroom](https://github.com/gzahn/ggshroom)}: Supplement to ggimage R package for plotting with mushroom icons
 * {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
 * {[ggtikz](https://github.com/osthomas/ggtikz)}: Add TikZ annotations with absolute data or relative plot coordinates to ggplots
 * {[mlbplotR](https://camdenk.github.io/mlbplotR/)}: R package to easily plot MLB logos
