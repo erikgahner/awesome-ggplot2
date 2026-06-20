@@ -256,6 +256,7 @@
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggnuplot](https://github.com/hriebl/ggnuplot)}: Make your ggplots look like gnuplots
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
+* {[ggplotplus](https://maisrc.github.io/ggplotplus/)}: Universal Design-Oriented Enhancements for 'ggplot2'
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
 * {[ggrefine](https://davidhodge931.github.io/ggrefine/)}: Pretty 'ggplot2' Themes
@@ -349,6 +350,7 @@
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[gglogger](https://pwwang.github.io/gglogger/)}: Track 'ggplot2' Calls
 * {[ggmagnify](https://github.com/hughjonesd/ggmagnify)}: Create a magnified inset of part of a ggplot object
+* {[ggmemo](https://lindsay-lintelman.github.io/ggmemo/)}: Add Arrows, Labels, and Change Annotations to 'ggplot2' Charts
 * {[ggNestedBarChart](https://github.com/davedgd/ggNestedBarChart)}: An easier way to create nested, grouped, heirarchical bar charts with ggplot2
 * {[ggplotify](https://github.com/GuangchuangYu/ggplotify)}: Convert plot to grob and ggplot object
 * {[ggProfessional](https://www.marcellgranat.com/ggprofessional/)}: Manage ggplot themes, colors, logos and exporting
