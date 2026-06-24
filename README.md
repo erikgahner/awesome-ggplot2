@@ -103,6 +103,7 @@
 * {[ggideogram](https://github.com/dxsbiocc/ggideogram)}: ggideogram is a ggplot2 extension package for drawing chromosome diagrams
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
+* {[ggkodom](https://cran.r-project.org/web/packages/ggkodom/)}: Visualize Individual Longitudinal Trajectories
 * {[gglinedensity](https://hrryt.github.io/gglinedensity/)}: Make DenseLines Heatmaps with 'ggplot2'
 * {[gglycan](https://cran.r-project.org/web/packages/gglycan/index.html)}: Plot Glycans using 'ggplot2'
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
@@ -168,6 +169,7 @@
 * {[ggstraw](https://github.com/nacnudus/ggstraw)}: geom_straw for ggplot2
 * {[ggstream](https://github.com/davidsjoberg/ggstream)}: A package to make streamplots
 * {[ggsvg](https://github.com/coolbutuseless/ggsvg)}: Use SVG images as ggplot points
+* {[ggtaichi](https://pursuitofdatascience.github.io/ggtaichi/)}: Taichi-Diagram Visualization for Two Data Sources
 * {[ggtaxplot](https://gitlab.com/ccoclet/ggtaxplot)}: Create Plots to Visualize Taxonomy
 * {[ggtda](https://github.com/rrrlw/ggtda)}: ggplot2 extension to visualize persistent homology
 * {[ggtern](http://www.ggtern.com/)}: An extension to ggplot2, for the creation of ternary diagrams
