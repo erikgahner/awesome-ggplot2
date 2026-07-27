@@ -107,6 +107,7 @@
 * {[gglinedensity](https://hrryt.github.io/gglinedensity/)}: Make DenseLines Heatmaps with 'ggplot2'
 * {[gglycan](https://cran.r-project.org/web/packages/gglycan/index.html)}: Plot Glycans using 'ggplot2'
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
+* {[ggmeta](https://drhrf.github.io/ggmeta/)}: Publication-Quality Forest and Funnel Plots with 'ggplot2'
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
@@ -275,6 +276,7 @@
 * {[ggthemes](https://jrnold.github.io/ggthemes/)}: Additional themes, scales, and geoms for ggplot2
 * {[ggthemeUL](https://cran.r-project.org/web/packages/ggthemeUL/)}: A 'ggplot' Theme for University of Ljubljana
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
+* {[ggtintshade](https://github.com/wkumler/ggtintshade)}: Tinting and Shading Aesthetics for 'ggplot2'
 * {[ggx](https://github.com/brandmaier/ggx)}: Translate natural language commands into ggplot commands
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
