@@ -259,6 +259,7 @@
 * {[ggnewscale](https://github.com/eliocamp/ggnewscale)}: Multiple Fill and Color Scales in 'ggplot2'
 * {[ggnuplot](https://github.com/hriebl/ggnuplot)}: Make your ggplots look like gnuplots
 * {[ggokabeito](https://malcolmbarrett.github.io/ggokabeito/)}: Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
+* {[ggpalettes](https://yaoxiangli.github.io/ggpalettes/)}: Curated Colour Palettes and Scales for 'ggplot2'
 * {[ggplotplus](https://maisrc.github.io/ggplotplus/)}: Universal Design-Oriented Enhancements for 'ggplot2'
 * {[ggpomological](https://www.garrickadenbuie.com/project/ggpomological/)}: Pomological plot theme for ggplot2
 * {[ggprism](https://csdaw.github.io/ggprism/)}: ggplot2 extension inspired by GraphPad Prism
@@ -553,6 +554,7 @@
 * {[ggai](https://github.com/YuLab-SMU/ggai)}: Turning natural-language instructions into ggplot2 layers
 * {[ggrandom](https://github.com/EmilHvitfeldt/ggrandom)}: Introduce Absolute Chaos to 'ggplot2'
 * {[ggSketch](https://github.com/Jiawang1209/ggSketch)}: Transforms photos into sketch-style contour drawings
+* {[GoldenVizR](https://github.com/WajdiBenSaad/GoldenViz_R)}: Rule-Based Quality Checks for 'ggplot2' Visualizations Based on the 25 Golden Rules of Data Visualization
 
 # Python packages
 
