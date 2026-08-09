@@ -111,6 +111,7 @@
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
+* {[ggmultiglyph](https://aravind-j.github.io/ggmultiglyph/)}: Multivariate Data Visualization using Glyphs
 * {[ggnormalviolin](https://wjschne.github.io/ggnormalviolin/index.html)}: Makes normal violin plots with specified means and standard deviations
 * {[ggonion](https://i2z1.github.io/ggonion/)}: R package for drawing onion diagrams via ggplot2
 * {[ggordiplots](https://github.com/jfq3/ggordiplots)}: Make ggplot Versions of Vegan's Ordiplots
@@ -496,6 +497,7 @@
 * {[ggfixest](https://grantmcdermott.com/ggfixest/)}: Dedicated ggplot2 methods for fixest model objects
 * {[ggforestplotR](https://thatoneguy006.github.io/ggforestplotR/)}: Publication-Ready Forest Plots with 'ggplot2'
 * {[ggfortify](https://github.com/sinhrks/ggfortify)}: Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages
+* {[gghotelling](https://january3.github.io/gghotelling/)}: Hotelling's T² Ellipses and Outlier Detection for 'ggplot2'
 * {[gginnards](https://docs.r4photobiology.info/gginnards/)}: R package extending 'ggplot2' with manipulation and debugging tools
 * {[ggip](https://davidchall.github.io/ggip/)}: R package to visualize IP data
 * {[ggisotonic](https://github.com/talegari/ggisotonic)}: Add isotonic or monotonic regression curves to ggplots
