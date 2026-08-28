@@ -231,6 +231,7 @@
 * {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
 * {[colorBlindnessSafe](https://cran.r-project.org/web/packages/colorBlindness/)}: Color Set for Color Blindness
+* {[colorr](https://github.com/lobsterbush/colorr)}: Color Palettes for Soccer, MLB, NBA, WNBA, NHL, and NFL Teams
 * {[cols4all](https://github.com/mtennekes/cols4all)}: Colors for all (R package)
 * {[cyberpunk](https://github.com/r-coderdotcom/cyberpunk)}: A function to create cyberpunk-style graphs with R based on ggplot2
 * {[darknerdthemes](https://github.com/xvzftube/darknerdthemes)}: Dark ggplots themes for nerds
