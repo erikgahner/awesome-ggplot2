@@ -227,6 +227,7 @@
 * {[albersdown](https://bbuchsbaum.github.io/albersdown/)}: Minimalist Theme and Vignette Kit for 'pkgdown' and R Markdown
 * {[amerika](https://github.com/pdwaggoner/amerika)}: An American politics-inspired color palette generator
 * {[bbplot](https://github.com/bbc/bbplot)}: R package that helps create and export ggplot2 charts in the style used by the BBC News data team
+* {[biopalette](https://evanbio.github.io/biopalette/)}: Image-Inspired Color Palettes for Biomedical Visualization
 * {[birdcolors](https://cran.r-project.org/web/packages/birdcolors/)}: Create Palettes from the Colors of the World's Birds
 * {[blueycolors](https://ekholme.github.io/blueycolors/)}: Provides bluey-inspired color palettes and ggplot2 scales
 * {[ButterflyColors](https://junqueiragaabi.github.io/ButterflyColors/)}: Color palette for data visualization based on butterfly species
@@ -340,6 +341,7 @@
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[ggalign](https://yunuuuu.github.io/ggalign/)}: A 'ggplot2' Extension for Consistent Axis Alignment
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
+* {[gganime](https://long39ng.github.io/gganime/)}: Animate 'ggplot2' Plots with 'Anime.js'
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
 * {[ggbillboard](https://github.com/nacnudus/ggbillboard)}: A package to fill vacant ggplot2 facets with images
 * {[ggbranding](https://gnoblet.github.io/ggbranding/)}: Add personal branding to ggplot2 charts
@@ -553,6 +555,7 @@
 ## Shiny
 
 * {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
+* {[ggstratify](https://akishiroshita.github.io/ggstratify/)}: Fast Stratified Descriptive Figures with a Point-and-Click GUI
 * {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 
 ## Miscellaneous
