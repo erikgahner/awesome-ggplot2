@@ -354,7 +354,6 @@
 * {[ggguides](https://gillescolling.com/ggguides/)}: Simplified Legend and Guide Alignment for 'ggplot2'
 * {[ggh4x](https://github.com/teunbrand/ggh4x)}: ggplot extension: options for tailored facets, multiple colourscales and miscellaneous
 * {[gghighlight](https://yutannihilation.github.io/gghighlight/)}: Highlight points and lines in ggplot2
-* {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
 * {[gglogger](https://pwwang.github.io/gglogger/)}: Track 'ggplot2' Calls
 * {[ggmagnify](https://github.com/hughjonesd/ggmagnify)}: Create a magnified inset of part of a ggplot object
 * {[ggmemo](https://lindsay-lintelman.github.io/ggmemo/)}: Add Arrows, Labels, and Change Annotations to 'ggplot2' Charts
@@ -391,7 +390,6 @@
 * {[esquisse](https://dreamrs.github.io/esquisse/)}: Explore and Visualize Your Data Interactively
 * {[ggoncoplot](https://selkamand.github.io/ggoncoplot/)}: Easily Create Interactive Oncoplots
 * {[ggiraph](https://davidgohel.github.io/ggiraph/)}: Make 'ggplot' Graphics Interactive
-* {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 * {[ggWebGL](https://fbertran.github.io/ggWebGL/)}: Browser-Native 'WebGL' Rendering for R Graphics
 * {[highdir](https://folkehelsestats.github.io/highdir/)}: Backend-Agnostic Figure Builder for 'highcharter' and 'ggplot2'
 * {[plotly](https://github.com/ropensci/plotly)}: An interactive graphing library for R
@@ -551,6 +549,11 @@
 * {[truchet](https://paezha.github.io/truchet/)}: Package for creating Truchet tiles and mosaics
 * {[vismi](https://agnesdeng.github.io/vismi/)}: Visual Diagnostics for Multiple Imputation
 * {[visR](https://openpharma.github.io/visR/)}: A package to wrap functionality for plots, tables and diagrams adhering to graphical principles
+
+## Shiny
+
+* {[gglabeller](https://github.com/AliciaSchep/gglabeller)}: Shiny gadget for labeling points on ggplot
+* {[ggtips](https://github.com/cosi1/ggtips)}: Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 
 ## Miscellaneous
 
