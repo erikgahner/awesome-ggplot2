@@ -239,6 +239,7 @@
 * {[DOYPAColors](https://github.com/jmestret/DOYPAColors)}: Don't Overthink Your Palette of Colors
 * {[duke](https://aidangildea.github.io/duke/)}: Creating a Color-Blind Friendly Duke Color Package
 * {[dutchmasters](https://github.com/EdwinTh/dutchmasters)}: R package with colour palettes derived from famous paintings by 17th century Dutch masers
+* {[ekioplot](https://viniciusoike.github.io/ekioplot/)}: EKIO Visual Identity for 'ggplot2'
 * {[EraBrewer](https://github.com/mathias-sm/EraBrewer)}: Color palette package in R/python inspired by the covers of Taylor Swift's Eras
 * {[flexoki](https://christophertkenny.com/flexoki/)}: Inky Color Schemes
 * {[tricolore](https://github.com/jschoeley/tricolore)}: A flexible color scale for ternary compositions
