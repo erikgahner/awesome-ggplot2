@@ -109,6 +109,7 @@
 * {[ggmacc](https://github.com/aj-sykes92/ggmacc)}: R package repository for building marginal abatement cost curves with ggplot2
 * {[ggmeta](https://drhrf.github.io/ggmeta/)}: Publication-Quality Forest and Funnel Plots with 'ggplot2'
 * {[ggmosaic](https://haleyjeppson.github.io/ggmosaic/)}: Mosaicplots in the ggplot2 framework
+* {[ggmosaic2](https://friendly.github.io/ggmosaic2/)}: Mosaic Plots in the 'ggplot2' Framework, Extended
 * {[ggmsa](http://yulab-smu.top/ggmsa/)}: a visual exploration tool for multiple sequence alignment and associated data
 * {[ggmulti](https://github.com/great-northern-diver/ggmulti)}: Package for adding some multivariate visualizations to ggplot2
 * {[ggmultiglyph](https://aravind-j.github.io/ggmultiglyph/)}: Multivariate Data Visualization using Glyphs
@@ -127,6 +128,7 @@
 * {[ggpointgrid](https://github.com/nevrome/ggpointgrid)}: Rearrange scatter plot points on a regular grid
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
+* {[ggrank](https://thinkdenominator.github.io/ggrank/)}: Visualise Changes in Rankings with 'ggplot2'
 * {[ggrecipes](https://ignophi.github.io/ggrecipes/)}: Recipes for Data Visualization
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
 * {[ggsector](https://github.com/yanpd01/ggsector)}: Use R language to draw sector
@@ -468,6 +470,7 @@
 * {[ggdogs](https://github.com/R-CoderDotCom/ggdogs)}: The geom you always wished for adding dogs to ggplot2
 * {[ggflags](https://github.com/rensa/ggflags)}: A flag geom for ggplot2
 * {[ggfoundry](https://cgoo4.github.io/ggfoundry/)}: Shape Foundry & Geom for 'ggplot2'
+* {[ggicons](https://pkg.mitchelloharawild.com/ggicons/)}: Icon Geometries for 'ggplot2'
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
