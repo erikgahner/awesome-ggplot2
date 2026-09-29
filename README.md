@@ -474,6 +474,7 @@
 * {[ggimage](https://github.com/GuangchuangYu/ggimage)}: Use Images in ggplot2
 * {[ggpath](https://mrcaseb.github.io/ggpath/)}: Robust Image Rendering Support for 'ggplot2'
 * {[ggpattern](https://coolbutuseless.github.io/package/ggpattern/index.html)}: ggplot geoms with pattern fills
+* {[fillpattern](https://cmmr.github.io/fillpattern/)}: Patterned fills for 'ggplot2' and 'grid' graphics
 * {[ggpop](https://jurjoroa.github.io/ggpop/)}: Icon-Based Population Charts and Plots for 'ggplot2'
 * {[ggshroom](https://github.com/gzahn/ggshroom)}: Supplement to ggimage R package for plotting with mushroom icons
 * {[ggseqlogo](https://omarwagih.github.io/ggseqlogo/)}: Generating publication-ready sequence logos in R using ggseqlogo
