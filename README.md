@@ -6,17 +6,19 @@
   * [Reference](https://ggplot2.tidyverse.org/reference/index.html)
 * [A List of ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
 
-# Persons (Webpage + Mastodon)
+# Persons
 
-* [Hadley Wickham](http://hadley.nz/) ([@hadleywickham](https://fosstodon.org/@hadleywickham))
-* [Kieran Healy](https://kieranhealy.org/) ([@kjhealy](https://mastodon.social/@kjhealy))
-* [Claus Wilke](https://clauswilke.com/)
-* [Thomas Lin Pedersen](https://www.data-imaginist.com/)
-* Winston Chang ([@winston_chang](https://mastodon.social/@winston_chang))
-* [Lionel Henry](https://github.com/lionel-) ([@lionel](https://floss.social/@lionel))
-* [Kara Woo](https://karawoo.com/)
-* [Hiroaki Yutani](https://yutani.rbind.io/)
-* [Dewey Dunnington](https://fishandwhistle.net/)
+| Person | Webpage | Mastodon | Bluesky |
+|---|---|---|---|
+| Hadley Wickham | [hadley.nz](http://hadley.nz/) | [@hadleywickham](https://fosstodon.org/@hadleywickham) | [@hadley.nz](https://bsky.app/profile/hadley.nz) |
+| Kieran Healy | [kieranhealy.org](https://kieranhealy.org/) | [@kjhealy](https://mastodon.social/@kjhealy) | [@kjhealy.co](https://bsky.app/profile/kjhealy.co) |
+| Claus Wilke | [clauswilke.com](https://clauswilke.com/) | — | [@clauswilke.com](https://bsky.app/profile/clauswilke.com) |
+| Thomas Lin Pedersen | [data-imaginist.com](https://www.data-imaginist.com/) | — | [@thomasp85.com](https://bsky.app/profile/thomasp85.com) |
+| Winston Chang | — | [@winston_chang](https://mastodon.social/@winston_chang) | [@winstonchang.bsky.social](https://bsky.app/profile/winstonchang.bsky.social) |
+| Lionel Henry | [github.com/lionel-](https://github.com/lionel-) | [@lionel](https://floss.social/@lionel) | [@lionelhenry.bsky.social](https://bsky.app/profile/lionelhenry.bsky.social) |
+| Kara Woo | [karawoo.com](https://karawoo.com/) | — | [@karawoo.com](https://bsky.app/profile/karawoo.com) |
+| Hiroaki Yutani | [yutani.rbind.io](https://yutani.rbind.io/) | — | [@yutannihilation.bsky.social](https://bsky.app/profile/yutannihilation.bsky.social) |
+| Dewey Dunnington | [fishandwhistle.net](https://fishandwhistle.net/) | — | [@paleolimbot.bsky.social](https://bsky.app/profile/paleolimbot.bsky.social) |
 
 # R packages
 
