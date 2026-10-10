@@ -353,6 +353,7 @@
 * {[ggbreak](https://github.com/YuLab-SMU/ggbreak)}: Set Axis Break for 'ggplot2'
 * {[ggcolormeter](https://github.com/yjunechoe/ggcolormeter)}: A ggplot2 color/fill legend guide extension in the style of a dashboard meter
 * {[GGenemy](https://github.com/andytai7/GGenemy)}: Audit 'ggplot2' Visualizations for Accessibility and Best Practices
+* {[ggextreme](https://choxos.github.io/ggextreme/)}: Bar Chart Races and Interactive Plots for Clinical Research
 * {[ggfigdone](https://wenjie1991.github.io/ggfigdone/)}: Manage ggplot figures using ggfigdone
 * {[ggfocus](https://github.com/Freguglia/ggfocus)}: A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups
 * {[ggforce](https://ggforce.data-imaginist.com/)}: Accelerating ggplot2
