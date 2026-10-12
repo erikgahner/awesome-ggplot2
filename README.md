@@ -248,6 +248,7 @@
 * {[flexoki](https://christophertkenny.com/flexoki/)}: Inky Color Schemes
 * {[tricolore](https://github.com/jschoeley/tricolore)}: A flexible color scale for ternary compositions
 * {[gameofthrones](https://github.com/aljrico/gameofthrones)}: Game of Thrones inspired palette for R
+* {[ggbelarus](https://github.com/hughjonesd/ggbelarus)}: Red and white cross-stitch for ggplot2
 * {[ggCheysson](https://friendly.github.io/ggCheysson/)}: Graphic styles of Emile Cheysson for ggplot2
 * {[ggdc](https://github.com/datacamp/ggdc)}: Datacamp Themes for ggplot2
 * {[ggcharts](https://github.com/thomas-neitmann/ggcharts)}: Get You to Your Desired Plot Faster
