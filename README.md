@@ -66,6 +66,7 @@
 * {[ggchord](https://github.com/DangJem/ggchord)}: Multi-Sequence 'BLAST' Alignment Chord Diagram Visualization Tool
 * {[ggchord2](https://gitlab.com/nrennie/ggchord2)}: Chord diagrams for ‘ggplot2’
 * {[ggcleveland](https://github.com/mpru/ggcleveland)}: Implementation of plots from Cleveland's Visualizing Data book in ggplot2
+* {[ggcolonviz](https://sanofi-public.github.io/ggcolonviz/)}: A 'ggplot2' Extension for Visualizing the Colon
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
 * {[ggcorrplot](https://rpkgs.datanovia.com/ggcorrplot/)}: Visualization of a correlation matrix using ggplot2
 * {[ggcorr](https://briatte.github.io/ggcorr/)}: Correlation matrixes with ggplot2
@@ -104,6 +105,7 @@
 * {[gghourglass](https://pepijn-devries.github.io/gghourglass/)}: Plot Records per Time of Day
 * {[ggideogram](https://github.com/dxsbiocc/ggideogram)}: ggideogram is a ggplot2 extension package for drawing chromosome diagrams
 * {[ggimg](https://github.com/statsmaths/ggimg)}: Graphics Layers for Plotting Image Data with ggplot2
+* {[ggindex](https://github.com/discindo/ggindex)}: Numbered Focus Points for ggplot2 Scatter Plots
 * {[ggkeyboard](https://github.com/sharlagelfand/ggkeyboard)}: Make a keyboard using ggplot2
 * {[ggkodom](https://cran.r-project.org/web/packages/ggkodom/)}: Visualize Individual Longitudinal Trajectories
 * {[gglinedensity](https://hrryt.github.io/gglinedensity/)}: Make DenseLines Heatmaps with 'ggplot2'
@@ -346,6 +348,7 @@
 * {[figpatch](https://bradyajohnston.github.io/figpatch/)}: Easily Arrange Images with Patchwork Alongside ggplot2 Figures
 * {[geofacet](https://hafen.github.io/geofacet/)}: R package for geographical faceting with ggplot2
 * {[ggalign](https://yunuuuu.github.io/ggalign/)}: A 'ggplot2' Extension for Consistent Axis Alignment
+* {[ggaltdata](https://github.com/fniniv/ggaltdata)}: Data-Driven Alternative Text and Data Tables for 'ggplot2' Charts
 * {[gganimate](https://gganimate.com/)}: A Grammar of Animated Graphics
 * {[gganime](https://long39ng.github.io/gganime/)}: Animate 'ggplot2' Plots with 'Anime.js'
 * {[ggannotate](https://github.com/MattCowgill/ggannotate)}: Interactively annotate ggplots
