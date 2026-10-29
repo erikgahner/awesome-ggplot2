@@ -90,6 +90,7 @@
 * {[ggfacto](https://github.com/BriceNocenti/ggfacto)}: Graphs for correspondence analysis
 * {[ggflowchart](https://nrennie.github.io/ggflowchart/)}: R package for producing flowcharts using ggplot2
 * {[ggfootball](http://aymennasri.me/ggfootball/)}: Plotting Expected Goals (xG) Stats with 'Understat' Data
+* {[ggfourfold](https://gavinklorfine.com/ggfourfold/)}: Fourfold Displays for 'ggplot2'
 * {[ggfreehand](https://github.com/dgrtwo/ggfreehand)}: Add freehand circles to ggplot2 graphs
 * {[ggfun](https://github.com/YuLab-SMU/ggfun)}: Miscellaneous Functions for 'ggplot2'
 * {[gggda](https://corybrunson.github.io/gggda/reference/index.html)}: A 'ggplot2' Extension for Geometric Data Analysis
