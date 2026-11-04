@@ -291,6 +291,7 @@
 * {[ggthemr](https://github.com/cttobin/ggthemr)}: Themes for ggplot2
 * {[ggtintshade](https://github.com/wkumler/ggtintshade)}: Tinting and Shading Aesthetics for 'ggplot2'
 * {[ggx](https://github.com/brandmaier/ggx)}: Translate natural language commands into ggplot commands
+* {[glyospalettes](https://bmaitner.github.io/glyospalettes/)}: Color Palettes Inspired by Glyos Colorways
 * {[harrypotter](https://github.com/aljrico/harrypotter)}: Harry Potter inspired palette for R
 * {[hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)}: Opinionated, typographic-centric ggplot2 themes and theme components
 * {[INBOtheme](https://inbo.github.io/INBOtheme)}: Corporate identity theme for the Research Institute for Nature and Forest (INBO)
@@ -313,6 +314,7 @@
 * {[pilot](https://github.com/olihawkins/pilot)}: A minimal ggplot2 theme with an accessible discrete color palette
 * {[peRReo](https://github.com/jbgb13/peRReo)}: R color palettes inspired by reggaeton and latin albums
 * {[poisonfrogs](https://laurenoconnelllab.github.io/poisonfrogs/)}: Color Palettes Inspired by Neotropical Poison Frogs
+* {[PortinariColors](https://rafalopespx.github.io/PortinariColors/)}: Color Palettes Inspired by the Paintings of Candido Portinari
 * {[PrettyCols](https://nrennie.github.io/PrettyCols/)}: R package containing pretty colour palettes.
 * {[rbranding](https://epiforesite.github.io/rbranding/)}: Manage Branding and Accessibility of R Projects
 * {[rcartocolor](https://jakubnowosad.com/rcartocolor/)}: Implementation of the CARTOcolor palettes in R
