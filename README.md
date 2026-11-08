@@ -65,6 +65,7 @@
 * {[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)}: Create Chicklet (Rounded Segmented Column) Charts
 * {[ggchord](https://github.com/DangJem/ggchord)}: Multi-Sequence 'BLAST' Alignment Chord Diagram Visualization Tool
 * {[ggchord2](https://gitlab.com/nrennie/ggchord2)}: Chord diagrams for ‘ggplot2’
+* {[ggcirclize](https://github.com/junjunlab/ggcirclize)}: Creating Circular Graph with the Grammar of GGplot2
 * {[ggcleveland](https://github.com/mpru/ggcleveland)}: Implementation of plots from Cleveland's Visualizing Data book in ggplot2
 * {[ggcolonviz](https://sanofi-public.github.io/ggcolonviz/)}: A 'ggplot2' Extension for Visualizing the Colon
 * {[ggconsort](https://tgerke.github.io/ggconsort/)}: An R package for creating CONSORT diagrams with ggplot
