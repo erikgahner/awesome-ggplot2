@@ -134,6 +134,7 @@
 * {[ggpointgrid](https://github.com/nevrome/ggpointgrid)}: Rearrange scatter plot points on a regular grid
 * {[ggpointless](https://flrd.github.io/ggpointless/)}: A point layer to emphasize some observations
 * {[ggpolar](https://github.com/ShixiangWang/polar)}: Dots and Their Connections in Polar Coordinate System
+* {[ggpyramid](https://matanhakim.github.io/ggpyramid/)}: Population Pyramids with 'ggplot2'
 * {[ggrank](https://thinkdenominator.github.io/ggrank/)}: Visualise Changes in Rankings with 'ggplot2'
 * {[ggrecipes](https://ignophi.github.io/ggrecipes/)}: Recipes for Data Visualization
 * {[ggsankeyfier](https://pepijn-devries.github.io/ggsankeyfier/)}: Create Sankey and Alluvial Diagrams Using ggplot2
